@@ -1,0 +1,56 @@
+{
+  "name": "ai-prompt-management",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ENHE AI prompt management workspace for web and offline desktop use.",
+  "author": "ENHE AI / HU <ENHEAI.life@protonmail.com>",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "generate:prompts": "tsx scripts/import-legacy-prompts.ts",
+    "test": "vitest run",
+    "build": "tsc -b && vite build",
+    "desktop:dev": "npm run build && electron .",
+    "desktop:pack": "npm run build && electron-builder --win portable --x64",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "main": "electron/main.cjs",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@electron/asar": "^4.1.0",
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "electron": "^39.2.7",
+    "electron-builder": "^26.0.12",
+    "oxlint": "^1.71.0",
+    "tsx": "^4.21.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1",
+    "vitest": "^4.0.16"
+  },
+  "build": {
+    "appId": "cn.enhe.ai-prompt-management",
+    "productName": "ENHE AI提示词管理系统",
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "public/enhe-logo.png",
+      "README.md"
+    ],
+    "directories": {
+      "buildResources": "build",
+      "output": "release"
+    },
+    "win": {
+      "icon": "build/enhe-logo.ico",
+      "target": "portable",
+      "artifactName": "ENHE-AI提示词管理系统-${version}-${arch}.${ext}"
+    }
+  }
+}
