@@ -93,7 +93,7 @@ function App() {
     <main className="app-shell">
       <aside className="side-panel">
         <div className="brand-lockup">
-          <img src="/enhe-logo.png" alt="ENHE AI" />
+          <img src={`${import.meta.env.BASE_URL}enhe-logo.png`} alt="ENHE AI" />
           <div>
             <p>ENHE AI</p>
             <h1>{t.product}</h1>
