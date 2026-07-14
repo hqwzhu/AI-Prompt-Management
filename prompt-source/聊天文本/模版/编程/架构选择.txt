@@ -1,0 +1,6 @@
+PyQt5{::::}
+Kivy{::::}
+Tkinter{::::}
+Wax{::::}
+Libavg{::::}
+PySimpleGUI{::::}

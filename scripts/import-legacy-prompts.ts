@@ -4,8 +4,7 @@ import { TextDecoder } from "node:util";
 import { parseLegacyPromptFile } from "../src/lib/prompt-utils";
 import type { PromptEntry } from "../src/types";
 
-const defaultSourceRoot =
-  "E:\\AiProject\\【软件】ai提示词秘籍软件优化3.8\\unpacked\\AI提示词\\聊天文本";
+const defaultSourceRoot = join(process.cwd(), "prompt-source", "聊天文本");
 const sourceRoot = process.env.LEGACY_PROMPT_SOURCE || defaultSourceRoot;
 const supportedExtensions = new Set([".txt", ".csv", ".csw"]);
 

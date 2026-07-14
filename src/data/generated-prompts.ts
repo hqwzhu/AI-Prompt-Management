@@ -2686,5 +2686,5 @@ export const promptCategories = [
 export const promptLibraryStats = {
   "total": 205,
   "categories": 12,
-  "generatedAt": "2026-07-14T16:44:27.845Z"
+  "generatedAt": "2026-07-14T23:27:46.076Z"
 } as const;

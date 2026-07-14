@@ -55,13 +55,13 @@ npm run desktop:pack
 
 ## 提示词数据导入
 
-默认导入路径：
+默认导入目录位于当前项目内：
 
 ```text
-E:\AiProject\【软件】ai提示词秘籍软件优化3.8\unpacked\AI提示词\聊天文本
+E:\AiProject\AI-Prompt-Management\prompt-source\聊天文本
 ```
 
-也可以通过环境变量指定：
+仓库内相对路径为 `prompt-source\聊天文本`，项目不再依赖旧软件目录。也可以通过环境变量指定其他来源：
 
 ```bash
 set LEGACY_PROMPT_SOURCE=D:\your\prompt\source
@@ -107,6 +107,16 @@ Creator: ENHE AI / HU
 - One-click prompt copy.
 - Favorite prompts.
 - Electron desktop entry.
+
+## Prompt Source
+
+The default source is stored inside this repository:
+
+```text
+prompt-source/聊天文本
+```
+
+Set `LEGACY_PROMPT_SOURCE` only when you intentionally want to import another prompt library.
 
 ## Validation
 
