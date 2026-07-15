@@ -2,11 +2,16 @@ import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { extname, join, relative } from "node:path";
 import { TextDecoder } from "node:util";
 import { parseLegacyPromptFile } from "../src/lib/prompt-utils";
-import type { PromptEntry } from "../src/types";
+import type { PromptEntry, PromptTranslation } from "../src/types";
 
 const defaultSourceRoot = join(process.cwd(), "prompt-source", "聊天文本");
 const sourceRoot = process.env.LEGACY_PROMPT_SOURCE || defaultSourceRoot;
+const translationPath = join(process.cwd(), "prompt-source", "translations", "en.json");
 const supportedExtensions = new Set([".txt", ".csv", ".csw"]);
+const englishTranslations = JSON.parse(readFileSync(translationPath, "utf8")) as Record<
+  string,
+  PromptTranslation
+>;
 
 function walkFiles(root: string): string[] {
   return readdirSync(root, { withFileTypes: true }).flatMap((entry) => {
@@ -60,7 +65,7 @@ function writeGeneratedFiles(entries: PromptEntry[]) {
   writeFileSync(join(publicDir, "prompts.json"), JSON.stringify({ stats, categories, entries }, null, 2), "utf8");
 }
 
-const entries = withUniqueIds(
+const parsedEntries = withUniqueIds(
   walkFiles(sourceRoot)
     .map((fullPath) => {
       const relativePath = relative(sourceRoot, fullPath).replace(/\\/g, "/");
@@ -71,6 +76,20 @@ const entries = withUniqueIds(
     })
     .filter((entry) => entry.prompt.length > 8),
 );
+
+const missingTranslations = parsedEntries.filter((entry) => !englishTranslations[entry.id]);
+if (missingTranslations.length) {
+  throw new Error(
+    `Missing English translations for: ${missingTranslations.map((entry) => entry.id).join(", ")}`,
+  );
+}
+
+const entries = parsedEntries.map((entry) => ({
+  ...entry,
+  translations: {
+    en: englishTranslations[entry.id],
+  },
+}));
 
 writeGeneratedFiles(entries);
 

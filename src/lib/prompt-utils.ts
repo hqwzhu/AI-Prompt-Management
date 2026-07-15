@@ -1,4 +1,4 @@
-import type { PromptEntry, PromptSearchInput } from "../types";
+import type { PromptEntry, PromptLocale, PromptSearchInput } from "../types";
 
 const legacySeparators = ["::=::", "{::}", "{::::}"];
 
@@ -29,21 +29,46 @@ export function deriveCategoryFromPath(relativePath: string) {
   return "通用";
 }
 
-export function buildPromptCopyText(entry: PromptEntry, userContext: string) {
+export function localizePromptEntry(entry: PromptEntry, locale: PromptLocale) {
+  const translation = locale === "en" ? entry.translations?.en : undefined;
+  if (!translation) return entry;
+
+  return {
+    ...entry,
+    ...translation,
+  };
+}
+
+export function getPromptCategoryLabel(entries: PromptEntry[], category: string, locale: PromptLocale) {
+  if (locale === "zh") return category;
+  return entries.find((entry) => entry.category === category)?.translations?.en?.category ?? category;
+}
+
+export function buildPromptCopyText(entry: PromptEntry, userContext: string, locale: PromptLocale = "zh") {
+  const localizedEntry = localizePromptEntry(entry, locale);
   const context = normalizeText(userContext);
+  const labels =
+    locale === "en"
+      ? { category: "Category", purpose: "Purpose", context: "Additional context" }
+      : { category: "分类", purpose: "用途", context: "补充需求" };
+
   return [
-    `# ${entry.title}`,
-    `分类：${entry.category}`,
-    entry.summary ? `用途：${entry.summary}` : "",
-    context ? `补充需求：${context}` : "",
+    `# ${localizedEntry.title}`,
+    `${labels.category}: ${localizedEntry.category}`,
+    localizedEntry.summary ? `${labels.purpose}: ${localizedEntry.summary}` : "",
+    context ? `${labels.context}: ${context}` : "",
     "",
-    entry.prompt,
+    localizedEntry.prompt,
   ]
     .filter(Boolean)
     .join("\n");
 }
 
-export function searchPromptEntries(entries: PromptEntry[], input: PromptSearchInput) {
+export function searchPromptEntries(
+  entries: PromptEntry[],
+  input: PromptSearchInput,
+  locale: PromptLocale = "zh",
+) {
   const query = normalizeText(input.query).toLowerCase();
   const category = input.category;
 
@@ -52,7 +77,14 @@ export function searchPromptEntries(entries: PromptEntry[], input: PromptSearchI
     if (!categoryMatched) return false;
     if (!query) return true;
 
-    const haystack = [entry.title, entry.category, entry.summary, entry.prompt, entry.tags.join(" ")]
+    const localizedEntry = localizePromptEntry(entry, locale);
+    const haystack = [
+      localizedEntry.title,
+      localizedEntry.category,
+      localizedEntry.summary,
+      localizedEntry.prompt,
+      localizedEntry.tags.join(" "),
+    ]
       .join(" ")
       .toLowerCase();
     return haystack.includes(query);

@@ -44,6 +44,32 @@ describe("prompt utilities", () => {
     expect(buildPromptCopyText(entries[0], "")).not.toContain("补充需求");
   });
 
+  it("searches and copies the localized English prompt content", () => {
+    const localizedEntry = {
+      ...entries[0],
+      translations: {
+        en: {
+          title: "Product Copy Framework",
+          category: "Marketing Copy",
+          summary: "Turn product features into clear reasons to buy.",
+          prompt: "Write conversion-focused product copy.",
+          sourcePath: "Prompt Library/Marketing Copy/Product Copy Framework",
+          tags: ["product", "copy", "conversion"],
+        },
+      },
+    } as PromptEntry;
+
+    expect(searchPromptEntries([localizedEntry], { query: "reasons to buy", category: "全部" }, "en")).toEqual([
+      localizedEntry,
+    ]);
+
+    const copied = buildPromptCopyText(localizedEntry, "For a product page", "en");
+    expect(copied).toContain("# Product Copy Framework");
+    expect(copied).toContain("Category: Marketing Copy");
+    expect(copied).toContain("Additional context: For a product page");
+    expect(copied).not.toContain("分类：");
+  });
+
   it("derives useful categories from legacy paths", () => {
     expect(deriveCategoryFromPath("聊天文本/生成/写作/产品文案.csv")).toBe("写作");
     expect(deriveCategoryFromPath("聊天文本/模版/图片/图片风格.txt")).toBe("图片");

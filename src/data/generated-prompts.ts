@@ -12,7 +12,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "作文文体"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Composition style",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Composition style.txt",
+        "summary": "diary",
+        "prompt": "diary\nletters\nNotification\nreport\nSummary\nplan\nApply\ninitiative\nprose\npoetry\nnovel\ndrama\nBiography\nAutobiography\nTravel notes\nfable\nfairy tale\nmyth\nlegend\nstory\nEssays\nEssay\nCommunication\nClose-up\nExclusive interview\nComment\nMemoirs\nessay\nNarrative\nexpository text\nargumentative essay\nlyrical essay\nThoughts after reading\nSpeech\nthank you letter\nletter of commendation\nletter of criticism\nProposal\ndebate essay\nEssay\nPractical writing\nPractical text\nScientific and technological articles\npress release\nThoughts after viewing\nFeelings after listening\nacademic papers\ninvestigation report\nmaterial composition\nTopic composition",
+        "tags": [
+          "Writing",
+          "Composition style"
+        ]
+      }
+    }
   },
   {
     "id": "写作-修辞手法",
@@ -25,7 +38,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "修辞手法"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "rhetorical devices",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/rhetorical devices.txt",
+        "summary": "Metaphor",
+        "prompt": "Metaphor\npun\ncompare\nBorrowing\ncopy\nExaggeration\nMove\ncall out\nshow\nsymbol\nAsk\nrhetorical question\nRepeat\nQuote\nirony\nsynaesthesia\nDuality\nRanking\nTrue\npalindrome\nAnalyze characters\nmosaic\nlayered delivery\nContrast\nset off\nFlip\nimitate\nintertextuality\nLianlian\nDiscord\nConfrontation\nhomophonic\ngraceful\nAllusions\nDuplicate words\nRetrenchment\nOmit\nTransferred goods\nmutuality\nList of Brocades\nrise\nallegory\nCopy\nImitation words\nAfter the break\nTibetan words\nShow surname\nTongue around\nWeird\nSame word\nheteroglossia\nSynonyms\nReplacement\nTelescopic\nConversion\nFine",
+        "tags": [
+          "Writing",
+          "rhetorical devices"
+        ]
+      }
+    }
   },
   {
     "id": "写作-内容侧重",
@@ -38,7 +64,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "内容侧重"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Content focus",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Content focus.txt",
+        "summary": "work results",
+        "prompt": "work results\nIssues and Challenges\nsolution\nLessons learned\nfuture plans\nProject background\nResearch objectives\nmethodology\ndata collection\nAnalyze results\nKey findings\nConclusion\nRecommended actions\nResource allocation\ntimeline\nrisk assessment\nstakeholders\nSuccess Metrics\nTeamwork\nTechnical implementation\nfinancial budget\nmarket analysis\ncompetitors\nUser feedback\nPerformance evaluation\nOptimization plan\nInnovation point\nlimitations\nhypothesis\nDependencies\ncommunication plan\ntraining needs\nQuality control\nCompliance\nSummary reflection",
+        "tags": [
+          "Writing",
+          "Content focus"
+        ]
+      }
+    }
   },
   {
     "id": "写作-写作字数",
@@ -51,7 +90,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "写作字数"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Number of words written",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Number of words written.txt",
+        "summary": "200 words",
+        "prompt": "200 words\n300 words\n500 words\n800 words\n1200 words\n1500 words\n2000 words\n3000 words\n4000 words\n5000 words\n6000 words\n8000 words\n10,000 words\n12,000 words\n15,000 words\n20,000 words\n50,000 words",
+        "tags": [
+          "Writing",
+          "Number of words written"
+        ]
+      }
+    }
   },
   {
     "id": "写作-学段",
@@ -64,7 +116,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "学段"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "academic stage",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/academic stage.txt",
+        "summary": "primary school student",
+        "prompt": "primary school student\njunior high school students\nhigh school student\ntechnical secondary school students\nVocational high school students\ntechnical school student\nCollege students\nVocational students\nBachelor's degree student\nUndergraduate\nMaster's student\nPhD student\nPostdoctoral fellow\nCorrespondence students",
+        "tags": [
+          "Writing",
+          "academic stage"
+        ]
+      }
+    }
   },
   {
     "id": "写作-学科专业",
@@ -77,7 +142,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "学科专业"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Subject major",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Subject major.txt",
+        "summary": "Any major",
+        "prompt": "Any major\nphilosophy\nEconomics\njurisprudence\npedagogy\nliterature\nHistory\nNeo-Confucianism\nEngineering\nAgricultural science\nMedicine\nManagement\nArt\ncomputer science\nMechanical Engineering\nelectrical engineering\nchemical engineering\ncivil engineering\nbiological sciences\nChemistry\nPhysics\nMathematics\nPsychology\nSociology\npolitical science\ninternational relations\nLinguistics\nJournalism\nCommunication\nAccounting\nFinance\nMarketing\nhuman resources management\nenvironmental science\nGeology\nastronomy\nNursing\nPharmacy\nHorticulture\nanimal science\nMusicology\nFine Arts\nAerospace Engineering",
+        "tags": [
+          "Writing",
+          "Subject major"
+        ]
+      }
+    }
   },
   {
     "id": "写作-情绪倾向",
@@ -90,7 +168,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "情绪倾向"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "emotional tendencies",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/emotional tendencies.txt",
+        "summary": "pessimistic",
+        "prompt": "pessimistic\noptimistic\nobjectivity\ncritical\nAngry condemnation\ndoubt doubt\nPositive and optimistic\nindifferent\nEnthusiastic\ncompassionate care\nNegative and pessimistic\nserious and formal\nhumorous\nNeutral and objective\nPositive energy motivation",
+        "tags": [
+          "Writing",
+          "emotional tendencies"
+        ]
+      }
+    }
   },
   {
     "id": "写作-语气",
@@ -103,7 +194,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "语气"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Tone",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Tone.txt",
+        "summary": "formal",
+        "prompt": "formal\nProfessional\nhumor\nEnthusiasm\ncordial\nconcise\npoetic\nLively\ncalm\nsharp\nprofound\nSensational\nPlayful\ndetached\nprovocation\nZen\nchildish\nSuspense\nAlienation\ncompassion\nbanter\nGorgeous\nmysterious\nauthority\ninflammatory\ncolloquial\npersuasiveness\npragmatic and simple",
+        "tags": [
+          "Writing",
+          "Tone"
+        ]
+      }
+    }
   },
   {
     "id": "写作-风格",
@@ -116,7 +220,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "style",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/style.txt",
+        "summary": "honey body",
+        "prompt": "honey body\nZhiyin style\nWeibo body\nParallel body\nred building style\nroaring body\nZhihuti\nLu Xun style\nZhen Huan body\nQiong Yao body\ntranslation accent\ncubea\nXiaohong calligraphy\nnonsense literature\npretentious literature\nWong Kar Wai Sports\nMarketing account\nGuo Jingming style\nMentally retarded body\nveteran cadre body\nProgrammer body\nCrazy literature\nrat literature\nSystematic writing style\nThree and a half sentences\nDescription body\nBreak up the body violently\nVersailles Literature\nApproaching the scientific body\nofficial reporting body\nnews network\nDouban Diary\ngentle healing body\nTwilight gas\nHumble Cuboid\nMarketing genius body\nDog Licking Diary\nNonsense continuum\nacademic slang\nLeadership speech style\nEsports commentator\nUC shocked the body\nAncient style lyrics\nearthy love story\nLife coaching system\nAnti-collision statement body\nKuaishou/Laotieti\nScript kills character body\nTalk show/joke style\nHumble A/B Cube\nLemon Essence/Bar Essence\nyouth pain literature\nTwo-dimensional/Otaku culture",
+        "tags": [
+          "Writing",
+          "style"
+        ]
+      }
+    }
   },
   {
     "id": "图片-动态效果",
@@ -129,7 +246,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "动态效果"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Dynamic effects",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Dynamic effects.txt",
+        "summary": "cherry blossoms flying",
+        "prompt": "cherry blossoms flying\nMaple leaves flying\ndrizzle\nstormy weather\nsnowflakes fluttering\nhail falling\nthunder and lightning\nfoggy\nfrost crystallization\nDewdrops twinkling\nrainbow across the sky\nBeautiful sunset\nWaves crashing on the shore\nripple spread\nwaterfall flying\nfountain gushes\nwater whirlpool\nflames rising\nsparks flying\nfireworks bright\nStarlight\nmeteor shower falling\nAurora changes\nsunrise over sea of clouds\nLunar eclipse process\nstar orbit rotation\npetals falling\nleaves swaying\nvegetation growth\nflowers bloom\nFruit falls\nseed dispersal\nButterflies flying\nBees collecting pollen\nA little bit of water\nAnts transport food\nspider prey\nBirds playing\nfish chase\nbeast hunting\ninsect metamorphosis\nDandelions flying\nAutumn leaves are flying\nSpring buds break ground\nSummer cicada flutters its wings\nWinter ice melts\nCatkins blown by the wind\nClouds cover and fog surrounds\nRain hits banana\nSnow on green pines\nLightning strikes the sky\nFlames bursting into the sky\nGlittering water\nMountain mist\nmirage\nSunlight penetrates\nmoonlight falling\nStarlight scattering\nDim lights\ncity light and shadow\ntraffic flow\ncrowd surge\nAurora swaying\nDust rises\nebb and flow of tides\nlava flow\nflag waving\nskirt fluttering\nHair flying\nEyes turning\nInk smudge\npaint flow\nPixel surge\ndata flow\nholographic projection\nneon flashing\nLaser scanning\nCurrent surge\ngear turning\nPiston motion\nConveyor belt operation\nElevator lift\nDoor opening and closing\nWings spread\nscreen scrolling\npage flip\nBarrage drifted by\nLikes are pouring in\ngold coins spilled\nFireworks exploded\nColorful ribbons flying\nballoon rising\nhourglass quicksand\nbubbles rising\nCurtains flutter\nturning pages of book\nCandlelight flickering\nsteam rising\nGreen smoke curls up\ndust floating\nmagnetic levitation\nHolographic expansion\nMosaic reorganization\nPixel collapse\nglitch art\nscan line sweep\nradar scan\nsound wave diffusion\nFingerprint recognition\ntouch ripples\nButton feedback\nNotification pop-up\nWindow switching\nImage carousel\nProgress bar loading\nCursor flashes\nLink highlighting\nemoticon bubbling\nAvatar flashes\nstatus update\nFile upload\nDownload completed\nPaper airplane gliding\nkite flying\nwindmill spinning\nWater wheel turns\npendulum swings\nBearing rotation\nSlide rail movement\nRolling shutter door raised\ncurtains open\nDrawer opening and closing\nkaleidoscope changes\ncrystal ball scene\nsnow globe shake\nfilm screening\nold tv switch\nTime and space tunnel\nWormhole travel\nspace distortion\nPlanet surrounds\ncell division",
+        "tags": [
+          "Images",
+          "Dynamic effects"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片人像",
@@ -142,7 +272,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片人像"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Picture portrait",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Picture portrait.txt",
+        "summary": "little girl",
+        "prompt": "little girl\nGirls\nsense of oxygen\nchin support\nClean and artistic man\nurban white-collar workers\nblonde curly hair\nBig wavy hairstyle\nwear glasses\nHandsome guy\nwhite top",
+        "tags": [
+          "Images",
+          "Picture portrait"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片光影",
@@ -155,7 +298,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片光影"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Picture light and shadow",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Picture light and shadow.txt",
+        "summary": "hard light",
+        "prompt": "hard light\nsoft light\nside light\nBacklight\ndiffuse light\nstudio lighting\nnatural light\nspotlight\nTyndall effect",
+        "tags": [
+          "Images",
+          "Picture light and shadow"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片比例",
@@ -168,7 +324,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片比例"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Image ratio",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Image ratio.txt",
+        "summary": "16:9",
+        "prompt": "16:9\n4:3\n1:1\n3:4\n9:16",
+        "tags": [
+          "Images",
+          "Image ratio"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片滤镜",
@@ -181,7 +350,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片滤镜"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Picture filters",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Picture filters.txt",
+        "summary": "sharpen",
+        "prompt": "sharpen\nblurry\nfrosted glass effect\nNoise\nGrayscale\nblack and white\nnostalgia\nRetro\nhigh contrast\nNegative\nSketch\nrelief\nmosaic\nVignette\nPosterization\nedge detection\ncolor enhancement\nwarm and cool tones\nmotion blur\nRadial blur\nLens is blurry\nGaussian blur\nBlurred box\nSurface blur\nSmart blur\ndistortion effect\nripple effect\nspherical effect\nrotation twist\nPolar coordinate effect\nweathering effect\nfilm grain\nglow effect\nshadow effect\nHighlight effect\nHDR effect\nmacro effect\nDepth of field effect\nbokeh effect\ncartoon effect\noil painting effect\nwatercolor effect\npencil drawing effect\nchalk paint effect\nwoodcut effect\nPointillism\npixelation effect\nrainbow effect\nmirror effect\nreflection effect\nsymmetry effect\nsplicing effect\ngradient map\nthreshold effect\nColor removal effect\nreverse effect\nTonal homogenization\ncolor lookup\nChannel mix\ncolor balance\ncolor separation\nDuotone effect\nthree tone effect\nFour tone effect\nSoft light effect\nStrong light effect\nOverlay effect\ndifference effect\nexclusion effect\nhue effect\nSaturation effect\nbrightness effect\ncontrast effect\nExposure effect\nVibrance\ncolor gradient\nhalo effect\nlens flare\nstarlight effect\nraindrop effect\nsnowflake effect\nflame effect\nexplosion effect\nCloud effect\nthunder effect\nmagic effect\nFantasy effect\nsci-fi effect\nvintage film\npolaroid effect\nLOMO effect\nTilt-shift effect\nfish eye effect\nwide angle effect\npanoramic effect\n3D effect\n3D effect\nholographic effect\nneon effect\ncyberpunk\nVaporwave effect\nglitch art\nGrain effect\nscratch effect\ndust effect\nlight leak effect\nfaded effect\nVignette effect\nUnsharp mask\nSmart sharpening\nDetail enhancement\ntexture effect\npattern effect\nBokeh\nOutstanding prospects\nmotion blur\nTrack effect\nDelay effect\nslow door effect\nexplosion blur\nrotation blur\nzoom blur\nBlurred direction\nwind blowing effect\nwave effect\nripple effect\nocean ripples\nglass brick effect\ncrystallization effect\nfragmentation effect\nmosaic collage\ncolor halftone\nDotted effect\ncopper plate engraving\nnote paper effect\nStamp effect\nbasal protrusion\nplastic effect\nNeon lights\nsmear effect\nfinger painting\nsponge effect\nrough crayon\ndry brush effect\npainting smear\nfilm grain\npalette knife effect\nposter edge\nwoodcut effect\nwatercolor effect\noil painting effect\nSketch effect\nPhotocopy effect\nplaster effect\nmesh effect\nchrome yellow gradient\nstucco effect\nstained glass\ndark tone effect\noverexposed\nFind edges\nContour line effect\nstylized effect\npixel art\n8-bit effects\n16-bit effects\nHDR tone\nmonochrome effect\nTwo-color effect\nmulticolor effect\ngradient effect",
+        "tags": [
+          "Images",
+          "Picture filters"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片背景",
@@ -194,7 +376,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片背景"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Picture background",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Picture background.txt",
+        "summary": "futuristic city",
+        "prompt": "futuristic city\ncozy bedroom\nancient city wall\nJapanese Machiya Street\nKorean drama alley\ncandlelit interior\nSunlight through curtains room\nmisty forest\nSnow mountain peak\ntropical beach\ndeep starry sky\nAutumn leaves falling in park\nmodern art gallery\ncafe corner\nlibrary bookshelf\nStreets in the rain\nCherry blossom garden\ndesert sunset\nNorthern lights night sky\nBusy train station\nquiet lake\nNeon night market\nancient castle\nsci-fi control room\nPastoral scenery\nunderwater world\nabove the cloud\nMaple Leaf Trail\nindustrial style warehouse\nwedding chapel\nbasketball court\nconcert stage\nCity skyline at dusk\nmorning mist mountains\nabstract geometric pattern\nRetro car street\nMagic school hall\ntropical rainforest\nglacier canyon\nfireworks display\noffice cubicle\ncountry cabin\namusement park ferris wheel\nunderwater coral reef\nCalligraphy practice room\nMecha battlefield\nBamboo forest path\nvolcanic eruption\nfuture farm\nTent under the stars\nChinese style elements",
+        "tags": [
+          "Images",
+          "Picture background"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片色调",
@@ -207,7 +402,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片色调"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Picture tone",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Picture tone.txt",
+        "summary": "Warm colors",
+        "prompt": "Warm colors\ncool colors\nHighly saturated tones\nlow saturation tone\nmonotone\npastel colors\nMorandi shades\ngradient color",
+        "tags": [
+          "Images",
+          "Picture tone"
+        ]
+      }
+    }
   },
   {
     "id": "图片-图片风格",
@@ -220,7 +428,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "图片风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Picture style",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/Picture style.txt",
+        "summary": "movie photo",
+        "prompt": "movie photo\nportrait photography\ncartoon\nancient style\nillustration\nHayao Miyazaki\ncyberpunk\nvintage film\nMonet paintings\nvan gogh style\nscenery\nwatercolor painting\noil painting\nSketch\nblack and white photography\nabstract art\nminimalism\nSurrealism\nImpressionism\nExpressionism\npop art\nstreet photography\nmacro photography\nnight scene photography\narchitectural photography\nfood photography\nfashion photography\nconcept art\ndigital painting\npixel art\nImpressionism\nrealism\nabstract expressionism\nSurrealism\npop art\nminimalism\nBaroque\nRenaissance\ngothic\nRomanticism\nneoclassicism\ncubism\nfuturistic\nDadaism\nConstructivism\ndecorative arts\nFauvism\nPointillism\nExpressionism\nsymbolism\nPre-Raphaelite\nDutch Golden Age Painting\nUkiyo-e\nChinese ink painting\noil painting\nwatercolor painting\nSketch\nprintmaking\ndigital painting\npixel art\nvector art\nlow polygon\nsteampunk\ndieselpunk\nbiopunk\natompunk\ncyborg\nscience fiction realism\nfantasy art\nfairy tale style\ncartoon style\ncomic style\nanimation style\ndisney style\nXin Haicheng style\nEuropean comic style\nAmerican comic style\nJapanese anime style\nKorean illustration style\nHong Kong illustration style\nChinese style\nJapanese style\nNordic style\nretro style\nretrofuturism\nglitch art\nLightism\nRealistic photography\nportrait photography\nlandscape photography\nstreet photography\ndocumentary photography\nconcept art\nillustration style\ngraffiti art\ncollage art\nphotographic realism\ndynamic art\noptical art\nenvironmental art\nland art",
+        "tags": [
+          "Images",
+          "Picture style"
+        ]
+      }
+    }
   },
   {
     "id": "图片-摄影镜头",
@@ -233,7 +454,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "摄影镜头"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "photographic lens",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/photographic lens.txt",
+        "summary": "Symmetrical composition",
+        "prompt": "Symmetrical composition\nThree-point line composition\nDiagonal composition\nWell-organized\ntake advantage of prospects\nclose shot\nsuper wide angle\noverhead shot\nBokeh\ndepth of field\nPanoramic shooting\nfilm camera",
+        "tags": [
+          "Images",
+          "photographic lens"
+        ]
+      }
+    }
   },
   {
     "id": "小说-ip标签",
@@ -246,7 +480,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "IP标签"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "IP tag",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/IP tag.txt",
+        "summary": "shaped moon",
+        "prompt": "shaped moon\nCollapse\nShip girl\nNaruto\nGenshin Impact\nMagical Forbidden\nspecial photo\nWarhammer\nDeath\nWarcraft\ndragon clan\nMing Chao\nultraman\nI spring things\nJockey girl\nfantasyland\nYu-Gi-Oh!\nOne Piece\nPokémon\nRE0\nEVA\nabsolute zero\nSakurasou\ndragon maid\nthe end\nchainsaw man\nfate\nArknights\nStar Dome Railway\nPasserby heroine\nkamen rider\nlonely rock\none punch man\nwhite photo album\nharry potter\nmonster hunter\nInvincible hero\nArmored Warrior\nunder one person\nThe bright moon of Qin Dynasty\nmygo\nInvincible Young Hero\nDate A Live\nElden's Circle\nFox Demon Matchmaker\nBen10",
+        "tags": [
+          "Fiction",
+          "IP tag"
+        ]
+      }
+    }
   },
   {
     "id": "小说-书名风格",
@@ -259,7 +506,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "书名风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "book title style",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/book title style.txt",
+        "summary": "science fiction",
+        "prompt": "science fiction\nfantasy\nRomance\nmartial arts\nhistory\nmilitary\nhorror\nreasoning\ncity\ncampus\nworkplace\ntime travel\nrebirth\nsystem\nunlimited\nDanmei\nLily\npassionate\ncure\ndarkness\nsuspense\nlight novel\nThriller style\nLiterary style\nRetro tone\nmodern sense\nfuturistic\nFantasy\nRomance\nMartial arts love\nhistorical perspective\nmilitary fan\nhorror house\nmystery drama\nurban feeling\nLiterary and fresh\nStraightforward impact\nPopular Internet articles\nClassical elegance\nmodern fashion\nromantic and aesthetic\nrealistic criticism\nThrilling\ntenderness\nPassionate\nDeep and reserved\nLively and relaxed\nsolemn\nhumorous\nmeaningful",
+        "tags": [
+          "Fiction",
+          "book title style"
+        ]
+      }
+    }
   },
   {
     "id": "小说-写作风格",
@@ -272,7 +532,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "写作风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "writing style",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/writing style.txt",
+        "summary": "Immersive",
+        "prompt": "Immersive\nhumorous\nPoetic and beautiful\nThrilling\nMystery and suspense\nWarmth and healing",
+        "tags": [
+          "Fiction",
+          "writing style"
+        ]
+      }
+    }
   },
   {
     "id": "小说-女频分类",
@@ -285,7 +558,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "女频分类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Female channel classification",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Female channel classification.txt",
+        "summary": "ancient love",
+        "prompt": "ancient love\nFight between palace and house\nDoing business and farming\nClassical overhead\nFemale Dynasty\ntime travel\nWestern time and space\nQing Dynasty and Republic of China\nAncient wilderness\nHot-blooded Jianghu\nMartial Arts Love\nClassical Xianxia\nmodern cultivation\nAncient times\nRomance\nBusiness wars in the workplace\nRich family\nurban life\nMarriage and love\nentertainment star\nUrban superpower\nJidaojianghu\nLove in the Republic of China\nexotic romance\nyouth campus\nyouth pain\nRebellious growth\nyouth pure love\nOriental fantasy\nAnother world continent\nwestern fantasy\nancient myths\ninterracial romance\nmagic fantasy\nsuper powers\nmystery detective\nMysterious and thrilling\nsuspense adventure\nWonderful world\nmysterious culture\nRomance\nshort story\nInterstellar Love Song\ntime travel\nfuture world\nAncient martial arts mecha\nSuper technology\nevolutionary variation\napocalyptic crisis\neSports\nOnline game love\nGame alien world\nSports competition\nFan derivatives\naesthetic fantasy\nCute transformation\nDaily love\nFunny comments\nClassical derivation\nFilm and television derivatives\nAnimation derivatives\nOther derivatives\nHome and emotions\nIndustry life\nExplore science fiction\nHumanities Expo",
+        "tags": [
+          "Fiction",
+          "Female channel classification"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说主题",
@@ -298,7 +584,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说主题"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "novel theme",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/novel theme.txt",
+        "summary": "sports",
+        "prompt": "sports\nhistory\nancient times\nfantasy\noverhead\nopening\nSuspense\nmartial arts\nderived\npure love\nComprehensive comics\ncareer\nnatural disaster\nspy war\nQing Dynasty\nSong Dynasty\nfault\ngeneral\nnational destiny\nDote alone\ncity\nCthulhu\nVariety Film and Television\nfirst person\nOriental fantasy\nUrban superpower\nGaowu world\nancient romance\nWeird stories about rules\nRich family\nfantasy romance\nDeep sadomasochism\nSurvive the doomsday\nAnother world continent\nTraveling through another world\nLove grows over time\ncyberpunk\nThe fourth plague\nmodern romance\nworkplace business war\nfantasy fairy tale\nResurrection\nThe ancient saying of Machiavellian tactics\nsuspense love",
+        "tags": [
+          "Fiction",
+          "novel theme"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说分类",
@@ -311,7 +610,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说分类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Novel classification",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Novel classification.txt",
+        "summary": "science fiction",
+        "prompt": "science fiction\nfantasy novel\nromance novel\nurban novel\nFairy novels\nhistorical fiction\nmartial arts novels\nnon-fiction\nfantasy novel",
+        "tags": [
+          "Fiction",
+          "Novel classification"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说情节",
@@ -324,7 +636,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说情节"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "novel plot",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/novel plot.txt",
+        "summary": "era",
+        "prompt": "era\nfarming\nWear quickly\nchasing husband\ncards\nfetal wear\nghost hunting\nsword repair\nwasteland\nBeloved husband\ncopy\nSoul penetration\ndarken\nraising cubs\nDihua\ndevelop\nfavor each other\nStruggle for hegemony\nimperial examination\nNext year\nlove and marriage\napotheosis\neSports\nShuangjie\ncountryside\nEscape\nDoujin\nslap in the face\nSolve the case\nfishing\nHE\nsecret love\nEscape from marriage\nstrong\nHidden marriage\nflash marriage\ngroup wear\nprotect shortcomings\nAbuse\nvest\nmedical skills\nonline games\nSurvive\nInvincible\nRepublic of China\nUncle Jiu\nwear books\nDaqin\ndragon ball\nMarvel\npirate\nNaruto\nworkplace\nMing Dynasty\nfamily\nThree Kingdoms\nthe end of the world\nLive broadcast\nbeast world\nDatang\npet\nTakeaway\nclear through\nInterstellar\nFood\nKendo\nTomb robbing\nAbuse\nsweet pet\nSupernatural\ncampus\nAppreciating treasures\nsystem\nShenhao\nrebirth\ntime travel\nisland\nspace\nreasoning\nprehistoric times\n1v1\nTwo dimensions\nentertainment circle\nTwo male protagonists\nTwo heroines\nClassic of Mountains and Seas\nBlack technology\nNo brainer\nage difference\nNo harem\nUpgrade flow\nSiheyuan\ndouble life\nStock up on supplies\nRun with the ball\nToday and through the past\nAncient and modern\nchat group\nUnlimited streaming\nFemale channel suspense\nwestern fantasy\nOriental Xianxia\nAncient customs\nSci-fi apocalypse\nDerivatives of male videos\nDerivatives of female videos\nRomance of the Republic of China\nUrban Gaowu\nSuspense and supernatural\nsuspenseful imagination\nAnti-Japanese War Spy War\nYouth sweet pet\nAncient sayings and ideas\nhistory ancient\nHistorical imagination\nCurrent thinking\nurban farming\nUrban imagination\nurban daily life\nfantasy imagination\nfantasy romance\nPalace fight and house fight\nRich CEO\nSon-in-law of the God of War\nAnimation derivatives\nshining stars\nGames Sports\nWorkplace Marriage and Love\ntraditional fantasy\nurban cultivation\nMarriage on behalf of others\nDefeat the villains\nFeng Shui Secrets\nGod-killing derivative\nToka spin-off\nJourney to the West spin-off\nPublic version derivative\nDerivatives of Red Mansion\nDerivatives of Zhen Huan\nRuyi derivatives\nUrban Jianghu\nSecond male lead\nThriller game\nmutual redemption\nThe master goes down the mountain\nTrue and false daughter\nReunion after long separation\nmake fortune\nsoul exchange\nPast and present life\nFall in love and kill each other\nlove at first sight\nRunning in both directions\nReunion\ncontract marriage\nsoft spot\nMarriage first, love later\nUltra fan\nWomen disguised as men\nchildhood sweethearts\nPokémon\nAll heavens and worlds\nChasing Wife Crematorium",
+        "tags": [
+          "Fiction",
+          "novel plot"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说类型",
@@ -337,7 +662,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说类型"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Novel type",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Novel type.txt",
+        "summary": "male channel",
+        "prompt": "male channel\nFemale channel\nredemption\nmodern\nRevenge\nCultivation\nsystem\nCounterattack\nSuspense\ntime travel\nPower\nDoujin\nfantasy\nXianxia\nCultivation\ncity\nRomance\nscience fiction\nfantasy\nmartial arts\nhistory\nmilitary\ngame\nathletics\nsports\nreasoning\nhorror\nSupernatural\nrebirth\nthe end of the world\nWear quickly\nfarming\nhouse fight\nPalace fight\nbusiness war\nworkplace\ncampus\ncool article\ngroup portrait\ndaily\ncure\ncausing depression\npassionate\nadventure\nadventure\ncrime\nTomb robbing\nFeng Shui\nfortune teller\nmiracle doctor\nMedicine\nKing of Soldiers\nson-in-law\nDanmei\nLily\nepic\nmyth\nlegend\nfairy tale\nfable\nDocumentary\nheroine\ngolden finger\nTwo dimensions\nlight novel\nUnlimited streaming\nwaste stream\nInvincible flow\nChinese horror\nthriller suspense\nTrue and false daughter\nEveryone overturned\nCool article about vest\nrealistic emotions",
+        "tags": [
+          "Fiction",
+          "Novel type"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说角色",
@@ -350,7 +688,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说角色"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "novel character",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/novel character.txt",
+        "summary": "iceberg",
+        "prompt": "iceberg\nDaddy\nyandere\nDoting on your wife\ncook\nBoss\nlegitimate daughter\npoison doctor\nVillain\nDark belly\nprincess\nQueen\nEmperor's uncle\nemperor\ngeneral\nElf\nlawyer\nCute baby\nstar\nempress\nstrong woman\nAlmighty\nprincess\nmiracle doctor\nDetective\nDouble sided\nGenius\nagent\nstand-in\nGroup favorite\nAcademic tyrant\nschool beauty\ndoctor\nMake sperm\nloyal dog\nson-in-law\nPresident\nsingle heroine\nMultiple heroines\nMiss\nwhite cut black\nDouble academic master\nNo CP\nNo heroine\nspecial forces\nPosition and weight\nQuirky\nSalty or sweet\nA match made in heaven\ncourt marquis\nPretend to be a pig and eat the tiger\ngame anchor",
+        "tags": [
+          "Fiction",
+          "novel character"
+        ]
+      }
+    }
   },
   {
     "id": "小说-属性标签",
@@ -363,7 +714,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "属性标签"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "attribute tag",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/attribute tag.txt",
+        "summary": "harem",
+        "prompt": "harem\nComprehensive comics\nInvincible\nDoujin\ncool article\ninhuman\ntime travel\nfight\nfarming\nfall in love\ncampus\nmagic\nscience fiction\nHilarious\ndragon clan\nAnother world\nMecha\nUpgrade\npure love\nYouth\nrebirth\nBai Xue\ncure\ncards\nonline games\npassionate\nthe end of the world\nslow heat\nadventure\nMonster\nlife\ncity\nSave the nation\nWaste cute\nfantasy\nDark belly\nZombie\nDemonic nature\nreasoning\nghost\nBiochemistry\nmyth\nfantasy\nOriginal\nTokyo\nSocieties\nnational style\nhouse fight\nChinese comics\nUnlimited streaming\nShura Field\nCthulhu\nlight novel\nACG\ntechnology flow\nvampire\nwaste stream\nchat group\nOpen your mind\nPretend to be a pig and eat the tiger\ngirl band\ncyberpunk\nStar Gundam\nChinese Cthulhu",
+        "tags": [
+          "Fiction",
+          "attribute tag"
+        ]
+      }
+    }
   },
   {
     "id": "小说-情节",
@@ -376,7 +740,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "情节"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "plot",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/plot.txt",
+        "summary": "Group favorite",
+        "prompt": "Group favorite\nSexual transformation\nstand-in\nPower\nWrong marriage\nrebirth\ntime travel\nstrong woman\nchasing wife\nCounterattack\nsubstitute marriage\nHidden marriage\ncontract\nsecret love\nEscape from marriage\nreasoning\ngame\nLive broadcast\nvariety show\nRevenge\nMachiavellian\nmind reading\nFeng Shui\nsecond marriage\nmetaphysics\nblind date\ncollege entrance examination\nTwo male protagonists\nsister-brother love\ndouble life\nRun with the ball\nAncient and modern\nafter divorce\nchildhood sweethearts\nschool bullying\nSexual infidelity\nRebirth for Revenge\nWomen disguised as men\nPast and present life\nlove at first sight\nrejoice in enemies\nReunion\nRunning in both directions\nFall in love and kill each other\nMarriage first, love later\nsoul exchange\nNiche profession\ndormitory relationship\nPreferring boys over girls\nNative family sucks blood",
+        "tags": [
+          "Fiction",
+          "plot"
+        ]
+      }
+    }
   },
   {
     "id": "小说-时代背景",
@@ -389,7 +766,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "时代背景"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Background of the times",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Background of the times.txt",
+        "summary": "ancient times",
+        "prompt": "ancient times\nstone age\nbronze age\niron age\nSpring and Autumn Period and Warring States Period\nQin and Han Empire\nRenaissance\nancient greek city-states\nAncient Egypt Pharaonic Period\nancient roman republic\nmedieval feudal era\nmodern\nindustrial revolution\nOn the eve of World War I\nduring world war ii\ncold war confrontation\ninformation revolution\ndigital age\nvictorian era\nEdwardian era\nera of globalization\npostindustrial society\nthe end of the world\nAfter the zombie outbreak\nnuclear war ruins\nenvironmental collapse\nAfter alien invasion\npandemic\nresources exhausted\nclimate disaster\nmysterious disaster\ncollapse of social order\nArtificial Intelligence Rebellion\nfuture\nspace colonization\nutopian society\ntranshumanism\nCyberpunk City\ndystopian domination\nEra of extraterrestrial contact\nPopularity of gene editing\nVirtual reality dominates\nArtificial Intelligence Rules\ninterstellar travel era\noverhead\nmagic continent\nfantasy epic\nutopian fantasy\nsteampunk world\ndieselpunk city\nAtomic Punk Era\nbiopunk society\nAge of myths and legends\nParallel World World War II\nScience fiction and fantasy fusion",
+        "tags": [
+          "Fiction",
+          "Background of the times"
+        ]
+      }
+    }
   },
   {
     "id": "小说-男频分类",
@@ -402,7 +792,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "男频分类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Male channel classification",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Male channel classification.txt",
+        "summary": "Oriental fantasy",
+        "prompt": "Oriental fantasy\nAnother world continent\nDynasty Clash\nGaowu world\nmodern magic\nsword and sorcery\nepic fantasy\nmystical fantasy\nhistorical myth\nalternative fantasy\ntraditional martial arts\nmartial arts fantasy\nUnparalleled Chinese Martial Arts\nKotake Mirai\nMartial arts fan fiction\nCultivation civilization\nFantasy Cultivation\nmodern cultivation\nMythology Cultivation\nClassical Xianxia\nurban life\nUrban superpower\nSuper powers\nyouth campus\nentertainment star\nBusiness wars in the workplace\nnarrative of the times\nfamily ethics\nfemale themes\nyouth story\nsocial suspense\nAll kinds of things in the world\nmilitary career\nmilitary war\nwar fantasy\nWar of Resistance Against Japan\nspy agent\nalternate history\nQin and Han Dynasties\nAncient pre-Qin\nhistorical biography\nJin, Sui and Tang Dynasties\nFive Dynasties and Ten Kingdoms\nSong, Yuan and Ming Dynasties\nHistory of the Qing Dynasty and the Republic of China\nforeign history\nfolklore\neSports\nvirtual online games\nGame alien world\ngame system\ngame anchor\nBasketball\nsporting events\nfootball sport\nAncient martial arts mecha\nfuture world\ninterstellar civilization\nSuper technology\ntime travel\nevolutionary variation\napocalyptic crisis\nunlimited\nheavens\nComprehensive comics\nMysterious and suspenseful\nWonderful world\nDetective reasoning\nadventure survival\nAncient and modern legends\nnative fantasy\nDaily love\nDerivative fan fiction\nFunny comments\npoetry prose\nBiography\nFilm and television scripts\nReview Collection\nlife essay\nBeautiful travel notes\nshort story",
+        "tags": [
+          "Fiction",
+          "Male channel classification"
+        ]
+      }
+    }
   },
   {
     "id": "小说-角色",
@@ -415,7 +818,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "角色"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "role",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/role.txt",
+        "summary": "yandere",
+        "prompt": "yandere\nprincess\nbrother\nconcubine\nuncle\nParanoid\nAcademic tyrant\ngeneral\ndoctor\nDomineering\nDark belly\nkiller\nschool grass\nGenius\nstepmother\nQueen\nAlmighty\ncharming\nemperor\nteacher\nKoi\nmedical concubine\nUgly girl\nPrince\nPrince\nAnchor\nlawyer\nscholar\nDetective\npoisonous tongue\nTsundere\nCrown Prince\nblack lotus\nfake socialite\nPhoenix Man\nBai Yueguang\nVoldemort\nTrue and false daughter\nEvil mother-in-law\nKill decisively\nSalty or sweet\nGrudges between wealthy families\nDomineering CEO\nsuperior subordinate",
+        "tags": [
+          "Fiction",
+          "role"
+        ]
+      }
+    }
   },
   {
     "id": "小说-起点标签",
@@ -428,7 +844,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "起点标签"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "start tag",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/start tag.txt",
+        "summary": "dragon",
+        "prompt": "dragon\nRich family\nOrphan\nthief\nagent\nhacker\nstar\nkiller\nteacher\nstudent\nfat man\npet\nShushan\nprotect shortcomings\ncard\nmobile games\nmage\ndoctor\nfeelings\nAppreciating treasures\nundead\nworkplace\nJourney to the West\nghost\nFormation\nWarcraft\nbrave\nmetaphysics\ngroup wear\nelixir\nspoof\nHilarious\nEasy\ncold\nDark belly\nsunshine\ncunning\nwitty\nobscene\nArrogant\nCalm\nzombie\nZombie\nTomb robbing\nPlane\nIron-blooded\ninspirational\nperseverance\nTransform\nmake money\nOtaku\npassionate\nrebirth\ntime travel\nspecial forces\nLOL\nwaste stream\nvampire\npractice flow\nSummon flow\nStream with you\nsoft rice flow\nWudiwen\nAlien beast flow\nsystem flow\nGreat and wild stream\nAcademy stream\nFighting for hegemony\nfarming essay\nUnlimited streaming\ntechnology flow\nMortal flow\nDemonic possession\nThe strong returns",
+        "tags": [
+          "Fiction",
+          "start tag"
+        ]
+      }
+    }
   },
   {
     "id": "小说-题材",
@@ -441,7 +870,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "题材"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "theme",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/theme.txt",
+        "summary": "countryside",
+        "prompt": "countryside\ncampus\nthe end of the world\nRepublic of China\noverhead\nfuture\nscience fiction\nfantasy\nmartial arts\nRomance\nSuspense\nreasoning\nhistory\ntime travel\nrebirth\nsystem\ncity\nworkplace\nofficialdom\nmilitary\nwar\nhorror\nSupernatural\nXianxia\nfantasy\nmagic\nAnother world\ngame\nathletics\nsports\nFood\ntravel\nadventure\nDetective\ncrime\nlaw\nmedical\neducation\nfamily\nethics\nsociety\npolitics\neconomy\nculture\nart\nmusic\nmovie\ndrama\nliterature\nUrban imagination",
+        "tags": [
+          "Fiction",
+          "theme"
+        ]
+      }
+    }
   },
   {
     "id": "小说-风格",
@@ -454,7 +896,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "style",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/style.txt",
+        "summary": "tragedy",
+        "prompt": "tragedy\ncity\nhorror\nscience fiction\nhistory\nsadomasochism\nfantasy\npassionate\ncool article\nsweet pet\nreasoning\nmartial arts\nComedy\nreality\nXianxia\ncampus\nSuspense\nworkplace\ncure\nOverlord\nfarming\nrebirth\ndark\nPalace fight\nMachiavellian\nFemale Majesty\nhouse fight\nImagination\ngroup portrait\nadventure\nsystem\neSports\nSupernatural\nwear books\nthe end of the world\nvest\ndaily\nInterstellar\nwasteland\nInfrastructure\nNo CP\nUnlimited streaming\nentertainment circle\nroad movie\nlight novel\nFood articles\nChronicles\nIQ online\ncyberpunk",
+        "tags": [
+          "Fiction",
+          "style"
+        ]
+      }
+    }
   },
   {
     "id": "编程-数据库",
@@ -467,7 +922,20 @@ export const promptEntries = [
     "tags": [
       "编程",
       "数据库"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "database",
+        "category": "Programming",
+        "sourcePath": "Prompt Library/Programming/database.txt",
+        "summary": "SQLite3",
+        "prompt": "SQLite3\nPyMySQL\nPsycopg2\nPyMongo\ncx_Oracle\nRedis",
+        "tags": [
+          "Programming",
+          "database"
+        ]
+      }
+    }
   },
   {
     "id": "编程-架构选择",
@@ -480,7 +948,20 @@ export const promptEntries = [
     "tags": [
       "编程",
       "架构选择"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Architecture choice",
+        "category": "Programming",
+        "sourcePath": "Prompt Library/Programming/Architecture choice.txt",
+        "summary": "PyQt5",
+        "prompt": "PyQt5\nKivy\nTkinter\nWax\nLibavg\nPySimpleGUI",
+        "tags": [
+          "Programming",
+          "Architecture choice"
+        ]
+      }
+    }
   },
   {
     "id": "编程-界面风格",
@@ -493,7 +974,20 @@ export const promptEntries = [
     "tags": [
       "编程",
       "界面风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Interface style",
+        "category": "Programming",
+        "sourcePath": "Prompt Library/Programming/Interface style.txt",
+        "summary": "Light colors, fresh and simple",
+        "prompt": "Light colors, fresh and simple\nDark metal science fiction\nnatural ecological style\nminimalism\nretro nostalgia\nSense of future technology\nBusiness Major\nartistic creativity\nGame style\nindustrial style",
+        "tags": [
+          "Programming",
+          "Interface style"
+        ]
+      }
+    }
   },
   {
     "id": "编程-界面风格详细",
@@ -506,7 +1000,20 @@ export const promptEntries = [
     "tags": [
       "编程",
       "界面风格详细"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Detailed interface style",
+        "category": "Programming",
+        "sourcePath": "Prompt Library/Programming/Detailed interface style.txt",
+        "summary": "Light colors are fresh and simple: use soft light colors, simple layout, and clear visual hierarchy",
+        "prompt": "Light colors are fresh and simple: use soft light colors, simple layout, and clear visual hierarchy\nDark metal science fiction: using dark background, metal texture elements, and technological interface design\nNatural Eco Style: Use natural tones, organic shapes, and eco-friendly design elements\nMinimalism: minimalist interface design, ample white space, focusing on core functions\nRetro and nostalgic: using retro color matching, classic design elements, and nostalgic style interface\nSense of future technology: Use neon tones, dynamic effects, and futuristic interface design\nBusiness major: Adopt professional color scheme and regular layout to highlight business attributes\nArtistic creativity: Creative design elements, unique visual expression, and strong artistic sense\nGame style: dynamic interface design, gamification elements, strong interactivity\nIndustrial style: Rugged design elements, industrial texture, strong functionality",
+        "tags": [
+          "Programming",
+          "Detailed interface style"
+        ]
+      }
+    }
   },
   {
     "id": "职场-使用场景",
@@ -519,7 +1026,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "使用场景"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Usage scenarios",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Usage scenarios.txt",
+        "summary": "business report",
+        "prompt": "business report\nsocial media\nE-commerce details\nvideo script\nEmail marketing\nacademic speech\nproduct promotion\nEducation and training\nConference presentation\nproject plan\nsales proposal\nmarket analysis\nAnnual summary\nteam building\nCustomer training\nInternal training\nwedding album\nResume\nevent planning\npress conference\nTender presentation\nfinancial report\nstrategic planning\nproduct launch\nCompany introduction\nRecruitment presentation\nTeaching courseware\nseminar\nExhibition display\nPublicity\nAdvertising planning\nbusiness plan\nCompetitive product analysis\nUser manual\nTechnical Tutorial\nart display\nphotography album\nTravel sharing\nfamily gathering\nbirthday party\nholiday wishes\nCorporate culture construction\nsafety training\nhealth lecture\nlegal advice\nmedical report\narchitectural design plan\nProject progress report",
+        "tags": [
+          "Workplace",
+          "Usage scenarios"
+        ]
+      }
+    }
   },
   {
     "id": "职场-写作字数",
@@ -532,7 +1052,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "写作字数"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Number of words written",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Number of words written.txt",
+        "summary": "200 words",
+        "prompt": "200 words\n300 words\n500 words\n800 words\n1200 words\n1500 words\n2000 words\n3000 words\n4000 words\n5000 words\n6000 words\n8000 words\n10,000 words\n12,000 words\n15,000 words\n20,000 words\n50,000 words",
+        "tags": [
+          "Workplace",
+          "Number of words written"
+        ]
+      }
+    }
   },
   {
     "id": "职场-学科专业",
@@ -545,7 +1078,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "学科专业"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Subject major",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Subject major.txt",
+        "summary": "Any major",
+        "prompt": "Any major\nphilosophy\nEconomics\njurisprudence\npedagogy\nliterature\nHistory\nNeo-Confucianism\nEngineering\nAgricultural science\nMedicine\nManagement\nArt\ncomputer science\nMechanical Engineering\nelectrical engineering\nchemical engineering\ncivil engineering\nbiological sciences\nChemistry\nPhysics\nMathematics\nPsychology\nSociology\npolitical science\ninternational relations\nLinguistics\nJournalism\nCommunication\nAccounting\nFinance\nMarketing\nhuman resources management\nenvironmental science\nGeology\nastronomy\nNursing\nPharmacy\nHorticulture\nanimal science\nMusicology\nFine Arts\nAerospace Engineering",
+        "tags": [
+          "Workplace",
+          "Subject major"
+        ]
+      }
+    }
   },
   {
     "id": "职场-报告类型",
@@ -558,7 +1104,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "报告类型"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "report type",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/report type.txt",
+        "summary": "daily newspaper",
+        "prompt": "daily newspaper\nweekly report\nmonthly report\nannual report\nquarterly report\nproject progress report\nfinancial report\nsales report\nMarket analysis report\nAudit report\nExperiment report\nresearch report\ntechnical report\nwork summary report\nrisk assessment report\naccident report\nmeeting minutes report\nCustomer feedback report\nproduction report\nInventory report\nQuality inspection report\nEnvironmental Monitoring Report\ntraining report\nperformance evaluation report\ndiagnostic report\nfeasibility study report\nDue Diligence Report\nPublic opinion analysis report\nEquipment operation and maintenance report\nPatent application report\nFinal report\nAcceptance report\nTender report\nTender report\nbusiness trip report\nActivity summary report\nUser research report\nCompetitive Analysis Report\nlegislative proposal report\naccident investigation report\nenvironmental impact assessment report\nsocial survey report\nLiterature review report\nLitigation Case Analysis Report",
+        "tags": [
+          "Workplace",
+          "report type"
+        ]
+      }
+    }
   },
   {
     "id": "职场-教学对象",
@@ -571,7 +1130,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "教学对象"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Teaching objects",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Teaching objects.txt",
+        "summary": "school student",
+        "prompt": "school student\nCorporate employees\nsocial student\nkindergarten children\nprimary school student\nmiddle school student\ncollege students\nGraduate student\nVocational school students\nadult learners\nbusiness managers\ntechnical staff\nsalesperson\nmedical staff\ncivil servant\nsoldier\npolice\nfirefighter\ncommunity residents\nrural residents\nelderly\ndisabled people\nparent group\nNew employees\nWorking Engineer\nfinancial staff\nHuman Resources Specialist\nmarketing staff\nmedical worker\nlegal practitioner\neducator\nart creator\nagricultural practitioners\nindustrial worker\nservice industry employees\nfreelancer",
+        "tags": [
+          "Workplace",
+          "Teaching objects"
+        ]
+      }
+    }
   },
   {
     "id": "职场-语言风格",
@@ -584,7 +1156,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "语言风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "language style",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/language style.txt",
+        "summary": "colloquial",
+        "prompt": "colloquial\nStorytelling\nFormal and rigorous\nProfessional and rigorous\nEnthusiastic and energetic\nhumorous\nFriendly spoken language\nPassionate\nacademic report\nPoetic and lyrical\nconcise and clear\nLong and complicated\nsarcasm\nexaggerated rendering\nCalm and objective\nsubjective emotion\nHighly technical\nEasy to understand\nAncient and elegant\nmodern pop\nStrong writing\nVery persuasive\nDetailed description\nvivid narrative\nClear instructions\nrigorous argumentation\nfull of slang\nJargon professional\nInformal and casual\nneutral bland\nEmotional\nRigorous logic\nGorgeous rhetoric\nplain language\nwitty\nsarcasm sharp\nSolemn and solemn\nLively and brisk\nboring and monotonous\nSimple and concise\nProcrastination\nnews report style\nLiterary and artistic style\nTechnical documentation\nconversational communication\nAuthoritative and confident\nModesty and reserved\nAggressive\nPassive and weak\ndirect and frank\nindirect euphemism\nprose style\nromantic lyrical\nrealistic\nsharp criticism\nPraise and commendation\nPessimistic and disappointed\nOptimistic\nobjective and neutral",
+        "tags": [
+          "Workplace",
+          "language style"
+        ]
+      }
+    }
   },
   {
     "id": "职场-重点内容",
@@ -597,7 +1182,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "重点内容"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Highlights",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Highlights.txt",
+        "summary": "knowledge transfer",
+        "prompt": "knowledge transfer\nSkill practice\nCase study\ninteractive discussion\nClear teaching goals\nHighlighting the important and difficult points in teaching\nDiverse teaching methods\nTeaching resource preparation\nTeaching process design\nClassroom interactive organization\nLearning Assessment Feedback\nHomework assignment inspection\nBlackboard design display\nTeaching reflection and improvement\nClear teaching goals\nHighlighting the important and difficult points in teaching\nDiverse teaching methods\nTeaching resource preparation\nTeaching process design\nClassroom interactive organization\nLearning Assessment Feedback\nHomework assignment inspection\nBlackboard design display\nTeaching reflection and improvement\nknowledge transfer lectures\nPractical skills training\nCase analysis and discussion\ninteractive discussion exchange\nSituation creation and import\nquestion driven inquiry\nGroup cooperative learning\nExperimental demonstration operation\nClassroom exercises to consolidate\nReview summary and summary\nIntegrating ideological and political education into courses\nDiscipline frontier connections\nStimulate interest in learning\nCognitive rules follow\nReflection of student subject\nTeacher's leading role\nMultimedia technology applications\nOnline resource utilization\nUse of model teaching aids\nLearning situation creation\nClassroom rhythm control\nReasonable time allocation\nTeaching language specifications\nProper teaching manner\nFormative assessment implementation\nsummative evaluation design\nClear evaluation criteria\nFeedback is timely and specific\nLayered job design\nPractical homework arrangement\nKnowledge expansion and extension\nPre-study task assignment\nNote checking guide\nAnalysis and correction of wrong questions\nWriting on the blackboard is clear and organized\nKnowledge structure visualization\nHighlight key content\ngenerative resource records\nReflection writing after class\nTeaching effect analysis\nDevelop improvement measures\nConcern about differences in academic status\nHome-school communication and collaboration\nSafety regulations education\nclassroom management strategies",
+        "tags": [
+          "Workplace",
+          "Highlights"
+        ]
+      }
+    }
   },
   {
     "id": "视频-动态效果",
@@ -610,7 +1208,20 @@ export const promptEntries = [
     "tags": [
       "视频",
       "动态效果"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Dynamic effects",
+        "category": "Video",
+        "sourcePath": "Prompt Library/Video/Dynamic effects.txt",
+        "summary": "cherry blossoms flying",
+        "prompt": "cherry blossoms flying\nMaple leaves flying\ndrizzle\nstormy weather\nsnowflakes fluttering\nhail falling\nthunder and lightning\nfoggy\nfrost crystallization\nDewdrops twinkling\nrainbow across the sky\nBeautiful sunset\nWaves crashing on the shore\nripple spread\nwaterfall flying\nfountain gushes\nwater whirlpool\nflames rising\nsparks flying\nfireworks bright\nStarlight\nmeteor shower falling\nAurora changes\nsunrise over sea of clouds\nLunar eclipse process\nstar orbit rotation\npetals falling\nleaves swaying\nvegetation growth\nflowers bloom\nFruit falls\nseed dispersal\nButterflies flying\nBees collecting pollen\nA little bit of water\nAnts transport food\nspider prey\nBirds playing\nfish chase\nbeast hunting\ninsect metamorphosis\nDandelions flying\nAutumn leaves are flying\nSpring buds break ground\nSummer cicada flutters its wings\nWinter ice melts\nCatkins blown by the wind\nClouds cover and fog surrounds\nRain hits banana\nSnow on green pines\nLightning strikes the sky\nFlames bursting into the sky\nGlittering water\nMountain mist\nmirage\nSunlight penetrates\nmoonlight falling\nStarlight scattering\nDim lights\ncity light and shadow\ntraffic flow\ncrowd surge\nAurora swaying\nDust rises\nebb and flow of tides\nlava flow\nflag waving\nskirt fluttering\nHair flying\nEyes turning\nInk smudge\npaint flow\nPixel surge\ndata flow\nholographic projection\nneon flashing\nLaser scanning\nCurrent surge\ngear turning\nPiston motion\nConveyor belt operation\nElevator lift\nDoor opening and closing\nWings spread\nscreen scrolling\npage flip\nBarrage drifted by\nLikes are pouring in\ngold coins spilled\nFireworks exploded\nColorful ribbons flying\nballoon rising\nhourglass quicksand\nbubbles rising\nCurtains flutter\nturning pages of book\nCandlelight flickering\nsteam rising\nGreen smoke curls up\ndust floating\nmagnetic levitation\nHolographic expansion\nMosaic reorganization\nPixel collapse\nglitch art\nscan line sweep\nradar scan\nsound wave diffusion\nFingerprint recognition\ntouch ripples\nButton feedback\nNotification pop-up\nWindow switching\nImage carousel\nProgress bar loading\nCursor flashes\nLink highlighting\nemoticon bubbling\nAvatar flashes\nstatus update\nFile upload\nDownload completed\nPaper airplane gliding\nkite flying\nwindmill spinning\nWater wheel turns\npendulum swings\nBearing rotation\nSlide rail movement\nRolling shutter door raised\ncurtains open\nDrawer opening and closing\nkaleidoscope changes\ncrystal ball scene\nsnow globe shake\nfilm screening\nold tv switch\nTime and space tunnel\nWormhole travel\nspace distortion\nPlanet surrounds\ncell division",
+        "tags": [
+          "Video",
+          "Dynamic effects"
+        ]
+      }
+    }
   },
   {
     "id": "论文-写作字数",
@@ -623,7 +1234,20 @@ export const promptEntries = [
     "tags": [
       "论文",
       "写作字数"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Number of words written",
+        "category": "Academic Papers",
+        "sourcePath": "Prompt Library/Academic Papers/Number of words written.txt",
+        "summary": "200 words",
+        "prompt": "200 words\n300 words\n500 words\n800 words\n1200 words\n1500 words\n2000 words\n3000 words\n4000 words\n5000 words\n6000 words\n8000 words\n10,000 words\n12,000 words\n15,000 words\n20,000 words\n50,000 words",
+        "tags": [
+          "Academic Papers",
+          "Number of words written"
+        ]
+      }
+    }
   },
   {
     "id": "论文-学段",
@@ -636,7 +1260,20 @@ export const promptEntries = [
     "tags": [
       "论文",
       "学段"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "academic stage",
+        "category": "Academic Papers",
+        "sourcePath": "Prompt Library/Academic Papers/academic stage.txt",
+        "summary": "primary school student",
+        "prompt": "primary school student\njunior high school students\nhigh school student\ntechnical secondary school students\nVocational high school students\ntechnical school student\nCollege students\nVocational students\nBachelor's degree student\nUndergraduate\nMaster's student\nPhD student\nPostdoctoral fellow\nCorrespondence students",
+        "tags": [
+          "Academic Papers",
+          "academic stage"
+        ]
+      }
+    }
   },
   {
     "id": "论文-学科专业",
@@ -649,7 +1286,20 @@ export const promptEntries = [
     "tags": [
       "论文",
       "学科专业"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Subject major",
+        "category": "Academic Papers",
+        "sourcePath": "Prompt Library/Academic Papers/Subject major.txt",
+        "summary": "Any major",
+        "prompt": "Any major\nphilosophy\nEconomics\njurisprudence\npedagogy\nliterature\nHistory\nNeo-Confucianism\nEngineering\nAgricultural science\nMedicine\nManagement\nArt\ncomputer science\nMechanical Engineering\nelectrical engineering\nchemical engineering\ncivil engineering\nbiological sciences\nChemistry\nPhysics\nMathematics\nPsychology\nSociology\npolitical science\ninternational relations\nLinguistics\nJournalism\nCommunication\nAccounting\nFinance\nMarketing\nhuman resources management\nenvironmental science\nGeology\nastronomy\nNursing\nPharmacy\nHorticulture\nanimal science\nMusicology\nFine Arts\nAerospace Engineering",
+        "tags": [
+          "Academic Papers",
+          "Subject major"
+        ]
+      }
+    }
   },
   {
     "id": "运营-任务",
@@ -662,7 +1312,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "任务"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Tasks",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Tasks.txt",
+        "summary": "Replace the following text with synonyms, maintaining the original, current state, language order, and replace only 30% of the vocabulary",
+        "prompt": "Replaces the following with synonyms, maintaining the original, current state, language order, and replacing only 30% of the vocabulary.\nRetain all the information in the original text, but at least one change in the wording of each sentence (actively passive, inverted, in the order of the sentence).\nReformulate paragraphs with obvious emotional or marketing colours to read “neutral, objective, without adjectives”.\nReformulate the following narrative to a small red book note with title, emoji, subparagraph, end of CTA.\nReformulate the paper paragraphs to 800 words, including “introduction of hook-to-tread stories into hard-core readings and interactive questions”.\nReformulate web hotspots into “notifications” with headings, main sender, three-part format (background-measures-request).\nRewrite modern news into Victorian editorial style.\nI'd like to rewrite Coptic into a neon-flavored Saber.\nReformulate modern scripts into scripts and retain all information.\nKeep 5W1H for any article in 50 words.\nExpand the 200-word summary into a 2,000-word depth draft, with cases, data, gold phrases.\nNatural implantation of a given keyword 5 times in rewrite, density 2-3%.\nReformulates the paragraphs to Turnitin with a single repetition rate of < 5 per cent, while maintaining the reference number unchanged.\nTranslation of the Chinese summary paragraphs into the English academic body, using passive language, terminology and logical links.\nReformulate the third person ' s press into a first person ' s (party) perspective.\nRecast back-to-back reports into narratives + illustrations to create suspense.\nThe Mandarin News has been reworded into Cantonese written language, which retains its own.\nRewrite the draft into an East-North dialect.\nCompliance with paragraph(s) relating to sensitive personal names, geographical names and institutions is de-sensitive, while ensuring that readers understand them.\nTo rewrite the adult story into a short text for a 10-year-old child.\nTo create a sketchbook for [products/services, e.g., a national product].\nPlease rewrite the following text according to the four variables designated by the user [style] [audience] [keywords].\nAuthor of a long dry article at the heart of [core keywords] to capture Google/Baidu natural search traffic and guide readers to complete [download/advisory/purchase] actions.\nPreparation of a summary of an industry analysis report on “[Trends in a given industry, e.g. the application of AIGC in the field of content creation]”.\nHelp me to refine/authorise the “[specific parts, e.g.: literature overview, research methodology]” part of the paper on [the theme of your paper].\nStart with a short story: “When you wake up, everyone can hear you”.\nWriting oral scripts for a short, knowledge-based video on “[topics, such as how to overcome delay]”.",
+        "tags": [
+          "Marketing Operations",
+          "Tasks"
+        ]
+      }
+    }
   },
   {
     "id": "运营-写作字数",
@@ -675,7 +1338,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "写作字数"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Number of writing words",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Number of writing words.txt",
+        "summary": "200 words.",
+        "prompt": "200 words.\n300 words\n500 words.\n800 words.\n1200 words.\n1500 words.\n2,000 words.\n3000 words.\n4000 words.\nFive thousand words.\n6000 words.\n8000 words.\n10000 words.\n12,000 words.\n15,000 words.\n20,000 words.\n50000 words.",
+        "tags": [
+          "Marketing Operations",
+          "Number of writing words"
+        ]
+      }
+    }
   },
   {
     "id": "运营-写作类型",
@@ -688,7 +1364,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "写作类型"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Type of writing",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Type of writing.txt",
+        "summary": "Product promotion",
+        "prompt": "Product promotion\nKnowledge Section\nEmotional stories.\nNews link\nI'll explain it to you.\nHumor.\nBrand promotion\nHot review.\nLife skills\nHealthy maintenance\nFood production\nTravel Sharing\nScientific and technical assessment\nThe movie explains it.\nRecommendations for books\nMusic Sharing\nPhysical fitness guidance\nChildcare experience\nWorkplace advice\nStudying hard.\nFunny challenge.\nThe scenario.\nInterview dialogue\nThe flowers behind the scenes.\nActivity forecast\nFestivities.\nSocial experiments\nPsychological analysis\nHistorical interpretation\nScientific experiments\nArt Show\nArtisanal production\nThe pets' day-to-day.\nAutomobile evaluation\nGame live.\nFashion suits.\nMake-up instruction.\nHome Decoration\nInvestment finance\nLegal common sense.\nMedical health\nEnvironmental advocacy\nPublic service advocacy\nCultural heritage\nIntroduction to folklore\nTourism strategy\nShopping\nOpen the box for evaluation.\nCellular skills\nSoftware Tutor\nHardware Measurement Assessment\nStart-up stories\nSuccessful learning to share\nThe lesson of failure.\nEmotional counselling\nRelationships\nTime management\nEfficiency gains\nMeditation guidance.\nYoga teaching.",
+        "tags": [
+          "Marketing Operations",
+          "Type of writing"
+        ]
+      }
+    }
   },
   {
     "id": "运营-写作风格",
@@ -701,7 +1390,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "写作风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Writing style",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Writing style.txt",
+        "summary": "♪ The lively girl ♪",
+        "prompt": "♪ The lively girl ♪\nProfessionals\nToxic tongue evaluation.\nThe healing system.\nEmotional chicken soup.\nShopping ecstasy.\nTravel expeditions\nA make-up man.\nWearing fashion.\nA cuisine.\nA gym coach.\nLearner.\nProfessional elite.\nMother and Child's Garden.\nThe pet slave.\nHome improvement\nArtistic youth\nA funny piece of work.\nMaster Suspend.\nInteract with people\nThe storyteller.\nList control\nComparative critic\nSave the money. Save the money.\nLuxury goods.\nAn extremely simple life.\nRetro.\nA technologist.\nGame Momentum\n♪ The stars are chasing along ♪\nimmersed vlog\nDeclaration against Anxiety\nA guide to saving money.\nThe people grow grass in cold water.\nAnimation.\nDry Cargo Database\nSelf-regulation card challenge\nIt's a big brain hole.\nIt's a God save-the-money attempt.\nA sobering record.\nI'll open it in a immersed box.\nLive Learning Accompaniment\nLamp Shape Master\nA ritualist.\nCold Knowledge Section\nWe've got to get out of here. We've got to get out of here.\nThe memory of nostalgia.\nI'm a tourist scout.\nEfficient tool, Ally.\nMobile photography techniques\nHand-book planner.\nHealing Depressive Guide\nA gift library.\nLazy man's diet is complete.\nRenovation of dormitories\nKnowledge mapping sharing\nA reverse course.\n♪ The caves are pouring wind ♪\nAbsorption ASMR\nCross-border blending\nLiving alone.\nMom's experience.\nThe student party's price is good.\nFrench laziness.\nSentry radar.\nOutdoor sports.\nStreamlining skin protection pies\nTraditional culture growing grass\nWork against PUA\nElectronic Excerpt Menu\nFamily coffeemaker.\nWearing an imitation show.\nThe King of Old Materiel.\nI'm going to study in a dry warehouse.\nNew marriage.\nThe show's a hobby.\nThe balcony grower.\nI'm not sure I can handle it.\nBudget Planner",
+        "tags": [
+          "Marketing Operations",
+          "Writing style"
+        ]
+      }
+    }
   },
   {
     "id": "运营-文案用途",
@@ -714,7 +1416,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "文案用途"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Text Use",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Text Use.txt",
+        "summary": "Soft herbs.",
+        "prompt": "Soft herbs.\nHardly Approving Promotions\nPractical dry goods\nEmotional resonance.\nFunny entertainment.\nGood evaluation.\nSkills teaching programme\nSharing of experiences\nShopping\nTravel strategy\nFood advice\nWearing displays.\nMake-up instruction.\nThe trick of life.\nHealthy maintenance\nPhysical fitness guidance\nRead notes.\nIt's a movie recommendation.\nMusic Sharing\nArt Show\nHand-in-hand instruction.\nHome Decoration\nParenting.\nThe pets' day-to-day.\nJob skills\nStudying hard.\nSave the money.\nTime management\nEmotional counselling\nPsychological orientation\nThe festival plans.\nParty inspiration.\nWedding preparations\nCould not close temporary folder: %s\nFriendship maintenance\nFamily relations\nSelf-enhancement.\nCareer planning\nInvestment finance\nTechnology digital\nAutomobile knowledge\nSports outdoors\nEnvironmental life\nVegetability\nCultural exploration\nHistory.\nScience diffusion\nLanguage studies\nStudy experience\nImmigration Guide\nLegal common sense.\nMedical health\nSkin protection.\nHair-style design\nPhysical training\nPhotographic techniques\nVideo clips\nWriting Guidance\nSpeech technique\nStart-up stories",
+        "tags": [
+          "Marketing Operations",
+          "Text Use"
+        ]
+      }
+    }
   },
   {
     "id": "运营-文案类型",
@@ -727,7 +1442,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "文案类型"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Case type",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Case type.txt",
+        "summary": "Title Party Document",
+        "prompt": "Title Party Document\nIn-depth Script\nProduct-type scripts\nSumming-up\nTVC Text\nEmotional scripts",
+        "tags": [
+          "Marketing Operations",
+          "Case type"
+        ]
+      }
+    }
   },
   {
     "id": "运营-目标平台",
@@ -740,7 +1468,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "目标平台"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Target platform",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Target platform.txt",
+        "summary": "Commercial platform",
+        "prompt": "Commercial platform\nSocial media\nMail marketing\nPrint materials",
+        "tags": [
+          "Marketing Operations",
+          "Target platform"
+        ]
+      }
+    }
   },
   {
     "id": "运营-要求",
@@ -753,7 +1494,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "要求"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Request",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Request.txt",
+        "summary": "Prohibition of repetition of original language; prohibition of changes in proprietary terms",
+        "prompt": "It is prohibited to repeat words in the original language; it is prohibited to change the terminology.\nNo details may be deleted or returned; no terminology may be changed.\nDelete exaggeration adjectives/ adjectives; replace subjective feelings with data or facts.\nOral, first-person, “sister” and other community whispers; key information in front; plus 3 related labels.\nClose distance using \"we\"; key data must be translated in word (“equivalent to 10 football fields”).\nUse normative terms such as “please” “require” “restricted”; ban sighes, web-based terms throughout the text.\nUse complex inverts, insertions, Latin verbs; add an ethical evaluation; at least 1 inverse in each paragraph.\nInfusion of technical black words, Japanese descriptors, verbs; use of the word “we” to refer to readers; 15 words per sentence.\nUse of no more than 2 gazetteers; retention of place names.\nArabic numerals replace Chinese numerals; delete assistive words.\nInserts 3 authoritative data (indicating source); uses the \" Story-Analysis-Summary \" format.\nKeywords cannot be stacked in one sentence; location: first paragraph 1, middle paragraph 2, end paragraph 1, subheading 1.\nThe same sentence 7 consecutive repetitions must be reworded; professional terms may be retained.\nLinks such as \"However, Moreover\" are used; initials give full names for the first time.\nAdd psychological representation; past use; 1 symmetry detail (sniff/tactile).\nThe results are given first, and then the layers are revealed; each paragraph starts with a time stamp.\nReplace \"he\" with \"it\" instead of \"yes”; keep 30% of the words spoken.\nUse the word \"how\" as \"ga-ha\" as a \"gha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha!\nReplace with “a + industry/function”; retain time, data.\nUse metaphors; phrases long ~12; isolated words followed by explanation in brackets.\nThere must be a clear call to action (CTA)\nTo guide interaction, for example: “Does the sisters recommend it?” “The comment area draws a gift of the same kind!”\nThere is a need not only to summarize but also to reflect critically on the gaps in existing research.\nSummarize the core values and strongly guide the praises, concerns and comments (“What more do you have to delay? Comment areas tell me!”).",
+        "tags": [
+          "Marketing Operations",
+          "Request"
+        ]
+      }
+    }
   },
   {
     "id": "运营-视频类型",
@@ -766,7 +1520,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "视频类型"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Video Type",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Video Type.txt",
+        "summary": "Product evaluation",
+        "prompt": "Product evaluation\nLifeVlog\nThe food shop.\nKnowledge Section\nIt's a short film.\nTake the script.\nThat's funny.\nEmotional chicken soup.\nA dry-food tutor.\nCategory of challenges\nMake-up instruction.\nWearing and sharing.\nPhysical fitness teaching\nYoga guidance.\nDance tutorial.\nMusical performances\nMusical instruction\nGame live.\nGame Entries\nTravel diary\nIt's pet fun.\nHandicraft DIY\nPainting process\nCalligraphy\nPhotographic techniques\nProgramming Introduction\nLanguage studies\nHistory.\nScientific knowledge\nExperimental Demonstrations\nMagic teaching.\nComedy show.\nIt's like a celebrity.\nThe talk show.\nStreet interviews\nSocial hotspots\nPublic service advertising\nCreative advertising\nFilm Cuts\nBook Sharing\nStudying hard.\nWorking skills\nEntrepreneurship experience\nFinancial literacy\nHealth\nMedical knowledge.\nLegal reading\nPsychopsychological tests.\nEmotional stories.\nMarriage, love.\nHome improvement\nHorticultural education\nCooking instruction\nLet's eat the show.\nCatering\nZero food assessment\nAutomobile knowledge\nMotorcycle evaluation\nRide Sharing\nOutdoor sports\nCamping guide\nFishing teaching\nSports events\nSports training\nThe electro-negotiator said\nWandering Review\nCaricature creation\nIt's a novel.\nPoetry.\nTheatrical footage.\nTradition.\nCultural exploration\nFestivities\nLive broadcast\nPress briefing\nOpen Video\nScience and technology news\nSoftware evaluation\nApplied tutorial\nSuggested website\nMother-child interaction\nChildcare experience\nSchool life\nVocational skills\nInvestment analysis\nEnvironmental initiatives\nTravel strategy\nFood evaluation\nFashion Show.\nBrand stories.\nPersonal interview.\nOrganisation\nSkills demonstration\nBrain training\nMemory up.\nTime management\nSocial skills\nPressure-relief methods\nMeditation guidance.\nPositive energy sharing\nFunny joke.\nPuzzle puzzles\nInteractive question-and-answer sessions\nVoting survey\nRe-enactment\nDocumentary style\nAnimation.\nVirtual Image\nAI Generate Content\nCross-border cooperation\nThe flowers behind the scenes.\nCelebration\nDay of Remembrance Sharing\nSeasonal limit\nLocal life\nUrban exploration\nRural records\nCultural heritage\nArtisanal production\nTechnology DIY\nFamily recreation\nFriends party.\nTeam building\nFestivities.\n_Other Organiser\nInspired.\nSuccess stories\nThe lesson of failure.\nLessons learned\nTrends projection\nMarket analysis\nProduct Comparison\nService experience\nConsumption guidelines\nCost-saving techniques\nShopping\nRecommendations for gifts\nHoliday Decoration\nHome care\nPet care\nPlant conservation\nTools Use\nDevice evaluation\nSoftware Contrast\nApply Sharing\nWebsite tutorial\nOnline courses\nLearning communities\nKnowledge fees\nContent creation\nOperation from the media\nFlow growth\nLiquidation method\nPlatform rules\nAlgorithm interpretation\nUser Interaction\nThanks to the fans.\nAnswers to questions and answers\nDiscussion\nHotspot tracking.\nEvent Review\nExpression of opinion\nThe transmission of values\nThe philosophy of life.\nA sense of life.\nGrowing stories.\nCareer development\nAcademic planning\nA love view sharing.\nFriendship maintenance\nFamily relations\nSocial Watch\nCultural differences\nInternational Vision\nLanguage culture\nTraditional festivals\nContemporary celebrations\nArt exhibition\nMusical Sharing\nFilm festival reviews\nBook reading\nFamous biography\nHistory Recreates\nA scientific fantasy.\nTechnological frontier\nFuture projections\nEnvironmental action\nPublic interest activities\nVolunteering\nCommunity-building\nUrban development\nRural revitalization\nEducation reform\nMedical advances\nScience, technology and innovation\nBusiness Insight\nEconomic situation\nInvestment opportunities\nRisk management\nMental health\nPhysical health\nNutritional diet\nPhysical rehabilitation\nThe beauty of the skin.\nFashion current\nDesign concept\nArchitectural arts\nIndoor design\nLandscape planning\nTravel experience\nThe adventure story.\nEnd of the line.\nLeisure and recreation\nGame Development\nVideo production\nMusical creation\nDance programming\nTheatrical performances\nLiterary creation\nPoetry creation\nPainting technique\nSculpting arts\nHandicraft transmission\nA culture of non-retroduction\nFolklore.\nReligious culture\nPhilosophy.\nPsychological analysis\nEmotional support\nInterpersonal communication\nConflict resolution\nTeamwork\nLeadership development\nEntrepreneurship guidance\nManagement of operations\nMarketing\nBranding\nClient services\nProduct design\nUser Experience\nData analysis\nProgramming development\nArtificial intelligence\nMechanical learning\nBlock Chain Technology\nVirtual reality\nEnhancing reality\nMaterial networking applications\nSmart homes.\nAutomobile technology\nAerospace\nMarine exploration\nEarth sciences\nThe mystery of the universe.\nLife sciences\nGenetic technology\nMedical breakthrough.\nDrug research and development\nPublic health\nEpidemiological control\nNatural disasters\nEmergency response\nSecurity education\nLegal awareness\nProtection of rights and interests\nConsumer rights\nRights of workers\nCivil obligations\nSocial responsibility\nEnvironmental protection\nClimate change\nSustainable development\nGreen life.\nLow-carbon initiatives\nResource recovery\nEnergy conservation\nAnimal protection\nPlant conservation\nEcoequilibria\nAgricultural technology\nFood security\nWater resources management\nUrban planning\nTransport optimization\nBuilding energy efficiency\nSmart City\nDigital Government\nOnline education\nRemote office\nElectricity vendor operations\nSocial media\nNetwork Reds\nContent marketing\nVideo production\nAudio programmes\nWe'll take the goods live.\nFan economy\nPlatform economy\nShared economy\nThe casual economy\nFuture occupation\nSkills training\nLifelong learning\nPersonal growth\nSelf-enhancement.\nTime planning\nTargeting\nI'm used to it.\nSelf-regulatory methods\nPressure management\nEmotional adjustment\nPositive mindsets\nHappiness.\nThe meaning of life.",
+        "tags": [
+          "Marketing Operations",
+          "Video Type"
+        ]
+      }
+    }
   },
   {
     "id": "运营-语言风格",
@@ -779,7 +1546,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "语言风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Language style",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Language style.txt",
+        "summary": "Professional.",
+        "prompt": "Professional.\nIt's official.\nIndulging.\nHe's passionate.\nEasy humor.\nGentle healing.\nOfficial authority\nOral\nRejuvenation\nDialectic Features\nIndulging.\nIt's natural.\nPassion.\nCalm down, rational.\nFunny.\nLover's money.\nIncentives\nScary paranoia.\nRomance is beautiful.\nNostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia, nostalgia.\nFashion current\nTechnology.\nEducational guidance\nNewscast\nDocumentary\nAdvertising promotion\nStory story.\nInteractive questions\nQuick rhythm\n# Slow down #\nExaggeration.\n♪ To share in good faith ♪\nCritical comments\nFun's funny.\nPsychic soup.\nPractical skills\nExpedition.\nThe temptation to eat.\nTravel logs\nHealthy maintenance\nFinancial performance\nSports.\nMusical rhythm\nPoetry.\nTheatre\nLow profile implicit.\nHigh-profile show-off.\nIt's mysterious.\nBe frank. Be frank.\nIt's euphemism.\nSarcastic sarcasm.\nCongratulations.\nApologize.\n♪ Celebrate the cheers ♪\nTribute to the memory.\nUrgent notice\nI'm just having a little chat.\nProfessionally speaking.\nThat's cute.\nPopping\nCareful.\nBusiness Formal\nAcademic depth\nCome on, let's go. Let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go.\nRejuvenation of the Internet",
+        "tags": [
+          "Marketing Operations",
+          "Language style"
+        ]
+      }
+    }
   },
   {
     "id": "运营-负面限制",
@@ -792,7 +1572,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "负面限制"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Negative restrictions",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Negative restrictions.txt",
+        "summary": "Disable academic words, passive sentences, long sentences",
+        "prompt": "Academic terms, passive sentences, long sentences are prohibited.\nThe presence of LaTeX and the reference to the horns is prohibited.\nIt is prohibited to have a first-person name.\nDisable modern acronyms (can'tcannot).\nThe term “future” is prohibited (the future has been acquiesced).\nIt is prohibited to appear in words such as “the” or “the” or “the” or the other.\nIt is prohibited to appear “and so forth” to be “abridged”.\nDuplication of irrigation is prohibited.\nIt is prohibited to spell keywords hard.\nIt is prohibited to change variable symbols, formulae.\nDirect translator for Chinglich is prohibited.\n“The presence of a journalist who is a “pen” is prohibited.\nThe addition of additional persons is prohibited.\nIt's forbidden to make a living.\nIt is prohibited to change the direction of the facts.\nThe introduction of facts other than the original is prohibited.\nViolence and sexual insinuations are prohibited.",
+        "tags": [
+          "Marketing Operations",
+          "Negative restrictions"
+        ]
+      }
+    }
   },
   {
     "id": "运营-输出格式",
@@ -805,7 +1598,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "输出格式"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Output Format",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Output Format.txt",
+        "summary": "Rewrite text only, not explain",
+        "prompt": "Just go back to the rewrite text and not explain it.\nThe text of each sentence is reworded.\nA paragraph in the end, ~150 words.\nTitle + body + label, total number of words 250 ~ 20.\nShaped mirror serial number + oral text with image/sounds in [ ].\nWord Style Title + Body, total 400 ± 50 words.\nThree-part editorials, total words 300 ± 30.\nAt the end of the paragraph, the total number of words is 120 ~10.\nWithout a peg, read out a sentence.\nOnly 1 line.\nTitle + body, divided into 3 sections, with subheadings for each section.\nTitle (including keywords) + body + Meta description 150 words.\nRewrite text only, keep \\cite{}.\nA paragraph in English with a total of 180 ± 20 words.\nJournal, date + body.\n5 Paragraphs, each paragraph ____80 words.\nIn the end, the total number of words is 150 ~ 20.\nDialogue group, 2 people, 5 sentences.\nOnly rewrite text is returned and changes of 3 are marked with [].\nA paragraph with a total of 200 per 20 words.\nSeveral subparagraphs, each of which does not exceed two rows. The labels must be used reasonably, such as: #Skinguard # Light of the State's Goods # Good Things Sharing.\nUse of a regulated business reporting format, multi-level number (1, 1.1, 1.1.1).",
+        "tags": [
+          "Marketing Operations",
+          "Output Format"
+        ]
+      }
+    }
   },
   {
     "id": "运营-风格",
@@ -818,7 +1624,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "风格"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Style",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Style.txt",
+        "summary": "Honey.",
+        "prompt": "Honey.\nAudio\nMicroblogging\nRégime\nThe red floor.\nRoar\nYou know what I'm talking about.\nRustling.\nQuiddium\nJoo Yiu.\nTranslator\nArc\nLittle Red Book\nBullshit literature.\nOrthopaedic.\nThe Wang Family Guard.\nMarketing code\nKwok Ching Ming\nYou're retarded, aren't you?\nOld cadre.\nProgrammer\nCrazy literature.\nRat literature\nSystem Scroll\nThree and a half sentences.\nCaption\nBreaking up.\nVersailles.\nCome to the body of science.\nOfficial communications\nNewscaster\nBean Pulse Diaries\nGentle healing body.\nYin-yang-yang gas.\nPure Acetone\nI'm a marketing ghost.\nLick a dog's diary.\nThat's bullshit.\nAcademic black lines\nLeadership speech\nE-commodity.\nU.S.C. shock.\nAncient Lyrics\nIt's a treacherous expression.\nLife Tutor.\nBlank Statement\nFast Hand/Old Steel\nThe script kills the characters.\nTalk show/parts\nPure A/B\nLemon / Bones\nYouth and pain literature.\nSecond dollar/house culture",
+        "tags": [
+          "Marketing Operations",
+          "Style"
+        ]
+      }
+    }
   },
   {
     "id": "写作-学生作文",
@@ -831,7 +1650,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "学生作文"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Student contributions",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Student contributions.csv",
+        "summary": "Please write a essay for me.",
+        "prompt": "Please write a essay for me.\nRole: You're a childish pupil (or a student in high school, a student)\nLanguage Selection: Chinese (or English)\nChoosing tone: nausea\nScript style: Journal\nWords: Not less than 800 words\nScript title: Enter the subject or keyword of the content to be written. For example, my animal friend -- circle",
+        "tags": [
+          "Writing",
+          "Student contributions"
+        ]
+      }
+    }
   },
   {
     "id": "写作-学生作文-2",
@@ -844,7 +1676,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "学生作文"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Student contributions",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Student contributions.csw",
+        "summary": "https://www.un.org/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Writing",
+          "Student contributions"
+        ]
+      }
+    }
   },
   {
     "id": "写作-文章续写",
@@ -857,7 +1702,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "文章续写"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Post-writing",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Post-writing.csv",
+        "summary": "Please help me with the following.",
+        "prompt": "Please help me with the following.\nSubject orientation: philosophy of life\nWriting style: Journal\nWords: Not less than 800 words\nSo, for example, on Sunday morning, a friend asked to go fishing by the river. But when I got to the agreed location...",
+        "tags": [
+          "Writing",
+          "Post-writing"
+        ]
+      }
+    }
   },
   {
     "id": "写作-文章续写-2",
@@ -870,7 +1728,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "文章续写"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Post-writing",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Post-writing.csw",
+        "summary": "https://www.un.org/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Writing",
+          "Post-writing"
+        ]
+      }
+    }
   },
   {
     "id": "写作-新建提示词文本",
@@ -883,7 +1754,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "新建提示词文本"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "New Hint Text",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/New Hint Text.csw",
+        "summary": "https://www.un.org/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Writing",
+          "New Hint Text"
+        ]
+      }
+    }
   },
   {
     "id": "写作-电影点评",
@@ -896,7 +1780,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "电影点评"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Film reviews.",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Film reviews..csv",
+        "summary": "You're a senior film critic.",
+        "prompt": "You're a senior film critic.\nPlease write me a film review on the theme: \"Let the bullet fly.\"\nLanguage Selection: Chinese (or English)\nSelecting tone: Professional\nHumor.\nWords: Not less than 800 words",
+        "tags": [
+          "Writing",
+          "Film reviews."
+        ]
+      }
+    }
   },
   {
     "id": "写作-电影点评-2",
@@ -909,7 +1806,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "电影点评"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Film reviews.",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/Film reviews..csw",
+        "summary": "https://www.un.org/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Writing",
+          "Film reviews."
+        ]
+      }
+    }
   },
   {
     "id": "写作-高考作文",
@@ -922,7 +1832,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "高考作文"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "I'm going to go to high school to give a lecture.",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/I'm going to go to high school to give a lecture..csv",
+        "summary": "Please write a essay for me.",
+        "prompt": "Please write a essay for me.\nYou're an expert in high school writing.\nLanguage Selection: Chinese (or English)\nChoosing tone: Formal, concise\nWriting style: conference papers\nSubject orientation: philosophy of life\nWords: Not less than 800 words\nExample: Some people look at the end of the score and the end, others look at the beginning, and others look at the end. How do you feel and think about it? Write an article about your point of view.",
+        "tags": [
+          "Writing",
+          "I'm going to go to high school to give a lecture."
+        ]
+      }
+    }
   },
   {
     "id": "写作-高考作文-2",
@@ -935,7 +1858,20 @@ export const promptEntries = [
     "tags": [
       "写作",
       "高考作文"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "I'm going to go to high school to give a lecture.",
+        "category": "Writing",
+        "sourcePath": "Prompt Library/Writing/I'm going to go to high school to give a lecture..csw",
+        "summary": "https://www.un.org/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Writing",
+          "I'm going to go to high school to give a lecture."
+        ]
+      }
+    }
   },
   {
     "id": "图片-动漫头像",
@@ -948,7 +1884,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "动漫头像"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The Manipulator.",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/The Manipulator..csv",
+        "summary": "Please draw me an animated head, the theme of which is: \"The girl in the red necklace.\"",
+        "prompt": "Please draw me an animated head, the theme of which is: \"The girl in the red necklace.\"\nIn a red dress.\nHair: long, long, dark hair.\nnecklace colour: ruby and light black\nBackground element: Chinese wind element\nStyle: A work like the Shinjita, romantic feminisation, elegant style like a girl warrior, rich face close-ups",
+        "tags": [
+          "Images",
+          "The Manipulator."
+        ]
+      }
+    }
   },
   {
     "id": "图片-动漫头像-2",
@@ -961,7 +1910,20 @@ export const promptEntries = [
     "tags": [
       "图片",
       "动漫头像"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The Manipulator.",
+        "category": "Images",
+        "sourcePath": "Prompt Library/Images/The Manipulator..csw",
+        "summary": "https://chat",
+        "prompt": "https://chat.baidu.com/search?extParams=%7B%22enter_type%222%3A%22home_operate%22%2D&isShowHello=1",
+        "tags": [
+          "Images",
+          "The Manipulator."
+        ]
+      }
+    }
   },
   {
     "id": "小说-ai小说生成器",
@@ -974,7 +1936,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "AI小说生成器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "AI novel generator",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/AI novel generator.csv",
+        "summary": "Write me a fairy novel: you're a top webwriter with a master of the art of the art of the art, and you're good at building a grand system of the art and a world view of the world.",
+        "prompt": "Write me a fairy novel: you are a top-class webwriter with a mastery of novels, who is good at building grand alchemistry and exotic world views. You know all about the art of the fairy, and you can design wonders, treasures, works and spirits. Your writing is imaginative, good at depicting a violent break-through scene, a moving struggle, and the way the main players get to the top. Freedom is between the 2,000-3,000 words that generate novels and the 3,000-words that need to be expanded to the same number.\nThe novel name:\n\"The novels are classified as fairy novels.\"\nWriting style: \"Hunny Fun\"\nThe novel type:\nRetro attacks\nGold finger.\nThe novels channel: Men\nMain Settings\nWorld set: World name: Great Summers core set: The Fairy Flyed.\nThe main character name: Gubei Tek\nThe main character describes: 20 years old, a minor drug-picker. He has a glitch of the ancient fairy, his golden finger, but also his danger. He is a strong man with a drive for the road, but he is often despised because of his origin.\n♪ The ♪\nThe woman dressed as a framed and murdered noble lady, secretly gathering evidence to expose the behind-the-scenes, using the court power to try to kill the enemy, eventually taking control of the DPRK and turning its fate.\nThe novel is full of stories: the drug-picking youngster who was accidentally awakened to the ancient spirits of the North and who was given a remarkable gift of healing. It was both an opportunity and a danger: the spirit helped him to heal, but it also swallowed his mind.\nAfter the appearance of the Qing Yunzhong, Gu was drawn into a brawl between the great forces. In order to find the truth and protect himself, he left the city and set on the path of the cloud. On the way, he revealed the secret of the shock of Kyushu: the forces were seeking the reincarnation of the ancient fairy, with the intention of taking over the world.\nFaced with the threat of the spirits inside, the desire of the forces and the increasingly collapsed world order, the North must rise in adversity and seek its own life and that of the world.\nNumber of chapters: total 10\nWords per chapter: 2,500-3500 words\nCreating rules: **Role setting**: Chapter I must set names, gender, age and personality for the main players, and also name and character characteristics for the important dictator, consistent with subsequent chapters.\n** Refinement**: Clear display of differences in the level of refining, with a ritual sense of breaking the scene and a living physique.\n** Battle scene**: Magic needs to be visualized, challenges are reasonable over time, and the main players have a clear but unwitting advantage.\n** Stranger settings**: Treasures must be made with a quilt, coincidences natural, and the harvest must be pleasant for the reader.",
+        "tags": [
+          "Fiction",
+          "AI novel generator"
+        ]
+      }
+    }
   },
   {
     "id": "小说-ai小说生成器-2",
@@ -987,7 +1962,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "AI小说生成器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "AI novel generator",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/AI novel generator.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Fiction",
+          "AI novel generator"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说书名生成器",
@@ -1000,7 +1988,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说书名生成器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The novel name generator",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/The novel name generator.csv",
+        "summary": "Example: I want to write a martial arts novel about decades of bitterness and revenge that have been generated by a tragic destruction.",
+        "prompt": "Example: I want to write a martial arts novel about decades of bitterness and revenge that have been generated by a tragic destruction.\nThe novel type: Wu Man\nTime Background: Tang Dy\nName style: Cyberexploitation\nGenerating: Rapidly generating about 15 candidate names in accordance with the above rules",
+        "tags": [
+          "Fiction",
+          "The novel name generator"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说书名生成器-2",
@@ -1013,7 +2014,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说书名生成器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The novel name generator",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/The novel name generator.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Fiction",
+          "The novel name generator"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说起名生成器",
@@ -1026,7 +2040,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说起名生成器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Novel Generater",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Novel Generater.csv",
+        "summary": "Identification of needs: Identification of the type of name (role/name/doctor) and the subject matter (e.g., grand illusions, urban)",
+        "prompt": "Identification of needs: Identification of the type of name (role/name/doctor) and the subject matter (e.g., grand illusions, urban).\nSet parameters:\nRole: Sword repair + pride\nSuperpower: time manipulation + side effects blindness\nSelection style: Classic/modern/Poetic\nWords: Words/Binds\nSex: Male/F/Obligated\nCultural content: To integrate classic literature and natural images such as the Psalms and the words, to ensure that names are beautiful and deep and to enhance the truth of stories.\nGenerating: Rapidly generating about 15 candidate names in accordance with the above rules",
+        "tags": [
+          "Fiction",
+          "Novel Generater"
+        ]
+      }
+    }
   },
   {
     "id": "小说-小说起名生成器-2",
@@ -1039,7 +2066,20 @@ export const promptEntries = [
     "tags": [
       "小说",
       "小说起名生成器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Novel Generater",
+        "category": "Fiction",
+        "sourcePath": "Prompt Library/Fiction/Novel Generater.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Fiction",
+          "Novel Generater"
+        ]
+      }
+    }
   },
   {
     "id": "生活-升学择业顾问",
@@ -1052,7 +2092,20 @@ export const promptEntries = [
     "tags": [
       "生活",
       "升学择业顾问"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Career Promotion Adviser",
+        "category": "Lifestyle",
+        "sourcePath": "Prompt Library/Lifestyle/Career Promotion Adviser.csv",
+        "summary": "You're a very sane senior education consultant.",
+        "prompt": "You're a very sane senior education consultant.\nSo, please help me with the question of career advancement, the theme is: Example: Nanjing University of Aeronautics and Space and Xian Electronics University do a comprehensive comparative analysis.",
+        "tags": [
+          "Lifestyle",
+          "Career Promotion Adviser"
+        ]
+      }
+    }
   },
   {
     "id": "生活-取名大师",
@@ -1065,7 +2118,20 @@ export const promptEntries = [
     "tags": [
       "生活",
       "取名大师"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The Master of the House.",
+        "category": "Lifestyle",
+        "sourcePath": "Prompt Library/Lifestyle/The Master of the House..csv",
+        "summary": "You're a top-man with a very good vision.",
+        "prompt": "You're a top-man with a very good vision.\nPlease give me a good, meaningful and blessed name, the theme of which is: Example: I want to form a technology company to name me some more representative and meaningful companies. Example 2: The boy's name is Lee, born 2022-10-18, and hopefully the name comes from the famous words.",
+        "tags": [
+          "Lifestyle",
+          "The Master of the House."
+        ]
+      }
+    }
   },
   {
     "id": "生活-夸夸神器",
@@ -1078,7 +2144,20 @@ export const promptEntries = [
     "tags": [
       "生活",
       "夸夸神器"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "- A glorified instrument.",
+        "category": "Lifestyle",
+        "sourcePath": "Prompt Library/Lifestyle/- A glorified instrument..csv",
+        "summary": "You're a top psychologist with a very high level of love.",
+        "prompt": "You're a top psychologist with a very high level of love.\nLanguage: Try to be oral\nSo, please help me with a sincere compliment, based on what I want to say or what I want to say, and the theme is, \"Examples: girlfriends make great meals.\"",
+        "tags": [
+          "Lifestyle",
+          "- A glorified instrument."
+        ]
+      }
+    }
   },
   {
     "id": "生活-法律顾问",
@@ -1091,7 +2170,20 @@ export const promptEntries = [
     "tags": [
       "生活",
       "法律顾问"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Legal Adviser",
+        "category": "Lifestyle",
+        "sourcePath": "Prompt Library/Lifestyle/Legal Adviser.csv",
+        "summary": "You're a top legal adviser with great care and rigour.",
+        "prompt": "You're a top legal adviser with great care and rigour.\nPlease give a legal recommendation based on the scene of the incident, the following theme: Example: What should be done when a traffic accident has occurred?",
+        "tags": [
+          "Lifestyle",
+          "Legal Adviser"
+        ]
+      }
+    }
   },
   {
     "id": "生活-私人厨师",
@@ -1104,7 +2196,20 @@ export const promptEntries = [
     "tags": [
       "生活",
       "私人厨师"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Private chef.",
+        "category": "Lifestyle",
+        "sourcePath": "Prompt Library/Lifestyle/Private chef..csv",
+        "summary": "You're a top five-star chef, master of all Western and Central foods, and you're a Chinese cook, master of all Chinese food systems.",
+        "prompt": "Role: You're a top five-star chef, master of all Western and Central foods, especially Chinese food, Chinese food system. You can ask, however you want to learn, a detailed profession, and you can take into account the nutritional mix.\nPossessing food: carrots, potatoes, spinach, tomatoes, mushrooms, broccoli, broccoli, chicken and beef\n- The ban on the cauliflower.\nI want to learn how to cook today: Xinjiang Tai-ho\nPlease give a suggested recipe based on my diet preferences and related information: Example: I'm a little obese and I have hypertension, and I'll recommend a few healthy recipes.",
+        "tags": [
+          "Lifestyle",
+          "Private chef."
+        ]
+      }
+    }
   },
   {
     "id": "红书-emoji添加指令",
@@ -1117,7 +2222,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "Emoji添加指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Emoji Add Command",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Emoji Add Command.csv",
+        "summary": "You're a little red book operation that always adds emoticons to the text, hoping to make the content warmer.",
+        "prompt": "Role: You're a little red book operation that always adds emoticons to the text, hoping to make the content warmer.\nBackground: A text like [words entered] just came in, which needs to be transformed into a little red book platform. As a regular operation using a little red book, you know that a good paper, in addition to being genuinely practical, can make the article more resonant.\nRequest: Add an appropriate Emoji emoticon to [insert words], which should be guided by the relevant emoticons of the subject matter at the beginning, with due emphasis on the transition to nature, a summary of points, and a final 3-5 subject label. Be careful that the number of expressions is moderate and avoid the crowding of the subject matter. Let the whole document be both interesting and informative.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Emoji Add Command"
+        ]
+      }
+    }
   },
   {
     "id": "红书-emoji添加指令-2",
@@ -1130,7 +2248,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "Emoji添加指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Emoji Add Command",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Emoji Add Command.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Emoji Add Command"
+        ]
+      }
+    }
   },
   {
     "id": "红书-内容创意指令",
@@ -1143,7 +2274,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "内容创意指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Content Creative Commands",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Content Creative Commands.csv",
+        "summary": "You're a little red book-brow, sharing a crowd and depth, and you've built up a fan base.",
+        "prompt": "You're a little red book-brow, you're good at sharing crowds and depths, and you've built up a certain fan base.\nBackground: A lot of [themes filled in] materials have been taken recently, and there is a basic framework [words entered] that is not sure how to plan and package content.\nRequest: Please provide content planning for this theme [number of words to be entered] with different perspectives and creative styles\nThe conference. The ideas can be found in the perspective of the film, the presentation of the story, interactive design. The advice is practical and helps to increase the appeal and dissemination of the content. Avoid the old-fashioned setting of spots, and dig for interesting experiences and stories.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Content Creative Commands"
+        ]
+      }
+    }
   },
   {
     "id": "红书-内容创意指令-2",
@@ -1156,7 +2300,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "内容创意指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Content Creative Commands",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Content Creative Commands.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Content Creative Commands"
+        ]
+      }
+    }
   },
   {
     "id": "红书-增强互动指令",
@@ -1169,7 +2326,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "增强互动指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Enhanced interactive directives",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Enhanced interactive directives.csv",
+        "summary": "Role: You are a small red book brand that runs daily content distributions [into the track] and recently studied how to increase user interaction of accounts",
+        "prompt": "Role: You are a small red book brand that operates daily content distributions [into the track] and have recently studied how to increase user interaction of accounts.\nBackground: It was found that the recently published evaluation notes, although not very good data, were not of good quality and that the comments area was not interactive, and it was hoped that they would be more effective in the future.\nBy optimizing the text, users are more willing to share their experiences and ideas of use.\nRequire: Increase interactive lead design based on maintaining the original [word-filled] content. This could be to set open questions, share interesting uses that create resonance, design easy interactive little games, and so on as naturally as a chat with sisters, and avoid hard-core comments. Make users willing to share their views and experiences in a relaxed atmosphere.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Enhanced interactive directives"
+        ]
+      }
+    }
   },
   {
     "id": "红书-增强互动指令-2",
@@ -1182,7 +2352,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "增强互动指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Enhanced interactive directives",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Enhanced interactive directives.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Enhanced interactive directives"
+        ]
+      }
+    }
   },
   {
     "id": "红书-小红书文案",
@@ -1195,7 +2378,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "小红书文案"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Little Red Book",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Little Red Book.csv",
+        "summary": "You're a 25-year-old female blogger.",
+        "prompt": "You're a 25-year-old female blogger.\nMission: Reformulate the following instructions to a small red book notebook\nRequire: Oral, first person, community slang with “sister”; key information ahead; plus 3 related labels.\nOutput format: Title + Body + Label, Total Words 250 ~ 20.\nNegative restrictions: Disable academic, passive, long sentences.\nWriting format: With title, emoji, item, end of CTA.\nWriting style: humorous, professional.\nTextual use: Soft herb\nExample: A profile of a mask that requires a bit more vibrating to attract more customers to buy.",
+        "tags": [
+          "Xiaohongshu",
+          "Little Red Book"
+        ]
+      }
+    }
   },
   {
     "id": "红书-小红书标题",
@@ -1208,7 +2404,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "小红书标题"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Little Red Book Title",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Little Red Book Title.csv",
+        "summary": "Role: You are a senior Red Book operator [filled in the direction of industry] who reviews and optimizes the titles of multiple notes every day",
+        "prompt": "Role: You are a senior Red Book operator [filled in the direction of industry] who reviews and optimizes the titles of multiple notes on a daily basis.\nBackground: You have found that the Platform has recently adjusted the presentation rules for the title, that good titles play a key role in the exposure of the first page of the Note, and that you now need to create attractive titles for a content that has a theme [filled theme].\nUse attractive titles: 2.1. Use exclamation, ellipsis, etc. to enhance expression and create a sense of urgency and surprise.\n2.2. Use emoji emoticons to increase the vitality of the title\n2.3. Use of challenging and suspense expressions that trigger reading, “invincible curiosity”, such as “surged vocabulary”, “refusal of anxiety”, etc.\n2.4. Using positive and negative incentives to induce the reader's instinctive needs and animal fundamental drivers, such as “out of the top”, “projects you do not know are very profitable”\n2.5. Integration of topical topics and practical tools to improve the usefulness and timeliness of articles, such as “The 2023 Known”, “chatGPT during the rush”\n2.6. Describe concrete results and effects, emphasizing the key words in the title to make them more attractive, such as “the poor English base, you can get 130+ if you know what these syntaxes are”.\nUse the blast keyword and write the title using the following 1 or 2 words: \"Wept, big data, textbook style, white-looking, treasure, hysteria, \"I'm not allowed to make a big effort, \"YYDS,\" \"Smileless,\" \"C\" recipe, \"I'm not allowed to put down the bottom of the box,\" \"Cleaning,\" \"Currently, \"Calling Up,\" \"Call Up the Net,\" \"Stand\" and \"Crowd Up\" and \"Crowd Up\" and \"Crowd Up\" and \"Crowd Up\" and \"Crowd Up\" and \"Blow Up\" and \"Blow Up the Hand,\" \"Blowing the Hand\" and \"Blowing Up\" and \"Blow Up\" and \"Blow Up\" and \"Blow Up\" and \"Blow Up\" and \"Blow Up\" and \"Blow Up\" and \"Blow Up\" and \"Blow\" and \"Beep Up\" and \"Beep\" and \"Beep\" and \"Beep Up\" and \"Beep\" and \"Beep\" and \"Beep\" and \"Beep\" and \"Beep\" and \"Beep\" and \"F\" and \"F\" and \"Beep\" and \"F\" and \"F\" and \"F\" and \"B\" and \"B\" and \"B\" and \"B\" and \"B\" and \"B\" and \"F\" and \"B\" and \"F\" and \"F\" and \"F\"\nExample: Black technology mask, make you more beautiful and white.\"\nTitle number: Creates [number of entries] headings in accordance with the above rules, with word numbers in 20 words, and using symbols, English, Emoji, harmonics and web-based terms in a reasonable way. The headings are simple and strong, highlight the content core, stimulates readers’ desire to click, and corresponds to the style of the little red book platform.",
+        "tags": [
+          "Xiaohongshu",
+          "Little Red Book Title"
+        ]
+      }
+    }
   },
   {
     "id": "红书-小红书标题-2",
@@ -1221,7 +2430,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "小红书标题"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Little Red Book Title",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Little Red Book Title.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Little Red Book Title"
+        ]
+      }
+    }
   },
   {
     "id": "红书-广告策划指令",
@@ -1234,7 +2456,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "广告策划指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The ad planner's orders.",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/The ad planner's orders..csv",
+        "summary": "Role: You are a senior Red Book brander who customizes grass content and outreach programs for multiple brands on a daily basis",
+        "prompt": "Role: You are a senior Red Book brander [filled in the class] who customizes grass content and outreach programs for multiple brands on a daily basis.\nBackground: You receive an extension demand from [filling brands] that needs to be used to activate the target audience.\nRequest: Each content program [insert number] needs to contain content forms, creative directions framework and publication titles. Content should naturally be true to avoid hard-broadness, focus on user-relations, and fit the tone of the mini-red book platform.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "The ad planner's orders."
+        ]
+      }
+    }
   },
   {
     "id": "红书-广告策划指令-2",
@@ -1247,7 +2482,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "广告策划指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The ad planner's orders.",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/The ad planner's orders..csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "The ad planner's orders."
+        ]
+      }
+    }
   },
   {
     "id": "红书-文本改写指令",
@@ -1260,7 +2508,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "文本改写指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Text Rewrite Command",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Text Rewrite Command.csv",
+        "summary": "Role: You are a senior Red Book Optimist who handles the second creation of a large amount of content every day.",
+        "prompt": "Role: You are a senior Red Book Optimist who handles the secondary creation of a large amount of content every day.\nBackground: You receive a text on [insert theme] that requires the creation of multiple versions of different expressions on the basis of maintaining the original intent.\nRequest: Write five different versions of the text, each of which is to express the same core content, but using different expressions and writing styles. Rewrite the content in a way that is easy to understand, conform to the style of the little red book, avoid repetition of text, and maintain the new sense of expression.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Text Rewrite Command"
+        ]
+      }
+    }
   },
   {
     "id": "红书-文本改写指令-2",
@@ -1273,7 +2534,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "文本改写指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Text Rewrite Command",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Text Rewrite Command.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Text Rewrite Command"
+        ]
+      }
+    }
   },
   {
     "id": "红书-文章续写指令",
@@ -1286,7 +2560,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "文章续写指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Post-writing instructions",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Post-writing instructions.csv",
+        "summary": "Role: You're a senior Red author of \"In Field\" writing, who is good at producing high quality content in a fluid, natural writing.",
+        "prompt": "Role: You are a senior Red author of [filled in field] writing and are good at producing high quality content in a fluid, natural writing.\nBackground: You are producing an article on the theme of the article, which is now in the beginning and which needs to be further refined.\nRequest: Please continue writing the entire subject and end of the article based on the existing starting elements, with a consistent style of style and logic. Articles should be focused, structured, and language-friendly, consistent with the reading habits of the Little Red Book Platform.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Post-writing instructions"
+        ]
+      }
+    }
   },
   {
     "id": "红书-文章续写指令-2",
@@ -1299,7 +2586,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "文章续写指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Post-writing instructions",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Post-writing instructions.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Post-writing instructions"
+        ]
+      }
+    }
   },
   {
     "id": "红书-热门问题指令",
@@ -1312,7 +2612,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "热门问题指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Hot question instructions",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Hot question instructions.csv",
+        "summary": "You're a senior Red Book projector who's good at catching hot topics and user focus.",
+        "prompt": "Role: You're a senior \"Inline\" Questing Point, a catch-up topic and user focus.\nBackground: You found that [filling hot words/brands/topics/websites/commodities] has recently been very hot on the platform and that there is a need to organize the issues to provide direction for creation.\nRequest: Generate 10 high-quality issues associated with the hotspot that are closely related to the interest and needs of [insert audiences]. The questions are time-bound and topical, stimulate discussion and interaction among users, and are consistent with the style of the mini-red book platform.\nPlease indicate the selection after the list of issues\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Hot question instructions"
+        ]
+      }
+    }
   },
   {
     "id": "红书-热门问题指令-2",
@@ -1325,7 +2638,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "热门问题指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Hot question instructions",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Hot question instructions.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Hot question instructions"
+        ]
+      }
+    }
   },
   {
     "id": "红书-爆款标题指令",
@@ -1338,7 +2664,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "爆款标题指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Exploded Title Directive",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Exploded Title Directive.csv",
+        "summary": "You're a senior Red Book operator [filled in industry direction] who reviews and optimizes the titles of a number of notes every day.",
+        "prompt": "Role: You are a senior Red Book operator [filled in the direction of industry] who reviews and optimizes the titles of a number of notes every day.\nBackground: You have found that the Platform has recently adjusted the presentation rules for titles, that good titles play a key role in the exposure of the first pages of your notes, and that you now need to create attractive titles for a content subject that is \"filled in theme.\"\nRequest: Write a title [in Quantities] that is within 20 words, and that allows the use of symbols, English, emoticons, harmonics and web-based terms. The title should be simple and strong, highlighting the content core, and it can stimulate readers to click and match the tone of the little red book platform.",
+        "tags": [
+          "Xiaohongshu",
+          "Exploded Title Directive"
+        ]
+      }
+    }
   },
   {
     "id": "红书-爆款标题指令-2",
@@ -1351,7 +2690,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "爆款标题指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Exploded Title Directive",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Exploded Title Directive.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Exploded Title Directive"
+        ]
+      }
+    }
   },
   {
     "id": "红书-笔记文案指令",
@@ -1364,7 +2716,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "笔记文案指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Notebook command.",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Notebook command..csv",
+        "summary": "Role: You are a senior author of the contents of the [insert field] book, a great translator of expertise into a high-quality grass-paste.",
+        "prompt": "Role: You are a senior author of the contents of the [inserted fields] book and are good at translating expertise into high-quality grass-paste.\nBackground: You find the platform users interested in the topic [filled theme], and you need to create a document that will help users solve practical problems.\nRequest: Create a full red book containing opening interactions, core content, personal advice and interactive guidance, with words in 800 words. Textbooks should be easy to understand, focused, and properly use emoji, with points that are user-friendly.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Notebook command."
+        ]
+      }
+    }
   },
   {
     "id": "红书-笔记文案指令-2",
@@ -1377,7 +2742,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "笔记文案指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Notebook command.",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Notebook command..csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Notebook command."
+        ]
+      }
+    }
   },
   {
     "id": "红书-脚本生成指令",
@@ -1390,7 +2768,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "脚本生成指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Script Generation Command",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Script Generation Command.csv",
+        "summary": "You're a little red book-brow, you've got a steady fan, you're good at sharing content in oral form.",
+        "prompt": "You're a little red book-brow, you've got a steady fan, you're good at sharing content in oral form.\nBackground: You are going to record a video of the oral [filled theme], and you are going to prepare a naturally flowing speech that is in line with the language style of the Little Red Book Platform and that gives users a sense of affection and authenticity.\nRequest: Write a script with a \" word-filled\" theme, which will be opened with an attractive guide to the focus content, with a natural flow of the switch, a warm and strong summary and three to five associated labels. Watch out for the tone, avoid overplay, make the whole video live and professional, maintain personal style and use the platform ' s usual language appropriately.\nWriting format: With title, emoji, item, end of CTA.\nExample: Black technology mask, make you more beautiful and white.\"",
+        "tags": [
+          "Xiaohongshu",
+          "Script Generation Command"
+        ]
+      }
+    }
   },
   {
     "id": "红书-脚本生成指令-2",
@@ -1403,7 +2794,20 @@ export const promptEntries = [
     "tags": [
       "红书",
       "脚本生成指令"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Script Generation Command",
+        "category": "Xiaohongshu",
+        "sourcePath": "Prompt Library/Xiaohongshu/Script Generation Command.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Xiaohongshu",
+          "Script Generation Command"
+        ]
+      }
+    }
   },
   {
     "id": "职场-ppt助手",
@@ -1416,7 +2820,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "PPT助手"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "PPT Assistant",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/PPT Assistant.csv",
+        "summary": "You're a PPT expert.",
+        "prompt": "You're a PPT expert.\nPlease write an outline of the PPT slide and its content, the theme of which is:\nOutline: Optional\nContents: Optional\nLanguages: Chinese\nUse scene: public service promotion\nSlides: 6-8 pages",
+        "tags": [
+          "Workplace",
+          "PPT Assistant"
+        ]
+      }
+    }
   },
   {
     "id": "职场-产品宣传稿",
@@ -1429,7 +2846,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "产品宣传稿"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Product promotional drafts",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Product promotional drafts.csv",
+        "summary": "You're a product promoter.",
+        "prompt": "You're a product promoter.\nPlease help me with a promotional text highlighting the characteristics of our products, the following: Example: Introduction of our keyboard products to clients, highlighting their \"good material, good touch\" features.\nContents: Optional\nRequirement: Optional\nEXPLAIN: Could be a technical parameter/emotional value/price...\nLanguages: Chinese\nUse scene: social media\nLanguage style: oral, passionate.",
+        "tags": [
+          "Workplace",
+          "Product promotional drafts"
+        ]
+      }
+    }
   },
   {
     "id": "职场-工作总结",
@@ -1442,7 +2872,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "工作总结"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Summary of work",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Summary of work.csv",
+        "summary": "Please help me write a summary of work at the end of the year.",
+        "prompt": "Please help me write a summary of work at the end of the year.\nProfession: Enter your profession (e.g., I'm a talented actor)\nWork content: broadcast your main elements and processes\nLanguage: Professional\nSimple\nWords: Enter the number of words you want to generate\nFocus: Outcomes of work\nSolutions\nLessons learned",
+        "tags": [
+          "Workplace",
+          "Summary of work"
+        ]
+      }
+    }
   },
   {
     "id": "职场-工作总结-2",
@@ -1455,7 +2898,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "工作总结"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Summary of work",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Summary of work.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "Summary of work"
+        ]
+      }
+    }
   },
   {
     "id": "职场-心得体会",
@@ -1468,7 +2924,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "心得体会"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "You know, I'm just...",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/You know, I'm just....csv",
+        "summary": "Subject of Heart: You want to share the content theme of the heart",
+        "prompt": "Subject of Heart: You want to share the content theme of the heart\nContent and Process: broadcast the main elements and processes of the special experience you want to share, as well as the knowledge and skills you gain from it\nFeel the thought: personal insights and thoughts you get from it\nMARK:\nIndulging.\nFuture expectations or plans: based on this experience, activities and learning, what are your expectations and plans for the future?",
+        "tags": [
+          "Workplace",
+          "You know, I'm just..."
+        ]
+      }
+    }
   },
   {
     "id": "职场-心得体会-2",
@@ -1481,7 +2950,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "心得体会"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "You know, I'm just...",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/You know, I'm just....csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "You know, I'm just..."
+        ]
+      }
+    }
   },
   {
     "id": "职场-日报周报",
@@ -1494,7 +2976,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "日报周报"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Daily weekly reports",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Daily weekly reports.csv",
+        "summary": "Please help me generate a full report on the work on the following topics: Example: Collection of information on intended clients; Visits to 3 clients; collection of client response issues and follow-up on solutions",
+        "prompt": "Please help me generate a full report on the work on the following topics: Example: Collection of information on intended clients; Visits to three clients; Collection of customer response issues and follow-up on solutions.\nWrites: 1000 words\nLanguage style: formal rigour\nType of report: Weekly reports",
+        "tags": [
+          "Workplace",
+          "Daily weekly reports"
+        ]
+      }
+    }
   },
   {
     "id": "职场-日报周报-2",
@@ -1507,7 +3002,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "日报周报"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Daily weekly reports",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Daily weekly reports.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "Daily weekly reports"
+        ]
+      }
+    }
   },
   {
     "id": "职场-演讲稿",
@@ -1520,7 +3028,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "演讲稿"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Speeches",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Speeches.csv",
+        "summary": "Please write me a speech with a vivid language theme: Example: Write a speech for secondary school students on the subject of being grateful.",
+        "prompt": "Please write me a speech with a vivid language theme: Example: Write a speech for secondary school students on the subject of being grateful.\nWrites: 1000 words\nLanguage style: formal rigour",
+        "tags": [
+          "Workplace",
+          "Speeches"
+        ]
+      }
+    }
   },
   {
     "id": "职场-演讲稿-2",
@@ -1533,7 +3054,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "演讲稿"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Speeches",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Speeches.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "Speeches"
+        ]
+      }
+    }
   },
   {
     "id": "职场-简历制作",
@@ -1546,7 +3080,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "简历制作"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Curricula vitae",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Curricula vitae.csv",
+        "summary": "You're a senior HR with 10 years of recruitment experience, and you're good at digging up candidates.",
+        "prompt": "Role: You're a senior HR with 10 years of recruitment experience, good at digging up candidates.\nEducational background: including specialization, courses studied, etc.\nWork experience: including work unit, position, years of service, achievements, etc.\nProject experience: including project name, time, project results, etc.\nSelf-evaluation: optional for character characteristics, strengths of capabilities, etc.\nSkill Certificate: Show your skill Certificate\nTarget position JD: Paste the job description you're looking for here.\nMission target: Please produce a perfect curriculum vitae based on what I've offered.\nRequirement: Strict compliance with the STAR rules (situation, task, action, outcome).\nTake the key words from JD and match my experience with them.\nUse the verb starting with language simplicity, professionalism and objectivity.\nIt must contain quantitative data. If I don't provide specific data, please ask me to add it, not to make it up.\nTo remove all subjective adjectives (such as “proactiveness”, “responsible responsibility”) and speak only in fact.",
+        "tags": [
+          "Workplace",
+          "Curricula vitae"
+        ]
+      }
+    }
   },
   {
     "id": "职场-简历制作-2",
@@ -1559,7 +3106,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "简历制作"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Curricula vitae",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Curricula vitae.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "Curricula vitae"
+        ]
+      }
+    }
   },
   {
     "id": "职场-营销活动头脑风暴",
@@ -1572,7 +3132,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "营销活动头脑风暴"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Marketing activities, a storm of brains.",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Marketing activities, a storm of brains..csv",
+        "summary": "Role: You play a top [player, e.g., virus marketing expert/Creative Director]",
+        "prompt": "Role: You play a top [player, e.g., virus marketing expert/Creative Director]\nThe theme is: Example: promotion of a new plant-based yogurt\nTarget audience: e.g. urban white collars, gymnasium fans, 25-35 years old\nWhere are the applications: for example, social media platforms, such as Little Red Books and Wiggly\nExpected results: e.g., raising brand visibility and leading to first-time purchases\nStyles/emotionals: e.g. fun/heated healing/technosing\nUnique elements: e.g., integration with traditional culture/use of an unexpected colour/no budget\nWrites: 1000 words\nFormat requirements: Please help me come up with 20 creative ideas related to the theme.",
+        "tags": [
+          "Workplace",
+          "Marketing activities, a storm of brains."
+        ]
+      }
+    }
   },
   {
     "id": "职场-营销活动头脑风暴-2",
@@ -1585,7 +3158,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "营销活动头脑风暴"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Marketing activities, a storm of brains.",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Marketing activities, a storm of brains..csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "Marketing activities, a storm of brains."
+        ]
+      }
+    }
   },
   {
     "id": "职场-课件教案",
@@ -1598,7 +3184,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "课件教案"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Classes",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Classes.csv",
+        "summary": "Please write me a lecture on the theme:",
+        "prompt": "Please write me a lesson on the subject: Example: 1. Training in fire safety and fire safety in companies. 2. Mathematical lessons: one-time equation.\nWrites: 1000 words\nLanguage style: formal rigour\nSubjects of instruction: School students\nFocus: Knowledge transfer",
+        "tags": [
+          "Workplace",
+          "Classes"
+        ]
+      }
+    }
   },
   {
     "id": "职场-课件教案-2",
@@ -1611,7 +3210,20 @@ export const promptEntries = [
     "tags": [
       "职场",
       "课件教案"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Classes",
+        "category": "Workplace",
+        "sourcePath": "Prompt Library/Workplace/Classes.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com",
+        "tags": [
+          "Workplace",
+          "Classes"
+        ]
+      }
+    }
   },
   {
     "id": "运营-通用文案",
@@ -1624,7 +3236,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "&通用文案&"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "& General",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/& General.csw",
+        "summary": "https://www.un.org/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/sc/s/sc/sc/s/sc/sc/sc/s/sc/sc/sc/sc/sc/sc/s/sc/s/sc/s/s/s/s/sc/sc/s/s/sc/s/s/s/s/s/s/s/s/s/s/s/s/s/s/sc/S/S/Sc/Sc/Sc/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/",
+        "prompt": "https://www.deepseek.com\nhttps://doubao.com",
+        "tags": [
+          "Marketing Operations",
+          "& General"
+        ]
+      }
+    }
   },
   {
     "id": "运营-产品卖点提炼",
@@ -1637,7 +3262,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "产品卖点提炼"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "- I'm a salesman.",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/- I'm a salesman..csv",
+        "summary": "You're a genius who's a product-saler.",
+        "prompt": "You're a genius who's a product-saler.\nPlease write a product description for my electrician product, refine unique outlets to make it more attractive.\nOutline: Optional\nContents: Optional\nLanguages: Chinese\nLanguage style: professional integrity",
+        "tags": [
+          "Marketing Operations",
+          "- I'm a salesman."
+        ]
+      }
+    }
   },
   {
     "id": "运营-短视频脚本",
@@ -1650,7 +3288,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "短视频脚本"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Short Video Script",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Short Video Script.csv",
+        "summary": "You're a genius who makes short video scripts.",
+        "prompt": "You're a genius who makes short video scripts.\nPlease make a short video script for me.\nOutline: Optional\nContents: Optional\nLanguage style: enthusiasm\nEasy humor.\nVideo type: Food and food shop",
+        "tags": [
+          "Marketing Operations",
+          "Short Video Script"
+        ]
+      }
+    }
   },
   {
     "id": "运营-视频口播稿",
@@ -1663,7 +3314,20 @@ export const promptEntries = [
     "tags": [
       "运营",
       "视频口播稿"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Video Oral",
+        "category": "Marketing Operations",
+        "sourcePath": "Prompt Library/Marketing Operations/Video Oral.csv",
+        "summary": "You're a genius who makes a blowjob.",
+        "prompt": "You're a genius who makes a blowjob.\nPlease help me generate a fire-prone video, the theme of which is: Example: A new wave of AI technology will bring about changes in productivity tools software.\nOutline: Optional\nContents: Optional\nLanguage style: enthusiasm\nEasy humor.\nType of writing: Knowledge Section\nNumber of writing words: 500 words",
+        "tags": [
+          "Marketing Operations",
+          "Video Oral"
+        ]
+      }
+    }
   },
   {
     "id": "角色-形容词",
@@ -1676,7 +3340,20 @@ export const promptEntries = [
     "tags": [
       "角色",
       "形容词"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Adjective",
+        "category": "Roles",
+        "sourcePath": "Prompt Library/Roles/Adjective.csv",
+        "summary": "Excellent.",
+        "prompt": "Excellent.\nGreat.\nProfessional.\nStrictly.\nSenior.\nExcellent.\nExcellent.\nTop of the line.\nAcademically rigorous.\nIt's a very delicate thing.\nOld-fashioned.\nIt's a good look.\nIt's a sharp move.\nThe fire is pure green.\nIt's a big deal.\nIt's brilliant.\nIt's a good idea.\nThere's more to the blade.\nIt's a vision.",
+        "tags": [
+          "Roles",
+          "Adjective"
+        ]
+      }
+    }
   },
   {
     "id": "角色-职业",
@@ -1689,7 +3366,20 @@ export const promptEntries = [
     "tags": [
       "角色",
       "职业"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Occupation",
+        "category": "Roles",
+        "sourcePath": "Prompt Library/Roles/Occupation.csv",
+        "summary": "Teachers",
+        "prompt": "Teachers\nEdit\nTranslation\nPoets.\nDoctor.\nCounselor.\nWriter.\nJournalists\nAccounting\nSales\nAdministration\nGuests\nTranslation\nGuided tours\nChef.\nNurse.\nActors.\nConsultants\nSecretary\nManager\nCivil servants\nEntrepreneurs\nArchitect\nArtist\nMusicians\nEngineer\nDesigner\nCameraman.\nProgrammer\nBroadcaster\nDiplomats\nTranslator\nNutritionist\nPhilosophy.\nAthletes\nScientists\nResearcher\nAnalyst\nTelegrapher.\nAnalyst\nSEO Expert\nNetwriter\nBiologists\nProduct Manager\nEntrepreneurial mentor\nA script writer.\nBusiness consultant\nBook Editor\nUniversity Professor\nSleeping specialist.\nNeurologists\nScientific Research Mentor\nProgramming specialists\nNegotiating experts\nSenior teacher\nFutureists\nLegal Adviser\nLogistics specialists\nHistoricist.\nCoach of fitness.\nFilm director.\nDance Division\nArtistic guidance\nThe Suspense Editor.\nAcademic mentor\nRadio host\nArt critic\nPhysics therapist\nPsychologist\nEconomist\nUrban planners\nSoftware Architect\nCommunity workers\nData scientists\nPolicy analysts\nEnvironmental scientists\nMusic producer\nA thousand-face rewriter.\nText Colourer\nKnowledge Area UP Master\nUnderground radio anchor\nEducational psychologists\nCybersecurity specialists\nSocial media manager\nConsultant on the living environment\nSpecialist in disease prevention and control\nMaster of Game Development\nYoung People's Edition\nAuntie Northeast Village\nA novelist coach.\nThe magazine's specialist.\nPress service revisers\n25-year-old female blogger\nSocrates-style mentor\nUser Experience Designer\nContent security auditor\nHong Kong Radio host\nUniversity thesis weighting tutor\nSecretary, Provincial Government Office\nCultural Heritage Conservation Specialist\nPingwen family in Qing Dynasty\nDate of appointment: 20 December 1998\n1890, Special author of The Times.",
+        "tags": [
+          "Roles",
+          "Occupation"
+        ]
+      }
+    }
   },
   {
     "id": "问答-提示词技巧",
@@ -1702,7 +3392,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "&提示词技巧&"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "& Hint technique",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/& Hint technique.csv",
+        "summary": "The goal and details are clear, and the pupils can understand, and they're telling three examples of how their personal ergonomic intelligence changes their lives.",
+        "prompt": "The goal and details are clear, and the pupils can understand, and they're telling three examples of how their personal ergonomic intelligence changes their lives.\nThe role is assigned to the creative instructions, to play the top chef, to design three low-calort night dishes for the gymnauts in the red style, and to remember the heat and the cute look.\nStep 1: Summary of five trends in social media marketing; Step 2: Selection of three best-fit trends for our products; Step 3: Design of an implementation plan, including objectives, steps and expected results\nProvide examples of the instructions, please refer to the following styles (with examples) for the newly introduced sunscreens: Direct shock point: Inflammation, 40 degrees heat is safe from harm? Data contest: UPF100 + Super Sunproof, killing every ordinary sunscreen on the market! Life scene is integrated: whether camping, daily shifts or weekends, with a hand on hand, the whole scene is easy!\nI'm going to go on to the reverse question-in-chief, but I'm not sure what the specific needs are to be described.\nStart the thought chain instructions, please be analysed along the following lines: 1. Identify core challenges; 2. List three possible solutions; 3. Predict potential risks and resource requirements for each path\nTrans-modular integration diagram command, reading this user behaviour map, pointing out three key points of user loss and pointing the direction of improvement with arrows.\nTrans-modular integration data instructions. 2023 client feedback records (see documents) are organized by month and type, with lined and pie-like maps for visual displays.\nNow, you're gonna play a \"scramble market critic\" and evaluate the market plan in the most direct terms, and you're gonna come up with three logical questions and two unrealistic ideas.\nI'm going to design a PPT framework for a group of 50-year-old manufacturers to share with them on the strategic layout of traditional factories out of the sea. I hope to compare the stress of survival to international competition, which they understand, so that they understand that going out is an option rather than a choice. But I worry that they feel that overseas markets are far away, that they fear legal risks and management costs, and that cultural differences may cause water and soil to disinfect.\nThe word deciphers the instructions, and explains RLHF in words that pupils can understand.\nThe style migration instructions, using Kim-Yuan's martial arts style, describe a programr's highly programmed program using DeepSeek-R1\nThe human-talking directive builds the command in \"action + field + output format\" format, such as \"analysing the company 's financial data for 2023 in plain language, producing a PPT, pointing out the main problems and suggesting improvements.\"\nRole introduction, based on the template design instructions \" Play a specific identity, create a \"in style\" for the target group, like \"Being a senior tourist blogger, planning a 7-day cruise for young backpackers in a funny style.\"\nTo write poetry in the Lee Bai style, please do a poem like Lee's \"The Gossip Girl Falls\" entitled \"The Watching Door\"\nPlease write a new piece for this poem, making it more interesting.\nAdjust poetry style to demand. Write a 200-word or so description of cloud computing. Note: Articles are intended for secondary school students and need to be easy to understand, and language style requires humor and fun.\nMake a summary report on our chip industry according to the structure [Status/ Problem/ Solutions, Data Insight/ Question Overview/ Research Direction, Data/ Highlights/ Questions/ Experience]\nI'd like you to write a story about a little red book, a little red book for me, and to highlight the characteristics of the hotel, including seaview rooms, luxury rooms, state-of-the-art renovations, free breakfast, wireless access, etc.\nMake a text for the \"Blackview Dining Room\" in the style of the Little Red Book; and require: (1) a title, text; (2) a title word: no more than 20 words; as short and refined as possible, enough to attract an eyeball and exaggerate the word; (3) a text line, clearly structured, with a minimum of 100 words per paragraph; (4) a model of “first, second, last”; (5) a text line that does not exceed 1,000 words in its entirety.\nAssigning a body creation, please write a chapter of the \"Lunt of Mid-Autumn\" for friends, in the form of a poem hidden from the head.\n(i) Step 1: list the necessary sites, such as Xiamen University, Sulbun, Rim, Watsu Bay, Tseng, Tsang; (ii) Step 2: arrange daily travel according to location of the site to ensure accessibility; (iii) Step 3: recommend local special restaurants, including breakfast, lunch and dinner; (iv) Step 4: provide a proposal for accommodation in a hotel of high value and consider whether it is convenient to visit.\nI'm a college teacher, and I'm writing a weekly report on work, which is as concise as possible. The following is the work of this week: (1) completed the revision of 5 undergraduate papers; (2) written a chapter of the teaching materials, \"Cloud computing and big data.\" The output request is for examples: what was done this week and what was the result; what is going to be done next week, based on the results of this week; [Concises] briefly what is the results and reflections of this week.\nWrite a birthday message to your friends, set for sunset at the beach.\nExplain the concept of \"marginal effect\" in conjunction with actual cases, and explain the concept of economics in conjunction with the scenes that are common in life.\nIn the form of a story, please describe the theory of the \"butter effect\" in the form of an adventure story, so that readers can understand what it means.\nCompare the differences in theory between \"behaviorism learning\" and \"cognitive learning theory\" and analyse the differences in their teaching applications.\nExplain the content using graphs and graphs, and explain the evolution of our smartphone market over the past five years.\nForecasting trends and analysis of sales data for the past 12 months for a product known, predicting sales trends for the next 6 months and analysing factors that may influence trends\nYou're doing an interview with a senior environmentalist, designing five interviews around the theme of \"Sustainable development\" and simulating each other's answers.\nTo create interactive content, write an article on healthy diets, end with an interactive question, and guide readers to share their dietary habits in the review area.\nUse your rhetorical skills to express your views.\nDiscussion in the context of hotspot events, development of hotspots in the context of recent large models of artificial intelligence, and possible long-term effects on the job market\nAnalyse the issues from different perspectives, from the perspective of consumers, businesses and governments, respectively, the advantages and challenges of the \"Cabler Lives\" model.\nDesigning the fascinating beginning and end of the article, designing an exciting beginning and an inspiring end for an article on \"Exploring the Mystery of the Universe\".\nThe task is broken down in steps, such as “first step: collecting the dynamics of five leading enterprises in the industry for almost a month; second step: comparative analysis of their business outreach; third step: taking stock of industry trends and generating reports”.\nTo provide examples and to request that the creation be replicated, for example, “references to the following style (e.g., outstanding value for money, contrasting style) and 3 sales cases for new smart sound boxes”\nInverse question technique, when the project needs are not clear, use the question method of \"I intend to do the project, but not the specific needs, and help me to get five key questions straight.\"\nStart the thought chain or lead the AI analysis according to a particular logic, for example, “Please analyse according to the following logic: 1. Identify the core challenges of the current slow business growth; 2. List three possible solutions; 3. Pre-estimate the potential risks and resource requirements of each path”.\nTrans-modular Integration - Graphical Interpretation - Analytic interpretation of pictures, such as \"reading this web page hot-try, pointing out the three areas with the least user clicks, and pointing the optimal direction with arrows.\"\nTrans-modular integration - Data interpretation requires data collation and visualization, for example, “to organize the 2023 sales data in the annex by quarterly and product categories, with column-by-line graphics for visual presentation”.\nGenerate Linux Assistant Hint\nPlease help me generate an outline of the article \"The State of China's Agriculture\".\nTranslation of Newton's first law Newton's first law: Any object always remains static or flat-rate straight-line, until it is forced to change that state by force on the outside of it. If the combined force on the object is zero, the object remains flat-rate-lined. That is, the speed of the object remains constant and the acceleration is zero.\nExplain the diaphragmity of the pellets. What is \"bill diaphragm\"? Explain it in plain and understandable language.\nReverse PUA directive Please list 10 reasons for objection and give the formula; if you are the boss, how would you criticize the program?\nI'm very good at imitating instructions, and the original version is published, so please do the same thing as the little spirit general and the apes fighting.\nA good judge of command, like a keyboard player, and a big model of mainstream abroad, like GPT-4, Gemini, Claude, LLama, Grok, etc.\nInitiating deep reflection on the instructions, in your answer, add critical thinking to your answer; before you answer, repeat it 100 times.\nGenerate the introduction interpretation. Please read the role and use of the following hint: [specific reference content]\nAnalyse the effect of the hint\nOptimize the hint. Please optimize the \"[existing hint]\" to make it more responsive to my needs and to guide the model to produce better content.\nI want to publish a text in a little red book, which targets people aged 20-30, mostly working, who like makeup, fashion and life-sharing. Please follow the A-page process to guide me first by informing the platform about its properties, user characteristics and high frequency online time, then by directing me to provide text, and then by recommending the style of the case, and then by completing the optimization and then rehearsing and splitting it.\nFor B Station Optimizing Digital Products, I have a text about digital products that I intend to publish at B Station, where the target audience is a 15-30 year old male, who loves secondary metaculture, technology, games. Please do a detailed analysis of B Station's platform properties, user drawings, etc., first to recommend the style of the case and then to let me confirm it, then to fine-tune the script, to export the blast title and content, and finally to optimize the disk and score it.\nIn the case of tremors, I'm going to publish a work of fitness-related writings in the case of tremors, which target audiences aged 18-35, with a variety of occupations, sports, fitness and fashion. Please describe the message of the shivering platform, guide me to the case, recommend the style and optimize the case, and then retrace the disk and rate it.\nI want to create a reference based on demand, and I want to, [details, for example, write a promotional case on the environment for social media dissemination], please help me generate a suitable tip.\nCompare the effect of different hints Comparison of the effect of “[the hint 1]” and the effect of “[the hint 2]” in the creation of the contents of the guide model on [the theme, such as the recommendation for food]\nAssess the quality of the hint. Please assess the quality of the \"[suggest]\" in terms of clarity, relevance, guidance, and make recommendations for improvement.\nSimulate the Zhu Ghosh and Liu Bei dialogue, assuming that Zhu Ghyeong met Liu Bei in the capital after his death, please simulate a dialogue between two people.\nTurning news into JSON on August 31, a Hawk 9 carrier rocket was launched from Cape Canaveral, Florida, United States, at 03:43 a.m. Eastern Time, and launched into orbit 21 satellite chains (Starlink). Immediately after that day, at 4.48 a.m. East Time, another Falcon 9 carrier rocket was launched from Vandenberg Space Base, California, and successfully launched 21 satellite chains into orbit. Two launch intervals of 65 minutes to record the shortest launch interval of the Hawk 9 launcher. The United States Federal Aviation Administration indicated on August 30 that, while an investigation into Space Exploration Technology was still ongoing, its Falcon 9 launch was allowed to resume.The mission of the North Star Dawn, which was originally planned for five days of space activity, was postponed, despite the resumption of the launch. Space Technology is actively preparing for the mission, awaiting the final approval of the Federal Aviation Authority.\nGenerate a five-bit game using HTML. Please help me generate a five-digit game using HTML, and all codes are saved in one HTML.\nYou can play the role of a homecoming person who's just returned from school in the United States, and you can talk in Chinese with a few words in English, and it's very funny, and it's always very superior.\nThe Falcon 9 launch vehicle of SpaceX (Falcon 9) re-launched its launch mission in the early hours of August 31 local time after a short stop-off by the Federal Aviation Administration (FAA).\nGenerate a Greek yogurt ad.\nI'm writing seven-law planes like Lee Bai, I'm writing seven-law planes like Lee Bai.\nWriting essays on lonely nightwalkers writing an essay on lonely nightwalkers in 750 words depicting the feelings and perceived sense of a person walking blindly in the city at night, and the unique sense of silence at night.\nThe enchanting guide, please help me to enchant.\nI'm a genius.\nI'm going to be a little bit more familiar, and I'm going to be a little more sensitive than I am.\nThe blue sea is found, and you will find a gaping breakthrough in the saturation market.\nExtending the text. Please expand the following into a detailed article.\nCheck the syntax of the following? Spelling and punctuation, and suggest changes\nDismantling of the task. Please deconstruct this task into a detailed step.\nText-coloration Please refine the language expression of the following text so that it...\nFrame analysis, please use the \"problem - cause - response\" structure analysis...\nThe success factor, please analyze the key factors behind the success.\nPlease cite the views of the experts or celebrities who have expressed their views ...\nThinking. Please make a detailed thinking chart for...\nAnd how to build resilience in a... frustration scenario.\nThe safe haven guide, the new man... what are the five most common mistakes?\nMaster of thought, answer in the way of the leading scholars in the field in question...\nThe way children think, in a way that a child of three can understand...\nPlease give me some warmth of comfort when my friends complain.\nPlease give me three ways of expressing your rejection.\nPlease give me some communication to recover the damage caused by the cracks.\nSense analysis. Please analyse the potential implications of this phrase.\nPlease give advice as a person to young people who are going through...\nAnimal perspective.\nA style imitation.\nIncarnate the hand, please use the style of the hand...\nThe creative combinations, please combine... with... creating a new thing.\nInsight of need, identify... three potential pain points.\nLooking for a metaphor would be more relevant than anything in everyday life?\nThinking about the future, what will the world become when technology becomes more available?\nPlease analyze the underlying causes of the underachievement of the child.\nPlease translate the following into Chinese and make the professional vocabulary and the long story into a learning note.\nCapability assessment, please design 10-way progressive titles for testing, and the resolution and answers are attached at the end.\nThe pressure shift, imagine the anxiety of the exam as a real monster, design three fantastic scripts that live in peace with it.\nIce-breaking bag, please give me three kinds of words that you've been talking to for years without seeing your best friend.\nPersonal growth. Please develop a personal growth program for me, including reading?\nPlease recommend a few hobbies suitable for your leisure time.\nThe VP screening, please assess the time return from the media operation, etc., on the five popular VPs.\nTurn the evaluation into a model of the skills migration of the industry... from the practitioner to the industry.\nHF interview questions please generate 7 high frequency questions and answer strategies for the position\nDesigning a three-way frame for HR's downgraded pay negotiations\nThe interview simulations, please model a job interview based on my profile uploaded.\nI'm gonna sit here and tell you, design five short reminders of the fun of the body.\nEmotional support, please give me 10 ways to increase the sense of a different couple.\nPlease provide practical ways to maintain mental health and positive mental attitudes.\nPlease recommend some healthy emotional methods.\nPlease provide some methods of improving communication and listening skills.\nPlease give me some advice on finding a balance in your busy life.\nWorkout plan. Please make me a weekly workout plan with oxygen and force training.\nPlease recommend a few films or TV shows suitable for relaxing.\nPlease recommend a list of background music playlists that are suitable for listening to the time\nPlease give me some advice on the dress.\nSocial networking suggestions, please give me some social activities and suggestions that can expand the social circle.\nPlease recommend something suitable for Valentine's Day and explain why.\nWhat are the three parameters that should be most noted when shopping staff selects to purchase?\nCity travel, please recommend... city's hidden treasures to the line of carding.\nChecklist of luggage please generate a list of essentials\nDesign a program for teaching knowledge that incorporates the elements of the game\nPlease convert the following data into a narrative framework that allows the sales sector to share their stories.\nData visualization Please convert data into three interactive chart options\n♪ Cold knowledge sharing please share five facts that are little known ♪\nInverse thinking, think the opposite way.\nInverse projection. Please predict that never...\nPlease provide examples. Please provide examples....\nThe multistep theory is, if... please, step in three steps to the possible chain reaction.\nThe limit assumption is, what if it was zero?\nHypothetical Tests Presumptions Establishment, argument of its effects\nPlease provide three ways to describe the mood exactly...\nThe language of the camera is shown in the script of the film.\nWhat if... what if it was talking?\nThermo-infarctions.\nPlease let yourself introduce the bright spots of the product.\nProfessional mimics.\nThe story is continued.\nPlease add the following details to make it more lively.\nBuild the skills tree. Please provide a progressive learning path to... skill acquisition.\nHow to convert the negative effects of disadvantage into advantages.\nCost games. Please calculate the profit/loss balance points.\nThe demand evolution, please analyze... three possible emerging industries.\nScenario simulations. Please simulate the best coping strategy in...\nRead the news.\nNews tracking, please comb DeepSeek.",
+        "tags": [
+          "Q&A",
+          "& Hint technique"
+        ]
+      }
+    }
   },
   {
     "id": "问答-通用类",
@@ -1715,7 +3418,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "&通用类&"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "& General Category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/& General Category.csv",
+        "summary": "\"I want to know how to improve programming capabilities, what specifically they include.",
+        "prompt": "Clear target questions, clear questions about the problems you want to solve, for example, “I want to know how to improve programming capabilities, and what specifically?”\nDescribe the problem in detail, including the background, difficulties, etc., such as: \"I am learning mathematics and always understand difficulties in solving the function application question, in the specific case of...\"\nSplit questions, divide complex questions into small questions, solve them one by one, like, \"I want to learn artificial intelligence, but I don't know where to start, can you help me plan a course?\"\nThink hard about questions, think hard about questions, think hard about questions, not just answers, like, \"I have some preliminary understanding of the concept, but I want to go into it, and can you help me ask some questions?\"\nKeep asking questions open, accept different views and suggestions, and not limit themselves to one answer, such as, \"What are your different views on this question?\"\nRespect for privacy questions, care to protect personal privacy, and do not disclose sensitive information, such as, \"I want to ask about health issues, but not to reveal a person's name. Can you help me?\"\nAnd rational judgment questions, and you don't have to believe in the answer, for example, \"This advice you're giving sounds good, but I wonder what it is based on?\"\nKeep learning questions, using DeepSeek as a learning tool, constantly exploring new knowledge, like, \"Can you recommend some learning resources for me if I want to learn new languages?\"\nPositive feedback questions, feedback on the DeepSeek's answers, helping them to improve, like, \"Your answers were very helpful to me, but I have some questions, can you explain?\"\nEnjoy the process, see the question and learning as a pleasure, enjoy the process of exploring knowledge, like, \"I want to learn history, can you recommend some interesting historical stories?\"",
+        "tags": [
+          "Q&A",
+          "& General Category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-脚本优化",
@@ -1728,7 +3444,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "@脚本优化@"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "@ScriptSimulation@",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/@ScriptSimulation@.csv",
+        "summary": "Example hint (directable)",
+        "prompt": "Example hint (directable)\nYou are an experienced code review expert. Please add a smart comment to the following script:\n1. ** After understanding the intent of the code**, explain the core logic in natural language\n2. ** Abstract hierarchical separation**: high level comment describing function and low level comment describing detail of achievement\n3. ** For different audiences**:\n- To maintainer: key change point, dependency\n- To users: Call method, parameter constraint\n- To learners: algorithmic thinking, design considerations\n4. ** Add functional label**:\n- NOTE: Important notes.\n- TODO: To-dos\n- Warn: Warning message\n- OPTIMIZE: Recommendations for optimization\nPlease ensure that comments:\n- Simple but informative.\n- Timely update (based on current code)\n- Follow the same style.\n- Help understand, not increase the noise.\nCode:",
+        "tags": [
+          "Q&A",
+          "@ScriptSimulation@"
+        ]
+      }
+    }
   },
   {
     "id": "问答-ai-幻觉相关类",
@@ -1741,7 +3470,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "AI 幻觉相关类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "AI Illustrative Related Class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/AI Illustrative Related Class.csv",
+        "summary": "AI Definition of illusions explains what is an AI illusion, including the concepts of factual hallucinations and faithful hallucinations in plain and understandable language",
+        "prompt": "AI Definition of illusions explains what is an AI illusion, including the concepts of factual hallucinations and faithful hallucinations in plain and understandable language\nAI Analysis of the causes of hallucinations Analysis of the causes of the DeepSeek hallucinations, such as data deviations, generalized dilemmas, knowledge entrenchment, attempts to misunderstand, etc.\nAI Introduction to hallucination assessment methods Introduction to assessment of AI hallucinations, such as randomly generated tips for manual judgment, extraction of factual test questions versus answers, etc.\nAI Imagination Risk Assessment Assessment AI risks from hallucinations, such as information contamination, trust crisis, control deficiencies, security gaps, etc.\nA strategy to reduce AI hallucinations Provide a strategy to mitigate AI hallucinations, such as using RAG frames, combining external knowledge bases, fine training, etc.\nA. Technical options for responding to AI hallucinations.\nAI Discovering the value of illusion creativity in scientific discovery, literature and design, entertainment and play, technological innovation, etc.",
+        "tags": [
+          "Q&A",
+          "AI Illustrative Related Class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-中小学生学习辅助类",
@@ -1754,7 +3496,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "中小学生学习辅助类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Study assistance for primary and secondary school students",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Study assistance for primary and secondary school students.csv",
+        "summary": "Personalize reading suggestions.",
+        "prompt": "Personalize reading suggestions.\nI don't understand the book, like the character image of Gabrielle.\nRead content thinking diagrams.\nI'd like to write a piece on writing topics like \"The City of the Future,\" with writing materials, inspirational tips and language improvement help.\nI'm reading the interdisciplinary content link.\nWhich new word is it today?\nEnglish grammar studies. Explain the use of the syntax points, as is the case now, and give examples. I'll try to practice the phrases.\nEnglish reading and translation training. Please give me a short English paragraph. I'll translate it and help me with the correction.\nEnglish speaking like a practice.\nEnglish writing training and feedback, please check and modify the errors in this English writing.\nEnglish word articles are generated. Enter a strange word, and produce a short text containing these words.\nEnglish word fun dialogue creation. Enter a set of words [word list] to generate an interesting English dialogue.\nEnglish word association network generation. Enter a core word [word] to generate its connection network, including synonyms, verbs, related phrases and examples.\nEnglish word puzzles or games design enter a set of words [word list] to generate a puzzle or small game\nInterdisciplinary English language content generation. Enter a theme [e.g., science, history, art] to generate an English component that combines knowledge of the subject and English.\nSimulate the English Dialogue scene. Simulate a dialogue with me.\nEnglish writing framework and inspiration provide no ideas when I write English writing. Please provide writing framework, opening phrase, transition phrase and end sentence.\nEnglish hearing materials and hard points. Please provide a short English hearing material and decipher the difficulties in these terms, phrases, phrases, phrases.\nEnglish grammar clause understand. Please help me understand the rules of the syntax point, as is normally the case at this time vs. Now.\nInteresting English story learning.\nI'm going to be able to help me solve this problem by talking about the situation and building a mathematical model.\nI have a difficult sense of the spatial relationship between the graphics in the geometry question. Please describe the dynamic process in the language and help me build the geometry in my mind.\nMathematical fractional algorithms.\nMath equation reverse thinking training.\nMath Function Lifelike analogies, please help me understand the function-related problems, like what function.\nMathematically probabilities scenario simulations, please use scenario simulations to make me understand the probabilities question.\nThe mathematical stereo geometry decomposition.\nMathematical column mode recognition training. Please help me find the pattern of this array.\nPlease help me understand the questions about the numbers, like what the guides are.\nThe maths complex is a multi-dimensional analysis, and it involves multiple points of knowledge, and it's impossible to do anything about it.\nThe vocabulary accumulates memory to help me learn and remember English words like, \"Please help me learn five new English words and tell me how they are pronounced and used.\"\nSyntax: \"Can you explain in detail what I'm doing and what I'm doing, for example, I don't understand the English style?\"\nRead and understand the translation, and I'm going to read and translate English, like, \"Please translate this English article and explain the difficulties.\"\nI'm doing a speech exercise, and I'm doing an English speech exercise, and I'm doing a standard pronunciation and tone, like, \"Please talk to me in English, help me raise my speech level.\"\nWrite training feedback Checking and revising my English writings to provide suggestions for improvement, such as, \"Please help me to modify this English writing and to identify errors and deficiencies therein.\"\nMath learning aids solve problems in mathematics, like, \"I'm having problems with math applications, can you help me analyze?\"\nScientific knowledge learning helps me learn scientific knowledge, like, \"Please tell me how the Earth's ecosystems work?\"\nLanguage learning (non-English) supports learning in other languages, such as, \"Can you give me some advice on French?\nI want to use the campus scene to create the memory palace to recite the ancient poem \"The Temple of the King Teen Plum \" , to guide me to the process and to decipher the key points and details of the Temple of the King Teen Plumbing, to guide me to the way in which I construct the Palace of Memory, including the selection of the site, the path and the associated content, and to recommend that I translate the contents into images or scenes and generate the corresponding picture, lead me to the first memory palace to go through it, and finally provide a refresher plan and strategy, and encourage me to repeat the text to validate the memory.\nI intend to recite English texts in the bedroom as a memory palace. Please give me detailed guidance on the key points and details of the text, then on how to build the memory palace, give suggestions for translating content into images or scenes and generate corresponding maps, guide me through the memory palace, provide refresher plans and strategies, and finally let me repeat the text to validate the effects.\nBased on the historical knowledge points of the memory of the park scene, I choose the park scene to build the historical knowledge points of the memory of the palace. The knowledge points are [specific historical knowledge points]. Please guide me to the next steps, first help me decipher the key points and details of the knowledge points, then guide the steps of the building of the memory palace, provide ideas for the content transformation images or scenes and generate corresponding maps, guide me through, provide refresher plans, and finally encourage me to recapitulate the knowledge points.\nStudy path. Please plan for a three-month learning path for a zero base learner.\nMemory machines, please slip away for the knowledge points.\nGenerate HF composites and memory content. Please generate a random set of 10 HF composites as required, output in Excel format, containing words, pronunciation, Chinese interpretation, and composition of words and their Chinese interpretation. Design exaggeration story scene-assisted memories (one story per word) and string them to generate an English-language story-assisted memory, and end with an empty test topic and answer for each word.\nRegenerating a new set of verb memory materials Regenerating a random set of synthetic words (10 HF words) to produce English words, memory stories 1, memory stories 2 and word tests in the established format to help me remember new words\nIn accordance with the new request to export word memory programs, please create a group of composite words (10 HF words) randomly, and include more life scenes in memory stories 1, adding interesting conversations in English-wide memory stories, and making the title of word tests more confusing, and then output the whole content in the prescribed format.",
+        "tags": [
+          "Q&A",
+          "Study assistance for primary and secondary school students"
+        ]
+      }
+    }
   },
   {
     "id": "问答-中小学生成长顾问类",
@@ -1767,7 +3522,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "中小学生成长顾问类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Primary and secondary school development consultants",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Primary and secondary school development consultants.csv",
+        "summary": "Time management - task prioritization how to help children distinguish between \"important\" and \"emergency\" tasks",
+        "prompt": "Time management - how does task prioritization help children to distinguish between \"important\" and \"emergency\" tasks?\nTime management - how do tomato work practices use \"the tomato work method\" to raise children's focus?\nLearning program - Target decomposition how to help children break down big goals into small tasks?\nLearning plan - Reverse method for developing a refresher plan How do we use the \"reverse method\" for developing a refresher plan?\nLearning plan - Flexible plan development How can children be helped to develop Flexible Plan?\nLearning plan - How to focus on the most important task with the \"80/20 rule\" application of the 80/20 rule?\nEmotional regulation - how do emotional recognition and expression help children to recognize and express emotions?\nEmotional adjustment - Deep breaths ease anxiety. How do you use Deep breaths to ease anxiety?\nEmotional adjustment - how to build growth-based thinking how to help kids build \"growth-based thinking\"?\nEmotional Reconciling - Failed Recompiring Learning How to Use \"Fail Recomp\" to help children learn from mistakes?\nSelection of a profession - interests and advantages exploration - how can children be helped to explore their interests and advantages?\nSelection of a special course - APP - How do you use the \"APP\" to support a child selection?\nHow can the Family Conference be used to reach consensus on the selection of parents and children?\nHow can the selection options be evaluated using the `SWOT analysis'?\nCareer planning - Short-term and long-term target setting How can children be helped to set short-term and long-term goals?\nCareer planning - The way a career is going to inspire dreams, how can a \"life is going to inspire a child's dream?\"\nCareer planning - how do career interviews help children understand the real world of work through \"job interviews\"?\nCareer planning - how can career experience activities be used to broaden the perspective of children?\nAffiliation - Non-violent communication improves relationships How can \"non-violent communication\" improve parentage?\nAffiliation - how do we understand how children feel through a \"committal dialogue\"?\n- How can the autonomy of children be fostered through “progressive decentralization”?\nAffiliation - Responsibility List helps manage itself how to use the \"responsibility list\" to teach children to manage themselves?\nAffiliation - Family agreements regulate cellular use How can children's cellular use be regulated through “family agreements”?\nAffiliation - Interest substitution less reliance on mobile phones How can \"interest substitution\" be used to reduce children's reliance on mobile phones?\nSocial skills - how do role-playing enhance social skills through role-playing?\nSocial skills - how do we use the \"common interest\" method to help our children find friends?\nSocial skills - how can a small step be used to enhance the expression of a child through a \"small step exercise\"?\nSocial skills - is building self-confidence in feedback, how can \"positive feedback\" be used to increase confidence in children?\nPromotional stress - CBCs ease test anxiety. How can CBCs ease child's test anxiety?\nThe pressure of promotion - how do you use the \"mock test\" to help your child adapt to the test environment?\nThe promotion pressure - the target decomposition method clearly defines the path to the transition, and how does the target decomposition method define the path to the child's transition?\n- School research methods understand the target schools how to use the School Research Act to help children understand the target schools?\nLearning - How can the \"Feyman Learning\" be used to improve children's understanding?\nLearning methods - how to use the wrong script to improve performance - how to use the wrong script to help children to improve performance?\nLearning - play learning stimulates interest, how can \"play learning\" inspire interest in the subject?\nLearning - how to use the \"little goal achievement method\" to enhance the child's sense of achievement in learning [of the subject's name]?\nMental health - how does emotional listening support emotional feelings through \"emotional listening\" support children's emotions?\nMental health - professional counselling for psychological problems How can a child's psychological problems be addressed with “professional counselling”?",
+        "tags": [
+          "Q&A",
+          "Primary and secondary school development consultants"
+        ]
+      }
+    }
   },
   {
     "id": "问答-人工智能应用",
@@ -1780,7 +3548,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "人工智能应用"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "A.I.A. Applications",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/A.I.A. Applications.csv",
+        "summary": "Please build a smart customer service system, use natural language processing techniques, answer user-specific questions automatically and improve client service efficiency.",
+        "prompt": "Intelligent customer service.\nUse the [historic behavioral data and interest preferences of] to provide personalized products or services to users.\nUse artificial intelligence technology to achieve autopilot functions for vehicles and to improve traffic safety and efficiency.",
+        "tags": [
+          "Q&A",
+          "A.I.A. Applications"
+        ]
+      }
+    }
   },
   {
     "id": "问答-任务处理类",
@@ -1793,7 +3574,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "任务处理类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Task processing category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Task processing category.csv",
+        "summary": "Complex task breakdown, for complex tasks, uses the following: \"First step: [Description of the first step of the mission]; Second step: [Description of the second step of the mission]; Third step: [Description of the third step of the mission]...\"",
+        "prompt": "For complex tasks, use the form of instructions that “first step: [prescription of the mission's first step]; second step: [description of the mission's second step]; third step: [description of the mission's third step] ...”, which guides DeepSeek to the task in step by step.\nOptimized mission results When not satisfied with mission results, use this instruction to let DeepSeek optimize mission results in [mission results, such as travel strategies, course plans] [specific issues, such as too few recommendations for restaurants, and unreasonable course schedules].\nThe task details are supplemented by the task details, if the mission results are missing some details, enter \" [the mission results, e.g. travel strategy] do not have [details, e.g. traffic change information, add this part to the list of tasks, get the task details.",
+        "tags": [
+          "Q&A",
+          "Task processing category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-公文写作",
@@ -1806,7 +3600,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "公文写作"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Writing in public",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Writing in public.csv",
+        "summary": "Briefings (Government Information) Writing (unit-specific or work-specific) job briefs, organized according to the structure \"(work bright spots effectiveness), \"innovation measures\", \"next plan\" with an increase in data by the same/ring ratio",
+        "prompt": "Briefings (Government Information) Writing (specific unit or work) job briefs, organized according to the structure \"(work bright spots effectiveness), \"innovation measures\", \"next plan\" with data presented in terms of the same/ring increase, with core indicators reded in three paragraphs, each with no more than three rows.\nThe bulletin (significant matter) prepares (specific unit) bulletins on (specific matter) clarifying (the basis of the matter), (the content of the matter), (the time) and (the way in which the inquiry is made) and uses the \"special bulletin\" at the end, where the policy type bulletin is scanned in sync.\nAn example of a notice (significant matter) Prepared by the Municipal Eco-Environmental Authority on the adjustment of the rates for the payment of company sewage permits, which was revised from 200 to 300 to 300 to 300 to 300 to be implemented on 1 March 2024, in accordance with the Circular on Optimizing the Management of Sewerage Licences (x Rings [2023] 12), the policy interpretation was published simultaneously by the Network.\nThe bill (proposal) assists (name of sponsor + position) in the preparation of the bill (Conference of the People ' s Congress/Parliamentary Consultative Assembly) containing (the elements of the proposal) four elements (analysis of the current situation), the legal basis (the specific recommendations), and the expected effect) and the exactness of the data to the percentage.\nReport on the performance of duties (name of person to be appointed + job) 2025 Annual report on the presentation of jobs, based on the structure of \"(function), (probably completed), (programming)\", indicators quantifying the rate of completion/growth, emphasizing the contribution of the priority project, and not using self-proclaimed terms such as \"excellent\" or \"leading\" and so forth.\nSummary of xx proceedings of the annual innovation work of the science and technology companies, with emphasis on additional approvals for R & D funding (Ri x, Treasury Department, implemented by 30 November), progress schedules for new products (submitted by project groups by 15 November), and performance appraisal optimization programmes (led by the Department of Human Resources).\nI have a text message here, which is [specific text content], which is requested to be pre-scheduled, to extract and centralize the appropriate title, to divide the paragraphs according to the logical relationship and to provide the appropriate spacing, to highlight the key information and to ask me if I should proceed next.\nTo optimize the layout of the text as required, and for the last step of your layout, I would like to see a bigger title font with key messages highlighted in different colours (assuming it can be achieved), and please adjust the layout to this requirement until I am satisfied.\nWrite the minutes and write a circular about the departmental wrap-up sessions. The background is to summarize the results of the last quarter and plan the direction of the next quarter; the meeting time is [specific], in the company ' s [X] floor meeting room; the staff is the department ' s staff. Please guide me by process, first confirm the information and ask if the next step is taken, then generate the notification documents according to the format, and then optimize the refinements as requested.\nThe company will conduct skills training activities for its employees in the context of upgrading their professional skills and strengthening their team as a whole; the time is [specific date], in the company training room; the person is a staff member who intends to upgrade the skills of the department. Please guide me step by step, first lead me to confirm the information, then generate the activity notification and then optimize the refinement based on my feedback.\nThe company is to undertake new project preparation arrangements, starting with the [start-up] project; involving all members of the project team; and the location of the office, project site, etc... Please follow the process and guide me to provide information, confirm and generate the work schedule documents, and then optimize them as I request.",
+        "tags": [
+          "Q&A",
+          "Writing in public"
+        ]
+      }
+    }
   },
   {
     "id": "问答-内容优化与风险规避类",
@@ -1819,7 +3626,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "内容优化与风险规避类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Content optimization and risk avoidance class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Content optimization and risk avoidance class.csv",
+        "summary": "Output Calibration - Turn on white mode, use the \"open white mode\" command when model output is too professional to use professional terminology to make the answer more user-friendly",
+        "prompt": "Output calibration - Turns on the white mode, and when model output is too professional, uses the \"open white mode\" instruction to ban the use of professional terms to make the answer more common and understandable.\nOutput calibration - Simplify, for example, adding \"A sample of what the market mother understands\" to the instructions after opening the white mode, further simplifying and visualizing the answers.\nOutput Calibration - Simplify the sentence to ensure that the answer is simple, using the \"Counter whether there are sentences above 20\" instruction to streamline the output.\nSensitive content filtering - Medical advice examination uses the Directive “Surveys whether the current content conforms to the Internet Clinical Management Scheme” to detect and avoid medical risks.\nSensitive content filter - Investment finance amendments, for investment finance-related elements, identify and modify risk elements using the \"Calse mark on statement of revenue commitments \" directive.\nSensitive content filtering - Politically relevant adjustments, using the directive \"open neutral mode rewrites the following\" for politically relevant content, balancing multiple views and avoiding risks.\nI want to recommend the book \" Centennial Loneliness\" as a guide, ask me if I'm going to go next, then look for the book, generate the title and the oral text, optimize the text and give the drawings, and then make the self-records and scores, and then change them in the light of my comments.\nI'm offering a daily \"speaker\" that says, \"I saw a kitten on the side of the road today, super cute, big eyes, and soaking me, and I couldn't leave. I only knew it was from a nearby shop and the owner said it was a special relative.\" Please guide me by the process, first make sure I go the next step, then analyse the core, etc., show the framework of the oral presentation and then produce five oral cases, and then optimize the case.\nI've been on my \"saliva\" trip, \"I thought I'd seen a beautiful sunset last time.\" But I met a very interesting person at the beach who told me a lot about the sea and taught me how to find little crabs hidden in the sand.\nI'm going to say, \"Spitching the house with the cleaning and the saliva is really a bit of a problem, especially cleaning the sofa gap, and it's always a bit of a mess, and it's always a bit of a problem to get my little bits out of it. Please, just follow the step, and then you can lead me to the next step, then to the core analysis, etc., and then to the finalization and optimization of the oral presentation.\nI want to write a text about Cao Cao Cao's life, the number of words required. Please direct me to the process, first make sure that I do the next step, then search Cao Cao Cian Cian Cian, list the main stories, then generate the text, and finally ask me what I like about the style of the text and optimize the text.\nI want to write an anecdotal story for Wu. The word is about 1,200. Please guide me through the process of providing information on people to the best in the case, including searching for information, listing stories, writing essays and optimizing them in my own style.\nI'm going to produce a paper on Lee's history, with a number of words on 1,000 words. Please lead me to the next step, then to a search, a list of events, a writing, and then to a perfect text according to the style I have chosen.",
+        "tags": [
+          "Q&A",
+          "Content optimization and risk avoidance class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-内容创作",
@@ -1832,7 +3652,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "内容创作"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Content creation",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Content creation.csv",
+        "summary": "Please create 10 \"theme\" headlines for my eye attraction, requiring words, setting suspense and highlighting effects to attract readers.",
+        "prompt": "Please help me generate 10 \"theme\" headlines that will attract the eye, require words, put a suspense, and emphasize the effect to attract the reader.\nIn the case of grass, write a note of grass for the \"product\" in the words of \"identity\", highlighting three use scenes and three pain-point solutions.\nShort video scripts. Please generate a short video script [long-time] containing the call to action at the end of the opening suspension + medium invert + with at least three close-ups.\nPrincess article, write an in-depth article on the theme in [the style], with three sub-arguments, each to give me a case.\nPlease write an article about the keyword [XXX] with at least five keywords containing the header H2/H3.\nPress articles should include a clear title, precise guide, detailed coverage of the background, history, impact, etc. Interviews should be conducted with the relevant persons to obtain first-hand information to ensure the authenticity and objectivity of news reports, while using a dynamic language and rational structure to enhance the readability and attractiveness of news.\n(b) To design a comprehensive and effective marketing strategy, including product location, brand promotion, price strategies, channel selection, promotion activities, etc., taking into account market trends and consumer demand. Develop detailed implementation plans and budgetary arrangements to ensure that marketing programmes are operational and measurable.\nVideo scripts can be used to generate video scripts for [specific themes], and to produce a high-quality video script that can be derived from story architecture, camera language, role setting, etc. The scripts should contain detailed scene descriptions, line design, camera motion, location, etc., and draw attention to the subject through smart plot designs and graphics.\nPlease convert this long article into a telecast case that corresponds to the echo of the pain, demanding loyalty to the core of the original text and not to create any undesired association.\nReconstruct the article with a warm healing framework.\nCreate a title using a suspense guide frame for this article, and help me generate 3 titles with no more than 20 words and emotional and flow-absorbed features.\nOptimizing the article based on a celebrity story frame, optimizing the article, producing a oral story, and analysing the emotional resonance and inspirational sense of the chosen celebrity story.\nRewrite articles by contrast frame, rewrite by contrast frame structure, and take care to detail the specific circumstances and contrast analysis of the two emotional states\nUse a little bit of detail to write a text message, a little bit of detail to use, a piece of text about the content, a piece of paper not more than 500 words, and highlight the emotional impact of the little detail.\nTo create content in an emotional dialogue framework, you can create oral stories in an emotional dialogue framework, to develop emotional stories and details, to solve emotional problems and to summarize the inspirational senses.\nReconstruct the article with a nostalgic framework, based on a nostalgic framework, starting with a nostalgic atmosphere, detailed narratives of memories and an analysis of emotional significance.\nRestructure the article according to the difficult growth framework, restructure the article according to the difficult growth framework, describe emotional distress, growth transition and ways to overcome it, and call on readers to share their experiences.\nWriting a text message in an inspirational and inspired framework, writing a text in an inspired and inspired framework, starting with a message or story, analysing the resonance and giving advice on the application of the inspiration.\n\"Now, you're gonna play a \"scramble literary critic\" and evaluate this short novel in sharp words, pointing out two cases and a lack of writing style.\"\nPlay the role, please play the conversation with me.\nSo, you can extract the following core points.\nPoetry description. Please describe it in poetic language.\nI have a text from a tech podcast that is structured around the application of artificial intelligence in medical applications. Please organize it according to the process, first organize and reconfigure, then refine four core points and arguments, and then draw one to two anticonsensual points.\nI have a copy of the podcast text on the heritage of traditional cultures. Please read carefully and understand the subject line, re-construct, extract core ideas and arguments, and extract anti-consensual ideas, according to step.\nI want to compile a commercial podcast text, which focuses on the marketing strategy of the business.\nI want to create a personal job-force IP for new job-seekers aged 25 - 35 who want to be promoted and gain practical experience in the workplace. Please follow the A-process to guide me first to identify the target audience's portraits, then to provide personal information, background stories, professional achievements, and finally to export a personal IP-oral text, asking me if I am satisfied at the end of each step.\nI am a good-food blogger who wants to build a personal IP for young people 18-30 who love to eat and try new restaurants and home-made foods. Please follow the B-based process and guide me to complete the steps, including self-introduction, sharing of developmental experiences, etc., by generating storybooks, combining them into small pieces and providing style choices, and making optimal disks and scores.\nA. Process-building personal trainer IP My goal is to build a personal trainer-in-work IP, targeting people 20 - 40 years of age who want to be able to work with a body with a reduced plastic or a muscle. Please direct me to provide information in a sequence of events, complete the production of a personal IP story, and confirm my satisfaction at every step of the process.",
+        "tags": [
+          "Q&A",
+          "Content creation"
+        ]
+      }
+    }
   },
   {
     "id": "问答-内容推荐",
@@ -1845,7 +3678,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "内容推荐"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Recommendations",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Recommendations.csv",
+        "summary": "Please make content recommendations based on [user historical behavior data], with relevant content that matches user interest, and explain the rationale of recommended algorithms and recommended results",
+        "prompt": "The recommended algorithms (e.g., co-filing, content-based recommendations, etc.) can be used to make content recommendations, analyse and model the historical behavioural data of users, assess the reasonableness of the recommended results using indicators (e.g. accuracy, recall rates, etc.) and improve the accuracy and effectiveness of the recommended results.\nUse a co-filing algorithm to recommend content based on [user behavioral data], and by analysing similarities between users, the target user may recommend content that may be of interest to it. Use a co-filing algorithm or a co-filing algorithm based on an item, to analyse and model user behavioral data, to analyse similarities among users using similar computation methods (e.g. cosine similarities, Pearson correlation factors, etc.) and to improve the recommended effects of co-filter algorithms.\nRecommendations based on content are made on [content characteristic data], which suggests content similar to the content characteristics already available, and indicate the basis for the similarity of the recommended content to the target content. The recommended algorithms for content can be used to recommend content, analyse and model content characteristics data, calculate the similarities between the recommended and the target content using similar methods (e.g. cosine similarities, E.R. distance, etc.), and improve the recommended effects of the recommended algorithms based on content.\nThe recommendations are combined with the recommended algorithms (e.g., co-filing, content-based recommendations, etc.), which enhances the recommended effect and elaborates on the recommended strategies and integration methods.\nA detailed user image is constructed to provide a basis for accurate recommendations based on the characteristics of user interest preferences, consumption habits, use of the image, etc. [user browse records, purchase behaviour, search keywords, etc.].\nThe use of detailed drawings in the context of demographics, the integration of [user-age, gender, geography, occupation, etc., demographic information], the fine-tuning of constructed user images, the deepening of potential user needs and individualized characteristics, and the greater targeting of recommendations.\nSynergy filter algorithm application Introduction of the rationale and advantages of the co-opter algorithm in content recommendation, and how to use it to find user groups of similar interest, based on [user behaviour data], and thus recommend what they are interested in.\nContent filter algorithms describe how content filter algorithms are used to select and recommend content similar to the user's historical preferences, and to analyse its applicability in different settings, depending on the content properties, such as the subject matter, video type, commodity characteristics, etc.\nMixed algorithm strategy development Description of how to combine co-opt and content filter algorithms to develop a hybrid algorithm strategy based on [specific business scenarios and data characteristics] to improve recommended accuracy and diversity.\nThe popular content screening strategy is based on [real-time heat data, such as points, comments, playbacks, etc.], which sets out the parameters of the time frame, heat threshold and other parameters for the selection, ensuring timeliness and appeal of the recommended popular content.\nPersonalized content matches, based on [user portraits and preferred models], to match precisely personalized content from the content base that meets user interests, specifying the rules and processes for matching, and to achieve individualized recommendations.\nNew content recommendation strategy for [new content, like new books, new films, new goods, etc.], design recommended strategy to consider how to increase the visibility of new content and make new things more visible to users, while ensuring accuracy of the recommendation.\nClick rate analysis describes how the recommended appeal and relevance is assessed by analysing [the recommended hits data for content], describing the relationship between the recommended hits and recommended effects, and how the recommended strategy is adjusted to the recommended hits.\nThe conversion rate assessment indicator Explains how [transformation rate, e.g. purchase conversion rate, registration conversion rate, etc.] is used as a key indicator for assessing recommended effects, analyses recommended conversion rate differences for different types of content and provides data support for optimization recommendations.\nUser retention rate assessment Explore how the impact of recommendations on user stickability can be assessed through monitoring [user retention rate], analysing the correlation between recommended content and user retention, and recommending recommended optimization of the user retention rate.\nBased on feedback optimization recommendations are based on [user feedback on recommended content, such as collection, sharing, cancellation of recommendations, etc.], real user needs and preferences are analysed, recommended algorithms and strategies are adjusted and recommended results are continuously optimized.\nA/B test implementation method Detail how to conduct A/B tests, compare the effects of different recommended algorithms, recommended interface design or recommended strategy, select the best options based on the results of the tests, and continuously upgrade the performance of the recommended system.\nReal-time data updating mechanisms The importance and methodology of establishing real-time data updating mechanisms to ensure that recommended systems can access changes [user behaviour data, content data, market dynamics, etc.] in a timely manner, thus providing recommendations that are more responsive to the current needs of users.",
+        "tags": [
+          "Q&A",
+          "Recommendations"
+        ]
+      }
+    }
   },
   {
     "id": "问答-写作与创作",
@@ -1858,7 +3704,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "写作与创作"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Writing and creation",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Writing and creation.csv",
+        "summary": "Create novels around [the specific theme] and [the creation of scenarios], build a complete story frame, create a graphic image, use vivid language and rich plot design, and create a ministerial narrative.",
+        "prompt": "Create novels around [the specific theme] and [the creation of the plot], create a complete story frame, create a graphic image, use vivid language and rich plot design, and create a narrative by a minister. Focus on the logic, consistency and readability of stories, and draw readers into the world of novels through the use of subtle plot and character drawings.\nI want to write a general story for the fairy warrior, and I want to write a novel, and I want to do the first step, following the story flow, and help me to produce a brief summary of the novel, including the type of novel, the main character and the things to be done in the story, not more than 25 words, a visual sense, and ask me if I'm satisfied.\nI'm going to write a story for the campus, and I'm going to do a second step, after I'm satisfied with the one sentence, and I'm going to do a second step, and I'm going to expand it into five-second paragraphs with a complete three-screen structure, three difficult events and a clear moral premise, stories that are exciting, re-trawling, and decisions, and then I'm going to be asked if I'm going to go next.\nI'm writing a field novel, and after I'm satisfied with a general outline, please take step three, and we'll sort out the story lines from everyone's perspective, including names, identities, goals, aspirations, values, contradictions, epiphany, and ask me if I'm satisfied.\nI'm writing a chapter on the story, and after I'm satisfied with the person I'm going to introduce, step four, and I'm going to expand the second paragraph into a page of the outline, fill in details, and then I'm going to ask if I'm satisfied.\nI'm writing an urban novel, and after I'm satisfied with a page of the outline, please take step five, write background stories for novelists, dig into original families, and ask me if I'm satisfied.\nIdeas for stories provide three to five unique stories and creative directions based on [themes, scenes or elements such as magic forests, future cities, etc.], which are briefly described in terms of role setting, conflict of circumstances, subject content, etc.\nThe way people shape their lives is to explain how they shape their stereos, their rich images, including their character, their appearance, their background, their motivation, and their relationships.\nThe scenario architecture is built around [the story theme and target audience], building the story architecture, determining the story ' s beginnings, developments, orgasms, endings, designing key scenario nodes and contextual turning points, making it both tense and attractive.\nDialogue writing skills Sharing skills in developing excellent dialogues, including how to express character through dialogue, promote development of context, create an atmosphere, and the linguistic style, rhythm and verbal expression of dialogue.\nThe extraction of the site is directed at [products or services, such as smart sweep robots, online English courses, etc.], to tap their core outlets, using unique perspectives and language expressions, to turn the point into attractive textual content and to promote marketing.\nAdvertising is written to create simple and powerful advertising for [brands or products, such as sports brands, new mobile phones, etc.], highlighting the characteristics, advantages and values of brands or products, and enhancing brand memory and dissemination.\nI have a smart watch with a name for the product, which is \"Specific Name\" and is used for sports monitoring, health management, information alerts, etc., and features a duration, a clear screen, a high function, and an advantage in precision sports data monitoring and fashion design, with a target audience of 18 - 35 years old young people who love sports and technology. Please guide me by process, first confirm the information and ask if I want to go next, then generate 10 different types of ads and score them, and finally explain the bright spots of each ad.\nCreates ads for pet smart feedingers, which are time-bound and quantitative feeding, remote handling, characterized by simple operation, material safety, and the advantage of being controlled by mobile phone APP, with a target audience of 25-40-year-olds. Please guide me to complete the information, then generate the ad and score, and explain the highlights of the ad.\nCreates a new ad for a new air purification machine, which is used to cleanse indoor air, removes formaldehyde, PM2.5 and other pollutants, and is characterized by efficient purification, low noise, and the advantage is the use of advanced filtering techniques, targeting people aged 22 - 50 who are focused on quality of life and health. Please follow the steps and guide me to confirm whether to continue, then generate advertising, score and explain bright spots.\nNew media scripts are written to improve reading and interaction of articles, including caption writing, content structure design, interactive orientation, etc., based on [new media platform features and audience preferences, e.g., Weibo Public, Little Red Book, etc.].\nThe thought of essay writing, for example, provides ideas and methods of essay writing, including how to capture the details of life, express genuine emotions, use rhetoric and unique language styles.\nThe guide to poetry, from the rhythm, rhythm, the image, the subject matter, guides poetry, teaches the formal norms and creative techniques of poetry, helps the creator to express unique emotions and ideas.\nThe script's outline is designed for [film, television or theatre plays], and it is designed to identify the main characters, the story lines, key circumstances and conflicts, and to lay the foundation for script creation.\nFor the \"Long novels\" chapter, it's planned to define the main circumstances, the development of the person and the subject matter of each chapter, and to make the novels structured and structured.\nScript style imitation. Imitation [specify writer, brand or style, e. g. Ai Ling's style, Apple's style of writing], writing of the text, imitation of language features, expressions, emotional tone, etc., and different styles of writing skills.\nPropaganda and poetry are built around [the specific theme] and [the expression of emotions], using an infectious language, unique rhetorical technique and fine rhythms (poetry), to create works of literary value. The essay should be scattered and radiant, and poetry should focus on the creation of the mind and the expression of the emotion, and accurately convey the theme and the emotion, and it should be resonant with the reader.\nDesigning the essay structure for the theme “Autumn of Homeland” I want to write a essay on the theme “Autumn of Homeland”. Please design the essay structure for me, including introductions, rolls, turns (optional) and endings, and ask me if I am satisfied when completed.\nI want to write a text on the theme of \"summer on the beach\" and to use the style, words, linguistic logic and emotional expression of \"winter on the sea\" to help me produce a first draft of the text around 500 words, in accordance with the structure that was previously designed, and then ask me if I'm going to proceed.\nOptimize the \"Spring of a Small Town\" and draft the title. I have a first draft of the \"Spring of a Small Town\" that I need you to optimize. Please create a title with the features of the essay, add details and emotions, adjust language and phrase, and then display the optimized text and ask if I am satisfied.\nFor resonance and sabbaticals, you should combine the creation of sabbaticals with the creation of sabbaticals, following the principles of symmetry, equal coordination, and the humorous, pseudo-intellectual features of sabbaticals, and the creation of related literary forms.\nGenerate a bomb title based on the text, and a bomb title based on the text above.\nWrite the pet training title in formula 1 and my selection is pet training, outlining the effective way to share some of the training dog-shoppings, and the target audience is the new hand-dumping officer. Please use formula 1 as \"XX\" and combine your skills to create 10 matching headings and give the title design description.\nIn formula 3 I want to share the 30-year-old career experience of successful promotions, which is summarized as describing the difficulties overcome in the promotion process, the techniques used, etc.\nThe formula 7 makes the makeup captions, and the selection is a product recommendation for makeup, outlining a powdered fluid that can quickly make natural makeup. Please use your skills to create 10 headings that meet the requirements and explain design thinking, in accordance with formula 7 \"A very sick but... \"\nUse formula 10 for the recommended heading of the food, and I'm going to recommend a super-beautiful hotpot shop, which is a special dish for the hotpot shop, a unique boiler base and a price of good.\nPlease optimize my oral content as follows:\nI want to release a short video script of the good food with no more than 800 words in the shivering sound, with 18-30-year-olds targeted, with the theme “Red Red Blast Cake Teaching for Homemade Networks”, which is a funny style and wishes to use the PREP structure. Please guide me by process, first collect information, then write a copy of the bomb and attach a thought note, then change the lubricant and finally produce a split camera script.\nI'm proposing a book for the Bo-Ma community, which I'm going to recommend for the Bo-Ma group, who are 25-35 years old, will use debris time to read, and will prefer a book on parenting that is more scientificly useful. I recommend the book \" Positive Discipline.\" Please direct me to confirm whether to continue, search for book information, generate titles and oral scripts, optimize the script and remind the drawings, and then re-interpret the script and refine the case based on my feedback.\nI intend to publish short skin protection videos in a comparative structure, with 600 words or so, for women aged 25 - 35 on the theme \"The right way to use the best\" and a concise content style. Please first gather information, write a text based on the comparative structure, attach ideas and fine-tune it, and eventually produce a short video split script.\nI want to post a short video of digital products in 900 words at station B, with the target group being a 15-30 year old digital hobby with the theme \"Associate and Acquisition of a New Headel\", which is a serious style, choosing RID architecture. Please collect information by process, write a file, color a copy, and then produce a split script.\nExpanding the short video script details, helping me expand the script details of this next short video, adding a character dialogue and scenario.\nA generic analogy for video generation.\nThe article goes AI and adds a different word, and the article goes AI and adds a more rational error word.\nCase extraction core view: \"Providing the field of the case, e.g. successful case of the educational institution\" -- replicable \"core view category, e.g. business methodology\"\nPlease translate my paper on the theme, such as Tibetan travel, into a paper that conforms to the format, such as the MLA format.\nGenerate the beginning of a public article for the opening paragraph of this article.\nUse data to optimize market analysis, use near [time frame, for example, three years] [data type, for example, consumption data] to optimize the credibility of this analysis report [market area, for example, mother and child market]\nGenerate topics based on keywords.\nI want to get the makeup track keywords, and I want to get the relevant key words for the makeup track. Please direct me to the process, first lead me to the track class, then export the track's client categories, user pain points, use the scene keywords (five web high frequency words per set) and ask me if I'm going to proceed.\nI choose the track of the gym.\nI need to optimize the selection of the food track, which you have created for me, and please do so further as I ask, to ensure that they are more attractive and useful, and when I'm done, to ask if I'm satisfied.\nI want to publish a text about weight loss in a little red book for 18-30-year-old women, hoping for a style of humor and no more than 800 words, and please write it for me, strictly according to the format of the case, and be careful of the nature of the language and the transition, and write a concept note with which to play the senior Chinese teacher and then make the final plan for the improvement and export.\nFor the technicals of the tremors, I'm going to publish the scientifics in the tsing, and the target is a 20-40-year-old male, with a serious style and a word-rate control of 600 words, so please write according to the text structure provided, ensure that the language is compatible with the platform, complete with the idea notes and fine-tune.\nWrite a life-sharing case in video numbers, and I'm going to publish a life-sharing case on video numbers for people aged 30-50, with a simple style, with a word or two of 500 words required. Please write as requested, follow the structure of the case, take care of language, write a thought-sharing case, and then make a fine-out.\nDesign a review area for travel. My text is entitled “Share a memorable travel experience, including a beautiful view, interesting people and events that have been encountered during the journey”, and the target audience is a 20-35-year-old travel-loving young man. Please direct me to the review area gold-lined response design, first lead me to the information, then tell me how to write, and then export 10 more hymn humors, direct shock points, and a response that can strongly connect with the audience and have emoj's expression, and modify it to my satisfaction until I get my feedback.\nMy paper on the foodseeds case is about a restaurant with special food items, including food taste, restaurant environment, etc., and the target audience is a food-appearance-loving working class. Please follow the process and guide me to confirm whether to continue, then inform the creative thinking, then output 10 comment areas, and then revise them in accordance with my advice.\nI write a paper on a new mobile phone that includes a new phone, a photo-effect, and the target audience is a digital fan of technology. Please direct me step by step, ask me if I'm going to go next, then elaborate on the idea of creating, and then give me 10 golden sentences that will guide the interaction, and adjust them to my feedback.\nI want to write a soft-and-span case for a smart office software, and I want to write a soft-and-span case for a smart office software, targeting a professional, 25-40-year-old, who works with a habit of working overtime and relying on office software to improve efficiency. The product is described as a simple operation and time-saving, with a variety of convenient functions, such as smart document processing, fast meeting arrangements, etc.\nThe product is a baby food aid for the young bomies, and the target audience is a baby food aider, aged 22-30, who is working with the baby's health and often makes supplementary food at home. The product is described as simple, easy to do, and easy to produce, and the point of sale is material safety and variety. Please guide me by process, first ask if I'm going to go ahead, then I can get the required papers, and then I can get my views together, and then I can get my own self-research and make an evaluation and recommendations.\nI write a soft-sale case for college students, and my product is a low-cost, wet-sweet cosmetics, and my target audience is a college student, aged 18-22, who is used to pursuing a sexual price and is interested in trying new cosmetics. The product is described as a light-stamp, wet-free, and sold at a price that is good and warm. Please follow the steps and lead me to confirm whether to continue, to produce a paper based on the structure of the case and the blast, to integrate and ask me for advice, and then to re-interview myself.\nI am a self-media blogger for the October festival, and I am an emotional tracker who is aged 20 - 35 and works mostly as a workman, and who has no specific products or services to offer, and wants to know about the October festival. Please guide me to the next step, then list the Chinese traditional festivals or common holidays in October, and then generate the next option for each festival.\nI have chosen one of the topics for October's National Day, which is entitled, \" Fill out the contents of the specific theme.\" Please produce for me an emotional text in the text frame, which is not less than 400 words, with the title plus emoji, note that emoji's expression is not single, and ask me if it is satisfactory.\nI'm doing a media presentation on the Festa 12, targeting 18-30-year-old women, with a wide range of professions, general interest in make-up products and fashion, and trying to promote a new lipstick. Please follow the process and ask me if I'm going to continue with the December festival, and then generate a pop-up question for each festival, and then whether I'm going to proceed with the next step.\nI want to publish a story in a little red book, and I want to publish a story book, with a target audience of 18-25-year-old college students who like to chase hot spots, entertain and live. My concern is a drama controversy about a hot TV show, with the general idea of making a story about the behavior of the characters in the play. Please direct me to the process, ask me if I will proceed, then generate a story story book of no less than 1,000 words based on the \"three-chamber\" structure, then self-optimize and inform the paragraphs that can be inserted, and then make the perfect retort and split.\nI'm going to publish a story-script at B station, where the audience is mostly ecstasy-like, and adventure-like, 15-30-year-olds. My focus is on a new story about a famous ecstasy character, hoping to write a story around it. Please guide me step by step, ask me if you want to continue, create story-writing from the hotspot, optimize the picture and inform the team of recommendations, and then make a perfect retrief and score.\nI want to publish a social hotspot story on the public, and I want to publish it on the public, and the target audience is 25-40-year-olds who are interested in the social hotspot event and the work-life story. There's a hot discussion about the work-time culture, and I hope the story will reflect this. Please follow the process and ask me if I will proceed with the next step, produce the story-writing based on the structure of the \"Three-Step\" and optimize and give a graphic clue, and then optimize the retock and score.\nMy micro-account label is Emotional, and my target audience is 20-35-year-olds who like to read emotional stories and psycho-chip soup. I want to choose the story-narrating style for my own emotional experience: I've been away from my best friends while working away, and then reconnected because of an opportunity. On the basis of this information, choose the text framework of \"The winning story plus the problem raised + the process + the results shown\" to produce a microtext for me that doesn't exceed 300 words, and then ask me if I need to be further optimized.",
+        "tags": [
+          "Q&A",
+          "Writing and creation"
+        ]
+      }
+    }
   },
   {
     "id": "问答-创意辅助",
@@ -1871,7 +3730,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "创意辅助"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Creative support",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Creative support.csv",
+        "summary": "Text description becomes an illustration design, and my text description is a graphic design.",
+        "prompt": "Text description becomes an illustration design, and my text description is a graphic design.\nLGO Color Scheme Comparison Generated to provide a [number] color Scheme Comparison for this LOGO design\nOptimize the interior layout with a specific concept, and optimize the interior layout with the same idea as the architectural deconstruct.\nGenerate brand-modified packaging design keywords Generate [quantity] a match [brand concept, e.g. `organic ' concept] [product type, e.g. skin-protector] packaging design keywords\nClassical elements are integrated into modern dress designs, and classical mountain water paintings are integrated into modern dress designs.\nAdd cultural symbols to character design, and add cultural symbols, like the Tactoo in the string era.\nRe-engineering architecture with a parameter design, re-engineering with a structure shape [theorem, e.g. the geometry of the fractal] [the architectural type, e.g. the museum]\nGenerating interactive devices art creative programs Generating a combination of immersion devices art programs\nUser comment on data visualization Converts [number] user [evaluation type, like good evaluation] to dynamic mode [device type, like light interactive device]\nSustainable Materials Alternative for Product Design Design Design Design Design Alternative for this [product, e.g. chair] species [number of materials type, e.g. degradation based material]\nDesign style transformation... translates text description into a particular design style, such as \"Please apply the style of \"modern simplicity\" to this design.\"\nColour scheme design provides a colour scheme comparison for design, for example, \"Please provide 5 different colour options for this LOGO design.\"\nThe interior layout is optimized by using specific design concepts to optimize the interior layout, such as, \"Please use the deconstructist philosophy to optimize the layout of this living room.\"\nPackaging design ideas Generate brand-modified packaging design keywords, for example, \"Please generate 10 packaging design keywords for this cosmetic brand.\"\nThe costume design mix incorporates classical elements into modern clothing design, such as, \"Please include Chinese traditional embroidery elements in the design of this modern dress.\"\nThe character design features are added to the character design by adding specific cultural symbols to the character design, such as, \"Please add to this moving character the cultural symbols of the samurai in Japan.\"\nThe architectural re-engineering is based on a parameterized design thinking that re-creates the architectural appearance, such as, \"Please re-create the architecture with fractal geometry.\"\nThe device art creativity Generate interactive device art creative programmes, such as, \"Please design 5 interactive device art programmes for this exhibition space.\"\nArtistic creative aids View user comment data into artistic devices, such as \"Please convert these users' good appreciation of the product into design programs for artistic devices.\"\nCreative inspiration provides 3 - 5 different sources of creative inspiration (e.g. art, technology, history, nature, etc.) based on [the given theme or scenario, e.g. environmental theme events, future urban life scenarios, etc.], and elaborates on the specific ways in which inspiration can be drawn from these directions, helping users to break through their thinking constraints and explore new and innovative ideas.\nCreative association expands using the core creative elements, such as flight deformation, as a starting point, using conjecture thinking to develop 10 - 15 associated creative concepts, including direct and indirect conjectures, to create a list of creative concepts that can provide rich material for further deepening of creativity.\nCreative themes are generated in combination with [market demand keywords such as “flexible travel” and “healthy diets” and] [current popular trend keywords such as “megaco” and “sustainable development”], generating 5 - 8 innovative and market-potential creative themes, while outlining the unique values and applications of each theme, and helping users to determine the direction of their ideas.\nThe concept of creativity is deepened, from multiple dimensions of functionality, user experience, skin design, business models, to a more detailed description of specific improvements and directions for each dimension, with a view to making the concept of creativity more refined and viable.\n(b) Detailed creative programmes Dissect [initial creative programmes, such as online creative manual course platforms] into concrete implementation steps, identifying the key tasks, resource requirements, time nodes and problems and solutions that may be encountered for each step, and developing a detailed creative implementation programme framework.\nIdeas are integrated. Selecting [the original elements of two or more different fields, such as space exploration and fashion elements], exploring how to integrate them organically, and proposing three to five examples of integration and corresponding creative outcomes to help users create unique, cross-cutting ideas.\n(b) Creative feasibility assessment, from the point of view of the difficulty of technology realization, cost budgeting, market acceptance, and legal and regulatory aspects, to assess [the feasibility of concrete ideas, such as a foldable flight vehicle], to provide a level of feasibility (high, medium, low) and detailed assessment report, which provides a basis for users to judge whether innovation is feasible.\nValue assessment of creative values based on [inventive innovation, market potential, social impact, etc.], using value assessment methods (e.g. comparative analysis, expert scores, etc.), value assessment of [inventive projects, such as environmentally friendly smart home systems], quantification of creative values and advice to enhance creative values.\n(c) Creative risk assessment [identify the risks that the creative approach may face in its implementation, such as technological, competitive, policy risks, etc.], undertake risk assessment [specific innovations, such as un-serviced services], analyse the likelihood and extent of risk occurrence and develop corresponding risk response strategies.\nCreative visualizations provide 3 - 5 ideas and methods of visual presentation, including hand-painting, 3D model illustrations, scene illustrations, etc., based on [the creative content, such as new smart fitness devices], as well as the design elements and reference cases that should be used to help users to present their ideas in visual visual form.\nCreative stories are written to create an interesting story for [the creative product or service, such as the Café of Time Cafés,] that integrates the core of the creativity and the user experience, conveys the value and charm of the creativity through stories, and increases the attractiveness and the enormity of the creativity.\nCreative text writing. Propaganda writing around [inventive projects, such as outdoor theatre activities], highlighting unique points of creativeness, target audiences, activity/product advantages, etc., is adapted to target audiences and creative characteristics to attract potential audiences.",
+        "tags": [
+          "Q&A",
+          "Creative support"
+        ]
+      }
+    }
   },
   {
     "id": "问答-功能应用类",
@@ -1884,7 +3756,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "功能应用类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Functional application class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Functional application class.csv",
+        "summary": "After posting CSV data, use \"please analyse these data to find out [analyze targets such as anomalies in data, data trends] and generate [chart types such as column charts, folding lines]",
+        "prompt": "After posting CSV data, use the \"please analyse these data, identify [the targets, such as anomalies in the data, data trends] and generate [chart type, such as columnal, line chart] code for data processing and analysis \" instruction.\nTranslation comparison compares the results of translations in different styles with the instructions \"to translate the text of the sentence [need to translate] in GPT style and the DeepSeek style separately into English\".\nA search for information on a specific site is conducted by adding \"site: [name of site, e. g. knowledge, arxiv.org]\" keywords such as \"site: knowledge of the status of artificial intelligence development\" to DeepSeek to search for information on a particular site.\nPPT Outline Generation Generates a PPT Outline with the command \"Calculate a PPT framework for my '[PPT Theme, e. g. AI Introduction Guide], with gold phrases starting each page\".",
+        "tags": [
+          "Q&A",
+          "Functional application class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-功能指令类",
@@ -1897,7 +3782,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "功能指令类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Function Command Class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Function Command Class.csv",
+        "summary": "Continues using the \"/ Resumed\" command to automatically continue to generate content in the model when answering an interruption",
+        "prompt": "Continues using the \"/ Resumed\" command to automatically continue to generate content in the model when answering an interruption\nSimplified Use \"/ Simplified\" instructions to convert complex content to plain and understandable expression, for example, \"Please explain quantum mechanics and then/ simplify\"\nExample: When you want to get a practical case, use the \"/ Example\" instruction, especially when it comes to code-related issues, such as \"Please use Python to achieve bubble sorting algorithms,/ Example\"\nStep Use the \"/ Step\" command to let models guide the process in steps, such as \"/ Step How Homemade Breads\"\nChecks, by \"/ Check\" command, to help models detect errors in documents, for example, \"check syntax and logical errors in this contract document.\"",
+        "tags": [
+          "Q&A",
+          "Function Command Class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-医疗健康",
@@ -1910,7 +3808,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "医疗健康"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Medical health",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Medical health.csv",
+        "summary": "Diagnosis of a disease.",
+        "prompt": "The diagnosis of a disease is based on [the patient’s name] symptoms (such as specific manifestations of fever, cough, pain, etc.) and the results of the examination (such as laboratory tests, video examinations, etc.).\nPlease support the development of drugs [for specific diseases] by providing advice on drug screening, such as identifying potential drug target sites, screening suitable compounds banks, etc. through research on pathology mechanisms for disease, advances in existing drug research. Participate in clinical trial design, including developing test programmes, selecting test subjects, identifying test endpoints, etc., to ensure the scientificity and effectiveness of drug research and development.\nNutritional diets.\nSymptoms analysis, based on [described symptoms such as cough, fever, fatigue, etc.], analyses the types of diseases that may be involved, detailing the mechanisms of occurrence of each disease, typical symptoms and elements that need further screening, and helps to make a preliminary diagnosis of the condition.\nThe diagnosis of diseases recommends that recommended diagnostic methods be given for [name of suspected disease, e.g. pneumonia], including clinical screening projects (e.g. blood routine, chest X-ray, etc.), the purpose and expected results of the examination, and how the disease can be further diagnosed or eliminated on the basis of the results of the examination.\nTreatment programming Develop individualized treatment programmes based on [diagnosed diseases such as hypertension] and [individual patient situations such as age, complications, etc.], covering medication treatment (recommend specific drugs and methods of use, principles of dose adjustment), non-pharmacological treatment (e.g. dietary control, specific requirements for motor therapy) and care during treatment.\nHealth risk assessment, based on [personal basic information (age, sex, family history, etc.), lifestyle (food, exercise, alcohol and alcohol smoking, etc.) and medical examination data (blood pressure, blood sugar, blood resin, etc.), assess the risk levels of common chronic diseases (e.g. cardiovascular diseases, diabetes, etc.) and provide risk-risk analysis and targeted prevention recommendations.\nHealthy lifestyle planning for [specify population groups, such as working people, older persons, etc.] includes reasonable dietary plans (recommends the type of food and intake per day), moderate sports programmes (type of motion, frequency, intensity advice), regular interest arrangements (sleep time, time to get up) and stress management methods (e.g. meditation, yoga, etc.).\nDisease prevention measures are developed to develop detailed preventive measures for [a communicable disease such as influenza] or [chronic diseases such as osteoporosis], including vaccination recommendations (addressed population, vaccination time, etc.), routine protection methods (e.g. wearing masks, social distance, calcium supplementation) and recommendations for periodic screening (screening projects, frequency of screening).\nThe rehabilitation programme develops individualized rehabilitation programmes for [the type of disease of the recovering patient, such as fractures, strokes, etc.] and [the rehabilitation phase, such as early post-operative, recovery, etc.], with clear objectives for training, specific actions (including action orientation, repeated times), frequency of training and attention during training, and promotes the rehabilitation of the patient ' s physical functioning.\nThe care programme is designed to provide comprehensive care programmes, including routine care elements (e.g. skin care, oral care methods), dietary care (adaptation of dietary structure to the condition), psychological care measures (methods to alleviate patient anxiety, depression) and emergency response plans, based on [the patient's condition, such as long-term bed rest, chronic patients, etc.].\nProvide a rehabilitation impact monitoring methodology for [rehabilitation patients], identify indicators to be monitored (e.g. physical activity, physical performance indicators, etc.), time nodes for monitoring, and how rehabilitation training programmes and care programmes can be adapted to the results of monitoring to ensure a smooth recovery process.\nPsychological assessment. Based on [described psychological symptoms such as depression, anxiety, insomnia, etc.], assessment of possible psychological problems (e.g. depression, anxiety, etc.) and presentation of the methodology and evaluation criteria for the relevant psychological assessment tables (e.g. SDS, SAS, etc.) helps to provide a preliminary understanding of psychological state.\n(c) Advice on psychological counselling and treatment, which is designed to provide [assessed psychological problems, such as moderate anxiety], to provide appropriate psychological counselling or treatment methods (such as cognitive behavioural therapy, drug treatment, etc.), to describe the characteristics of different methods, their scope of application and the means of finding professional psychological counsellors or medical institutions.\nPsychological adaptation methods guide [people in stress situations, such as pre-screened students, job-placers, etc.] to psychological adaptation methods, including emotional adjustment techniques (e.g. deep breaths, emotional expression), cognitive re-engineering methods (change negative thinking patterns) and practical steps to relax training (e.g. progressive muscle relaxing) to help reduce stress and maintain good mentalities.\nMedical resources are available through the methods and channels of consultation for relevant medical resources, including the address of the hospital, the establishment of the unit, specialist information etc., according to the region [of the district, such as the Beijing city of Yoyang] and the type of need, such as the search for the tri-a hospital, the specialist hospital etc., and to facilitate patient selection of suitable medical facilities.\nMedical science collection Collections authoritative medical science literature, including recommendations for scientific articles, videos, books, etc., and access to information from formal websites, public numbers, APPs etc., to help users access accurate medical knowledge around [medical topics such as cancer control, cardiovascular health, etc.].\nDrug Information Reference Provides a detailed information query service [name of drug, for example, Amosilin], including the efficacy of the drug, its use, adverse effects, taboo population, etc., and provides information on how to identify the true and false of the drug and ensure safe and reasonable use of the drug by patients.\n• To generate an improvement programme based on medical reports, to convert [unusual indicators in medical reports] into daily dietary exercise schedules\nDesigning a model for chronic patients to monitor symptoms, and making a tracking log of symptoms, like glucose fluctuations.\nUse evidence-based medical principles to interpret the drug description and assess clinical data for the drug, using the evidence level assessment criteria, such as JAMA.\nGenerating Post-Exercise Rehabilitation Animation Guidance Generating Progressiveally Negative Training Animation Dismantling\nThe Chinese medical records are translated into visualized reports generating interactive reports that include [analytical content, such as physical identification]\nDesigning action alternatives for the fitness program.\nDesign dietary programmes using nutrient genomics based on dietary recipes for disease prevention, e.g. dementia, based on [genetic tests, e.g. APOE genotype]\nGenerate a meditation guide script, create a meditated script in a combination of \"number\"\nThe motion data is converted into 3D bone action analysis, generating 3D model labels for \"analysing content, like a walking mechanic anomaly\"\nTo generate recipes for special dietary needs.\nThe dietary combination is recommended in accordance with the individual's physical condition and nutritional needs, and is based on a reasonable dietary combination, such as proteins, carbohydrates, etc.\nThe plan is designed to provide a suitable plan for the exercise, including type of exercise, frequency and duration of the exercise, according to individual objectives (e.g. weight loss, muscle gain, etc.) and physical conditions.\nPlease provide information on some methods of improving the quality of sleep, such as maintaining regularity and creating comfortable sleeping environments.\nPlease provide advice on mental health, such as learning to relax, developing hobbies, etc.",
+        "tags": [
+          "Q&A",
+          "Medical health"
+        ]
+      }
+    }
   },
   {
     "id": "问答-图像识别",
@@ -1923,7 +3834,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "图像识别"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Image recognition",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Image recognition.csv",
+        "summary": "Image recognition Please identify the image [provided], accurately identify \"specific object\" or \"specific feature\" and output the confidence of the recognition result",
+        "prompt": "Image recognition. You can use the deep learning model (ResNet, VGG, etc.) for image recognition, pre-processing, feature extraction and classification of images, and improve the accuracy and efficiency of image recognition.\nTarget detection. Target detection is possible using target detection algorithms (YOLO, Faster R-CNN, etc.), feature extraction and target frame regression, and improvement in accuracy and efficiency of target detection.\nCategorize [image] into predefined categories, providing the basis for classification decisions and a reliability assessment of the classification results. Image classification can be done using deep learning models (e.g. AlexNet, GoogleLet, etc.), image extraction and classification, and classification of images, using cross-checking methods to assess the reliability of classification results.\nImage partitions. You can use image partition algorithms (e.g. U-Net, FCN) to divide images, feature extraction and pixel classification of images, and improve the accuracy and efficiency of image partitions.",
+        "tags": [
+          "Q&A",
+          "Image recognition"
+        ]
+      }
+    }
   },
   {
     "id": "问答-大单元教学",
@@ -1936,7 +3860,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "大单元教学"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Large-sized teaching units",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Large-sized teaching units.csv",
+        "summary": "(a) Large-module teaching design. Please perform large-module teaching design for [disciplinary-specific large-unit themes], as follows:",
+        "prompt": "(a) Large-module teaching design. Please perform large-module teaching design for [disciplinary-specific large-unit themes], as follows:\nThe objectives of the course are set to set clear, measurable and standard-based objectives for the [large-module theme] of [the subject name], which include three dimensions of knowledge and skills, processes and methods, emotional attitudes and values.\nThe content of the teaching is integrated, the content of the teaching materials under [the subject matter of the large unit] is integrated, the logical relationship between the knowledge points is sorted, the knowledge framework is constructed, and the focus and hard content is highlighted.\nTeaching methods are selected for [topical title] [large-unit theme], with appropriate teaching methods such as project-based learning, problem-oriented learning, collaborative learning, etc., and with a description of the application scenarios and expected effects of each method in the teaching of the module.\nImport activity design Designs an innovative import activity that stimulates interest among students, which is used for the start of [disciplinary name] [large-cell theme], and is controlled for a period of [X] minutes.\nClassroom activities are planned Planning classroom activities during the [subject name] [large-module theme] teaching process, including group discussions, experimental exploration, role-playing, etc., each activity requires a clear purpose, process and timing of the activity.\nPost-school outreach activities Design post-school outreach activities such as practical research, creative work production, reading referral etc. for [subject name] [large-cell theme] to deepen students ' understanding and application of the content of the modules.\nAnalysis of the resource resources for teaching materials [subject name] [large module theme], indicating strengths and weaknesses of teaching materials and how to develop them in a second instance to better serve the teaching.\nMultimedia resource collection Collection Multimedia resources related to [disciplinary title] [large-unit theme], such as pictures, videos, animations, etc., with an indication of the source of the resources and how they are used in teaching.\nTeaching aids are prepared to list the teaching aids and teaching aids required for [the subject of the large unit], including physical aids, models, experimental devices, etc., and to describe their role in teaching.\nEvaluation indicator development Develop a system of teaching evaluation indicators [of subject names] [of large modules theme] that covers knowledge acquisition, competency development, learning attitudes, collaborative performance, etc., and identify weights and evaluation criteria for each indicator.\nProcess evaluation programme Design [subject name] [large-module theme] process evaluation programme, including evaluation of classroom performance, performance evaluation, periodic testing, etc., indicating the time node of evaluation and how feedback is provided.\nFinal evaluation design Planning for end-of-school evaluation methods such as examinations, project results presentation, and setting evaluation criteria and scoring rules.",
+        "tags": [
+          "Q&A",
+          "Large-sized teaching units"
+        ]
+      }
+    }
   },
   {
     "id": "问答-学习规划类",
@@ -1949,7 +3886,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "学习规划类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Learning planning category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Learning planning category.csv",
+        "summary": "Learning programme development, using \"I need to meet [time limits] [learning objectives such as the 7 points for Yass, learning Python,] based on learning objectives, current levels and timing",
+        "prompt": "Learning programme development, using “I need to achieve learning objectives within [time frame] [time frame], such as the 7 points, learning Python programming, etc.], current levels [specific level description], learning [time frame], [use [preparation cycle, for example, week, month]], preparation of the examination]/ learning programme, including: daily allocation of time for sections, list of required information, stage self-measurement points” instructions, for example, “I need to learn Photoshop within 2 months, currently zero basis, 2 hours per day, and develop a learning programme on a monthly basis, including: daily allocation of learning time, list of required information, phase self-measurement of time points”\nKnowledge points understand, for specific knowledge points, use the words “interpretation [in a qualified manner, such as three sentences, life scene analogies, etc.] [knowledge point names, such as Monte Carlo simulations, calculus, etc.], [the words specify, such as the first, life scene analogues, second sentence technical definitions, third sentence application cases]” instruction\nError analysis Uploading wrong photos or entering the title using the command \"Pry the source of the error and recommend [number] of similar intensive exercises\"\nMemory enhancement Enter what needs memory, using the command \"to generate memory mouths with these [content types, such as medical terms, historical events, etc.], each sentence [words required] to rhyme\"\nSet up learning supervision alerts, such as \"A week [supervised mode starts] [time-specific] reminds me to submit a learning summary, send warning messages at a time more than [time], and generate incentive programs after completion of phase objectives\"",
+        "tags": [
+          "Q&A",
+          "Learning planning category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-学习计划类",
@@ -1962,7 +3912,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "学习计划类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Study programme category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Study programme category.csv",
+        "summary": "Language learning plans are developed to read, \"I am in my mother tongue, as is explained by the English base,\" and I need to learn from zero.",
+        "prompt": "Language learning plans are developed in the following terms: “I am in my native language, if there is an English base, to start learning from zero basis [target language, e.g. Spanish], with the hope that [the target level, e.g. 2 years] will be reached [target level, e.g. B1-B2], can you help me develop an efficient and systematic learning plan? You need to include the main learning materials (preferably online, YouTube, or on the Internet), supplementary apps, podcasts, films, etc.”. The plan is broken down into each stage, 0-[the starting level, e.g. A1], what time is used, how long is it possible to learn, how is it evaluated to reach [start level] - [target level]... with such a recommendation. Please include links and learning advice. The more detailed, the better you are going to be able to give DeepSeek a language learning program.\nFor the language learning plan that has been developed, enter “the content of the learning at the current stage, such as A1-A2, to plan for the learning tasks of this week, including daily learning arrangements and focused learning content”, at each stage, to obtain a specific weekly learning assignment.\nLearning resources expansion, using the instructions \"I'm learning at the [current stage], feel that learning resources, such as educational materials, videos, are not enough, can you recommend some more relevant learning resources? Better include online video, APP, podcast, etc. \" to access more learning resources.",
+        "tags": [
+          "Q&A",
+          "Study programme category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-学术研究",
@@ -1975,7 +3938,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "学术研究"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Academic research",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Academic research.csv",
+        "summary": "Read the literature quickly. Please summarize the core findings of this paper in 300 words and mark three innovation points and two potential deficiencies.",
+        "prompt": "Read quickly, please summarize the core findings of this paper in 300 words and mark three innovation points and two potential deficiencies.\nPlease translate the extract into English to ensure that professional terminology meets the IEEE standards.\nFor references, please refer to the five high-level papers on [the theme] in the last three years, listed in the APA format.\nRewrite this method in Nature journal format, highlighting the replicability of the experimental design.\nPlease cite three pieces of evidence in support of and against [theory], in tabular comparison of weights.",
+        "tags": [
+          "Q&A",
+          "Academic research"
+        ]
+      }
+    }
   },
   {
     "id": "问答-学术辅助类",
@@ -1988,7 +3964,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "学术辅助类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Academic support",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Academic support.csv",
+        "summary": "Recommended topics, according to the profession and research orientation, use \"I am [specialist] student / researcher, recommend [number] of suitable [specific requirements, such as graduation design, scientific research projects, etc.]",
+        "prompt": "Recommended topics, according to the profession and research orientation, use of the instructions, for example, “I am a [professional] student/researcher, recommend [number] a relevant [research area] subject suitable for [specific requirements, such as graduation design, scientific research projects, etc.], require [specific conditions, such as innovation, feasibility, etc.]” and, for example, “I am a graduate student in biology, recommend 3 topics related to cell biology suitable for scientific research projects, and require that the latest research hotspots be combined”.\nOptimizing the subject of the paper, giving the subject of the paper, and optimizing the model, for example, “Please optimize the subject of the paper `Research on environmentally friendly products' to make it more attractive and professional”.\nAfter uploading several literatures, use \"Please compare the [comparing dimensions of the literature, such as research methods, experimental results, etc.] with the instructions of [table column title], e.g., \"Please compare the experimental design of the literature with the tables, with the \"objects of the experiment\"/ experimental methods of the experiment\"\nExperimental steps rewrite, for the content of the test steps, enter the \"Please rewrite this experimental step to [target language, such as academic passive language]: [Place the content of the test steps]\" command.\nAfter providing data, use the \"Proposal three chart types suitable for displaying [data characteristics such as trends in sales, data share, etc.], and provide reasons for selection\" command\nUse the \"check if my paper format meets the following requirements according to the specific format requirements: [list the required format content]\" instruction\nAfter re-checking pre-checking Paste text, enter the \"Analyze the following paragraphs: [painting text], predict the weight rate and high risk fragments (specify red display), identify potential references missing (recommend relevant literature), and provide recommendations for recasting (synonym replacement/ structural adjustment)\" command\nJournal matching, using “area: [area of research] - innovation point: [inventive point content] - data volume: [specific data volume], recommended [number of strangulations], [number of impact factors], [number of warranty periodicals], (number of guaranteed periodicals] (number of > [number of digits of entourage]), [number of emerging open-source periodicals] (APC free of charge), with updated impact factors and review cycles, with a description of the difference in format required (references to / chart norms)”\nReal-time monitoring, according to the research keyword, using the latest advance copy of the \"Tracking [Research Keywords], generate weekly [time-specific] bulletins\" command \"Foundation of published papers similar to my methodology, relative to advantage\"",
+        "tags": [
+          "Q&A",
+          "Academic support"
+        ]
+      }
+    }
   },
   {
     "id": "问答-安全分析",
@@ -2001,7 +3990,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "安全分析"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Security analysis",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Security analysis.csv",
+        "summary": "Invasion detection. Please perform intrusion detection on [specific targets], deploy specialized intrusion detection systems (IDS) or intrusion defense systems (IPS) to monitor network traffic in real time.",
+        "prompt": "Intrusion detection is required to detect [the specific subject], deploy specialized intrusion detection systems (IDS) or intrusion defense systems (IPS), monitor network traffic in real time.\nA bug scan should be performed for [specific subjects], a specialized bug scan tool should be used, and a system’s operating systems, applications, network devices, etc. are regularly thoroughly scanned. Detailed records should be made of the security gaps found, including information on the type, severity, extent of the bug, etc., and provide corresponding recommendations and solutions for repair.\nLog analysis requests an in-depth analysis of [specific] logs, using data mining and machine learning techniques, to screen the log records from big log data. Focus on logs associated with safety events, system failures, analyse the relevance of the logs, explore potential safety problems or system failures, and generate detailed analysis.\nThreat intelligence is collected and analysed for [specific] threat intelligence, and is widely collected through cooperation with multiple authoritative sources, using open source intelligence collection tools. Data analysis techniques are used to screen, integrate and evaluate intelligence, predict security incidents in advance, and develop targeted prevention strategies.",
+        "tags": [
+          "Q&A",
+          "Security analysis"
+        ]
+      }
+    }
   },
   {
     "id": "问答-安全防护",
@@ -2014,7 +4016,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "安全防护"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Security",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Security.csv",
+        "summary": "Security protection: Please provide comprehensive security protection [for a particular system or application], including security strategy development, access control, data encryption, security audits on a regular basis, and ensure systems or applications are covered.",
+        "prompt": "Security protection: Please provide comprehensive security protection [for a particular system or application], including security strategy development, access control, data encryption, security auditing on a regular basis, and ensure the security and safety of the data of the system or application.\nSystem gap scanning Please scan [systems or applications] for holes, apply professional gap scanning tools, fully detect security gaps in systems or applications, conduct detailed analysis and risk assessment of detected gaps and provide prompt recommendations for remediation.\nSystems intrusion detection is required to construct an intrusion detection system that will monitor [web traffic or system log] in real time, detect and disrupt unusual cyber access or malicious attack in a timely manner, and document and analyse the invasion in detail.\nData encryption Please encrypt [sensitive data] data, using advanced encryption algorithms to ensure the safety of data during transmission and storage, and provide detailed operating processes and key management options for encryption and declassification.\nAccess control. Please apply access control to [the system or application resources], severely restrict user access to the system or application resources by setting user privileges, role privileges, etc., and ensure that only authorized users have access to specific resources.",
+        "tags": [
+          "Q&A",
+          "Security"
+        ]
+      }
+    }
   },
   {
     "id": "问答-实时监控",
@@ -2027,7 +4042,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "实时监控"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Real-time surveillance",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Real-time surveillance.csv",
+        "summary": "(b) Real-time monitoring records, which should be applied to [specific targets], to ensure the timeliness and completeness of data by developing a specific monitoring system or using specialized tools to track on an ongoing basis specific data streams or sources of information,",
+        "prompt": "Real-time monitoring records are required to be monitored in real time by [specific targets], to keep track of specific data streams or sources of information through the development of a dedicated monitoring system or the use of specialized tools, to ensure the timeliness and integrity of data, and to provide an immediate warning and record details in the event of data fluctuations, interruptions, etc.\nLog monitoring [for specific objects], using real-time log analysis tools, depth analysis of log data. Focus on system operating records, user behavior records, etc., analyse data frequencies, sources, types of operations, etc., detect unusual operating patterns or potential security hazards in a timely manner, and generate real-time analysis. Log monitoring can be done using log analysis tools (e.g. ELK Stack, Splunk, etc.), take log data, store, analyse and visualize them, analyse log data using machine learning algorithms (e.g., abnormal detection algorithms), detect unusual operating patterns or potential safety hazards in a timely manner, generate real-time analysis reports, and improve the effectiveness and reliability of log monitoring.\nPerformance monitoring requires performance monitoring of [specific targets], using specialized performance monitoring tools, to monitor performance in real time from multiple dimensions such as CPU usage, memory occupancy, disk I/O, web bandwidth, etc. The performance threshold is set and the alarm is triggered quickly when performance indicators exceed normal parameters, while recording details of the time when performance bottlenecks occur, processes etc., so that they can be optimized.\nMonitor the abnormality detection by means of an anomaly test, using a combination of machine learning algorithms and rules engines, to monitor the behaviour data in real time.",
+        "tags": [
+          "Q&A",
+          "Real-time surveillance"
+        ]
+      }
+    }
   },
   {
     "id": "问答-对话优化类",
@@ -2040,7 +4068,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "对话优化类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Dialogue optimization class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Dialogue optimization class.csv",
+        "summary": "Identify needs, describe in detail and precisely what the mission or question is intended to be done, and avoid vague instructions, such as: “Please help me summarize the results of the marketing activities of the company over the past year, analyse the bright spots and shortcomings, and use the PPT as a tool for the development of the new technology.",
+        "prompt": "Identify needs, describe in detail and precisely what the task is to be done or the question to be answered, and avoid vague instructions, such as, \"Please help me summarize the results of the company ' s market outreach activities over the past year, analyse the bright spots and shortcomings and present them in the form of a PPT.\"\nProvide background, add background information to the instructions that are relevant to the problem, help the model understand the need, for example, \"I am an electrician operator and the store is primarily selling women's clothes. Please analyse the reasons for the recent decline in shop traffic and provide solutions in the context of the current season and competition\".\nSpecified format Requirements for model output content format, like \"Please list 5 flowers suitable for summer planting in a list format and outline conservation elements\"\nQuestions in step: Dissecting complex issues into simple steps, such as “first step: introduction to the main algorithm type of machine learning; second step: examples of its application in the field of image recognition for each algorithm”\nRole setting, role setting, role-setting, role-playing, and question-and-answer from a specific identity perspective, for example, \"You are a senior psychologist, please help me analyse the causes of the recent stress of work leading to insomnia and give me some advice on mitigation.\"\nOpen questions Questions Questions that can lead models to give more rich and detailed answers, such as, “What is the current state of AI applications in the medical field, what are the possible breakthroughs in the future and what are the challenges ahead?”\nCorrect and supplement the model when it answers unsatisfactory questions, and give clear and timely amendments or additional requests, such as: \"This tourism strategy has recommended too many sites, budget overruns, please re-plan a five-day tourism strategy within $3000.\"",
+        "tags": [
+          "Q&A",
+          "Dialogue optimization class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-市场营销类",
@@ -2053,7 +4094,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "市场营销类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Marketing",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Marketing.csv",
+        "summary": "Marketing of words based on user images, for target client groups, such as Z Generation Mothers, to promote the word.",
+        "prompt": "Marketing of words based on user images, for target client groups, such as Z Generation Mothers, to promote the word.\nThe new items are listed in a joint cross-border program, which plans a joint marketing program that combines the same object as the unscathed culture.\nModeling competition pricing strategies, using [model principles, like Nash balance principles] as an analysis of [number of competitions and names of competing competitions, like three competitions] [tactical types, like promotion strategies]\nGenerating a theme for the festival marketing that empathizes with the theme of the festival, generating a theme for the marketing of the festivals that are focused on the theme of the festivals, which are \"unlikely\"\nConverting sales data into visualized dissemination material... from [data type, e.g. user growth data] to [material type, e.g. information long-term map]\nLive-in-blow-cargo-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-scene-s-scene-sc-sc-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s\nOptimize the design of promotional activities using economic principles, using [economic effects, e.g. anchoring effects] to design [activity names, e.g. two-nil] ladder discount schemes.\nGenerate a fission activity in private-area flows.\nUser travel maps are converted into key contact nodes, indicating the highest client loss rate as a key node.\nDesigning cognitive testing questions for brand upgrades Designing new \"number\" questions for memory of new \"brand elements like LOGO\"\nPrecision marketing speech generation.\nNew items are on the market planning, and a joint cross-border programme for new items is planned, such as, \"Please plan three joint cross-border programmes for our new products.\"\nMarket competition analysis uses game theory models to analyse competition pricing strategies, for example, \"Please use game theory models to analyse our and competitors' pricing strategies.\"\nThe festival marketing theme design produces the festival marketing theme that empathizes, such as \"Please design 5 themes for the Spring Festival that have emotional resonance.\"\nSeeding sales data Converting sales data into visualized dissemination materials, such as, \"Please convert sales data into information maps or videos for promotion purposes.\"\nLive-telephone design, for example, \"Please design 5 scenario-based physiology templates for our live-telegram activities.\"\nUser behavior analysis Analyses user travel maps and identifies key contact nodes, for example, \"Please help me analyse the user's journey maps in the process of purchasing our products and identify key touch nodes.\"\nI want to promote a cosmetics product with a humorous style, with a product name and brand name [specific product name and brand], with a product character and function [detailed], using [specific methods], using experience [sharing], applying to [specific groups], packaging and appearance of products with [description of packaging appearances], purchasing channels and prices with [description of channels and prices], and using a humorous style to help me generate a small red book with grass headings and 500 characters, with headings and text sheets to add emoji profiles.\nWrite home-based product measurement reviews in Coptic style, and I have a home-based product that I recommend, with the name and brand being [specific product names and brands], product characteristics and functions being [detailed], with [specific methods], using experience being [shared], applying to [specific groups], product packaging and appearance being [descriptive packaging appearances], purchasing channels and prices being [descriptive channels and prices], and in the Coptic style, generate some text for me in the form of a small red book with the original headings and 500 words based on a professional evaluation framework, remember the emoji representation.\nI want to promote a dress with a resonant style, with a product name and brand being [specific product name and brand], product characteristics and functionality being [detailed], the method of use (matching) being [specifically dressed method], the experience (dressing) being used being [shared feeling], the applicable population being [specific group], the packaging and appearance of the product being [descriptive packing appearance], the purchase channel and price being [descriptive channel and price], using the emotional resonance style to bring the context into the frame, to help me create the sketches and 500 characters of the little red book, with emoji representation.\nI would like to recommend a digital product with a name and brand name [specific product name and brand], with a product character and function [detailed], using [specific methods], using experience [sharing], applying to [specific groups], packaging and appearance of products with [description of packaging appearances], purchasing channels and prices with [description of channels and prices], using a practical style, to generate text about the headlines and 500 words of the small red book, with the headings and textual additions to the emoji formula, in accordance with the framework of the curriculum\nI want to promote a food that is supported by a shared style, with a food-grained text with data, and that has a product name and brand name, and that has a product character and function [detailed], using [the dietary method], using experience, applying [the sharing of feelings], product packaging and appearances, and buying channels and prices, and using a sharing style, together with a data-support framework, to produce a text or something for me in the red book grass headlines and 500, remember, add emoji watch.\nI want to promote a digital product in a little red book for young workers, using diode and blast keywords to generate 5 titles with emoji emoticons and not more than 20 words for me.\nI'm going to share a good meal in the little red book, hoping to use a warm and friendly style to describe the beginning of pain, adopt a step-by-step structure, be guided by a callive interaction, incorporate the explosive phrase and the oral sacrament, create a text for me, remember to add the emoji emotice to the appropriate place in the paragraph and add the SEO label at the end of the text.\nDesigning a little red book-keeping label, I wrote a little red book note on a white-coated cream, helping me design some suitable SEO labels from the point of view of core keywords, associated keywords, high transformational terms, industry hot-search words.\nI'm looking at students who like to read novels, and I'm proposing a book entitled \"100 Years of Aloneness\", and I'm referring to the \"Book of Bombing\" instruction, which is to produce for me five original, emotional and contagious titles with emoji-based representation.\nThe target audience is a professional 25-35 year old who read his own book. I recommend the book \"Seven Practices for Efficient People.\" Please help me generate a draft text for the draft text, including the pain spots, books and author presentations, the end of the gold phrase in the book and the call to action section, in accordance with the procedures of the bill number B.\nI wrote a little red book about the word \"exactly\" and I did the following, and I'm going to do the word \"exactly\" review, and I'm going to enter the word, then I'm going to provide the wordbook, then automatically detect and mark the word, provide options for replacement, and finally show the modified text.\nI want to publish a small red text, which is [the text specifics], which will be tested according to your process, show the prohibited word in bold and high, provide spelling, emoj or other non-offence options for replacements, and show the text as a whole.",
+        "tags": [
+          "Q&A",
+          "Marketing"
+        ]
+      }
+    }
   },
   {
     "id": "问答-微头条文案",
@@ -2066,7 +4120,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "微头条文案"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "The microtext.",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/The microtext..csv",
+        "summary": "I'm a job-class account, hoping to attract 30-45-year-olds who are concerned with career promotion and interpersonal relationships.",
+        "prompt": "I am a job-class account that attracts 30-45-year-olds who are concerned with career promotion and interpersonal relationships. I choose to get creative material from the hot event, the \"The 35-year-old crisis in the workplace,\" using the \"suspension-led style\" to help me generate a microtext, not more than 300 words, in line with the \"Amazing facts plus data support plus in-depth analysis plus reader interaction\" framework.\nI'm going to create an emotional microhead with a digital factual style, and my account label is Emotion, and the target audience is 18-28 years old, and they're interested in the subject of love. I'm going to provide a story of a bomb case, which says, \"Many couples break up because they don't communicate.\" I choose the data fact style, based on the framework of \"Clash Comparison + Key Arguments + Case Support + Summary \" , and help me generate a microtext case that doesn't exceed 300 words, and then ask me if I need to optimize it.\nI want to attract 25-35-year-old working women who are under stress and enjoy reading emotional content during leisure time. I choose to get creative material from the hotspot event \"Longness from work pressure,\" and to use the subtle feeling style to create an emotional text for me in the warm healing framework and line-up style, and then ask me if I need to optimize it.\nMy target audience is 18-28 years old, who are studying or working outside, and who are very fond of their relationship. I have a story about silent family work, and I want to use it as a basis for choosing a healing dialogue style that will produce a 600-word emotional case based on a painful echo and a concise line.\nI want to attract people who like nature and want to be at 20-40 years old. I have a idea about healing the trauma in nature. Please help me choose a natural comfort style, and create a 500-word emotional case, combining the memory of the old and the comparative reflections, and then ask me if I need to be better.",
+        "tags": [
+          "Q&A",
+          "The microtext."
+        ]
+      }
+    }
   },
   {
     "id": "问答-思维导图",
@@ -2079,7 +4146,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "思维导图"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Mind Chart",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Mind Chart.csv",
+        "summary": "Generate a markdown mind chart. Create a picture of the mind based on [the subject content] in the Markdown format, ensuring that the structure of the chart is clear, structured, node is accurate and comprehensive, capable",
+        "prompt": "Generate the Markdown Thinking Guide. Create a Thinking Guide based on [the subject matter] in the Markdown format to ensure that the structure of the Thinking Direction is clear, structured, node is accurate and comprehensive, and that it effectively presents the core elements of the theme and its logical relationships.\nGenerate MindManager's mind maps. Create a MindManager-based mind charts based on [the subject content], which require a rational layout of the mind map, a clear connection between nodes, and an accurate message on the subject.\nGenerate FreeMind Thinking Guides. Creates a Thinking Guide based on [the subject matter] in FreeMind format, which is well readable and scalable and can be easily edited and modified.\nCreative thinking - Brainstorms aided by brainstorms, which are used to document and collate ideas from participants in the meetings during the brainstorms of creative thinking. Using the creative ideas of a new product, participants brought up, for example, a variety of fragmented ideas, such as product function innovation points, inspiration for visual design, and the characteristics of the target user group, to articulate them in a thematic and branch-based way, so that they can be easily sewn together and discover the links between ideas, thus further stimulating more creativity.\nProject planning - Project process streamlining. In the project planning phase, help project managers and team members to streamline project processes. For example, in the software development project, project start-up is the central theme, with branches performing various phases of needs analysis, design, coding, testing, deployment, and each phase breaks down specific tasks, such as user research under the needs analysis, demand documentation, etc., and clearly shows the overall framework of the project and the sequencing of the various components, facilitating the team members ' understanding of the project as a whole and rationalizing the progress of work.\nIn this way, the collection of fragmented knowledge in the teaching materials is linked to the system, which helps students understand and remember and improves their learning efficiency.\nMeetings management - minutes are organized and, after the conclusion of the meeting, are organized. The theme of the meeting is central, with each topic as a branch in the order in which the meeting is discussed, with the relevant discussion, consensus reached, to be done, etc.\nWriting ideas - article outlines are structured, helping authors to build the article outlines before writing. For example, when writing a paper, the subject is central, and sub-arguments are organized around the subject, with each sub-argument being divided into arguments and argumental ideas.\nTime management - Task planning, when time management is done, plans daily, weekly or monthly mission planning.\nRead notes - Books are collating their contents, and after reading them, they are used to comb their contents. For example, a book that reads management, with the central theme of the book, and a branch with the core ideas of the chapters, according to the chapter structure of the book, with the sub-sections down to the key theories, cases, etc.\nMarket research - Competing analysis shows that, in conducting market research and competitive analysis, the subject is centred on competitive analysis, with each of the competing products as a branch, with each sub-branch comparing the product function, price, market share, and user evaluation. The thinking map provides a clear picture of the advantages and disadvantages between the competing products and provides a basis for enterprises to formulate market strategies.\nTechnology road map - The technological evolution of products. In the product development process, product-based presentations show the technology architecture, technology selection and technology upgrading pathways used by products at different stages. For example, a mobile application is initially designed to provide a basic framework with agile development approach, using mature open-source technologies such as React Native to meet the need for rapid access to the line; as the number of users increases, Flutter upgrades are introduced at the performance optimization stage, and databases are distributed; and new functions such as personalization recommendations are introduced to artificial intelligence technologies at the functional extension stage.\nTechnical road map - Technical project implementation guide - Technical projects for technology projects such as the construction of a large data platform project, with project objectives at the centre, to plan technical routes around key links such as data collection, storage, processing, analysis and visualization. Data collection links, selecting suitable collection tools and technologies according to different data sources (e.g. sensor data, business system data, etc.); data storage phase, determining the use of Hadop distributed file systems or relationship databases based on data size and reading and writing needs; data processing, using MapReduce, Spark, etc.; data analysis, using machine learning algorithms for data mining; visualization of tools such as Taweau, PowerBI. The conceptual road map provides detailed technical guidance for project implementation teams.Ensure that projects are carried out in an orderly manner in accordance with established technical programmes.",
+        "tags": [
+          "Q&A",
+          "Mind Chart"
+        ]
+      }
+    }
   },
   {
     "id": "问答-性能优化",
@@ -2092,7 +4172,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "性能优化"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Performance Optimization",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Performance Optimization.csv",
+        "summary": "Performance optimization. Please perform performance optimization for [a particular system or application], identify performance bottlenecks through comprehensive performance analysis, and adopt targeted optimization measures such as optimization algorithms, adjustment of configuration parameters, and promotions.",
+        "prompt": "Performance optimization is required for [a particular system or application], through a comprehensive performance analysis, to identify performance bottlenecks, to adopt targeted optimization measures such as optimization algorithms, adjustment of configuration parameters, upgrading of hardware, etc., and to significantly enhance the performance of the system or application.\nCode optimization. Please perform code optimization for [code snippets], improve the efficiency and maintenance of code implementation by improving the code structure, optimizing the algorithmic logic and reducing redundancy, and perform a detailed comparative analysis of the code performance before and after optimization.\nPlease optimize the database of [database system], including database design, index strategy, and query statement optimization, to improve the database ' s read-write performance and responsiveness, while undertaking a comprehensive assessment of pre- and post-optimal database performance.\nNetwork optimization is required for [network environment], to increase the bandwidth usage and data transmission rate of the network by optimizing network tops, adjusting network configuration parameters, upgrading network equipment, etc., and to reduce network delay and drop rates, while providing detailed monitoring and analysis of network performance before and after optimization.",
+        "tags": [
+          "Q&A",
+          "Performance Optimization"
+        ]
+      }
+    }
   },
   {
     "id": "问答-技术开发类",
@@ -2105,7 +4198,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "技术开发类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Technical development category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Technical development category.csv",
+        "summary": "Reconstruct the code in architecture mode with [archive mode, e.g. MVVM mode] reconstruct this [code module, e.g. front end data binding module]",
+        "prompt": "Reconstruct the code in architecture mode with [archive mode, e.g. MVVM mode] reconstruct this [code module, e.g. front end data binding module]\nDesign an API for an anomaly treatment program Design a system environment like a distributed system for a system like a guarantee type like a stubble\nGenerate a sample of the marginal computing application test, produce a number of examples of the peripheral node failure simulation.\nDesigning system pressure programmes with mixing engineering principles based on [theories, e.g. the entropy theory] [service type, e.g. microservices] smelting test scenes\nNatural language needs converted to UML Times Order Map Generates Times Order Maps containing [authentic means, e.g. double factor authentication] [flow names, e.g. user login process]\nDesign smart contract templates for block chain applications.\nOptimize logistics path planning using genetic algorithms and generate dynamic path optimization programmes that take into account [real-time factors, such as real-time road conditions]\nGenerating machine learning feature engineering programmes Designing a [quantity] combination feature scheme [Dataset description, e.g. electric user data]\nTransporting document converted to Ansible Playbook Auto Generates AutoSet Scripts for Automated Deployment [cluster type, e. g. K8s cluster]\nDesigning a white box test case for cryptography applications.\nLooking back at the project objectives and referring to the case, I am in the process of developing an APP development project review, and I would like you to direct me to review the project objectives, to describe in detail the overall and core milestones, to provide background information on the project and to give me a simple reference case and then ask me if I should proceed further.\nAssessment of project results and provision of reference Continuing the above APP development project assessing whether the project has achieved its intended objectives against its targets, quantifying the gap between actual and expected results, analysing strengths and weaknesses of the results, providing a simple reference case and asking me if I will proceed next\nAnalyse the project process and the reasons for the results and give examples, or this APP development project, document key events and milestones in the implementation process, describe the final and phased results, analyse the factors that led to the project results, provide a simple reference case and ask me if I should proceed next.\nBased on an analysis of the APP development project, propose concrete improvements and solutions, learn lessons, provide a simple reference case and ask me if I should proceed next.\nGenerate APP project review report Summarizes the above-mentioned elements of the APP development project and generate this review report, which contains project objectives, results of assessments, cause analysis, improvement measures and lessons learned in no less than 1000 words\nOptimize the APP project remunerative report, optimize the report, apply the terminology and upgrade the professionalism until I am satisfied with the APP project rematch report.",
+        "tags": [
+          "Q&A",
+          "Technical development category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-提问优化类",
@@ -2118,7 +4224,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "提问优化类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Question Optimisation Class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Question Optimisation Class.csv",
+        "summary": "To identify the need for questions, avoid vague questions, and use the \"Criteria for writing a code for [specific functions, such as house price projections] in [programmed language, for example, Python\" for data in [data format, such as CSV format].",
+        "prompt": "Clear needs questions Avoid vague questions, using the question-based approach of “help me write a code for [specific functions such as forecast house prices] in [programmed language such as Python,] data format such as CSV format, listings including [data listings such as area, location, floor, data cleansing and visualization]”.\nSet identity questions and add at the beginning, \"You're a professional, like a 10-year-old algorithm engineer, now you have to solve the questions...\" and get a professional answer.\nRestricted reply to a request to add to the question a requirement such as \" Give authentic reference sources \" , \" If not identified, please specify \" , and limit the answer to DeepSeek.\nQuestions are complex in step, questions are complex in step, and questions are asked in step by step in step, using \"first step [list possible methods], second step [analyse strengths and weaknesses], third step [give recommended options] \" .",
+        "tags": [
+          "Q&A",
+          "Question Optimisation Class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-教育教学",
@@ -2131,7 +4250,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "教育教学"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Teaching and learning",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Teaching and learning.csv",
+        "summary": "The curriculum was developed to read, \"I am a teacher-related background, like Chinese mother tongue, English teacher,\" and I need to build an English-language course for specific groups of students, such as kindergarten children (also Chinese mother tongue).",
+        "prompt": "The curriculum is developed in the following terms: \"I am a teacher-related background, such as a Chinese mother tongue, an English language teacher, and I need to build an English-language curriculum for specific groups of students, such as kindergarten children (also a Chinese mother tongue), and I hope that you can help me develop a curriculum for instructions.\nFor the curriculum plan that has been developed, insert the following: “Please optimize [the content of the curriculum, such as the hearing training component], based on feedback from the young people in the course, to improve the fun and effectiveness of the course” and optimize the content of the curriculum.\nIn the course of the course, using the instruction \"I'm using the curriculum \" , I find that there is not enough teaching resources, like game resources, video resources, can you recommend some relevant resources? Better have the relevant links\" to get the teaching resources supplement.\nPersonalized learning teaching design. A full curriculum for the design of the individualized speech is developed based on the [curricular version + subject + subject section + subject name]. The content of the modules (including the place where the instruction is conducted, pre-school preparation, pre-curricular preparation, pedagogical environment analysis, learning strategy methodology, content analysis of the teaching materials, situation analysis, teaching objectives, learning hard spots analysis, conceptual analysis of the design, teaching links, book design, course design, and teaching reflection) needs to be defined in order to ensure logical consistency, substance-based content, in accordance with the principles of education and the requirements of the digital teaching environment.\nDesigning the curriculum for junior high school, I'm going to design the curriculum for the course \"One dollar, one equation\" in mathematics, which is new, with two classes, and a target group of first graders. Please direct me to the process, first confirm the basic information and ask me if I'm going to go next, then guide me to upload the content of the course or to provide a brief, to conduct a science analysis, design the objectives of the course, etc., until the whole curriculum is presented and the curriculum is designed.\nI want to make a lesson in high school history, the \"Four Four\" program, with a new lesson, a 1-hour class, for students in the first year of high school. Please guide me to the next steps, and finally to complete the process of information delivery, science analysis, teaching goals design, and the final output of the full curriculum and book design.\nI'm planning a curriculum for the English-language poem \"Silent Nights\" in primary schools, which is designed to be a master course, and a class of 1 hours, with a target group of first grade students.\nThe choice of teaching methods recommends that choices be made for the application of various teaching methods such as teaching methods, discussion methods, project-based learning methods and so forth, for [different disciplines, content and student characteristics].\n(b) Teaching and learning assessment. Please conduct pedagogical assessments [of the teaching process and the effectiveness of teaching], design scientifically sound assessment indicators and methods, and conduct a comprehensive and objective evaluation of the quality of teaching and learning outcomes of teachers and students.\nStudent guidance is provided on the basis of [students' learning and needs], and individualized counselling programmes are developed to help students to solve difficulties and problems encountered in learning and to improve their learning achievement.\n(c) A mixed teaching programme is designed and implemented [in specific curricula], combining the advantages of teaching on-line and off-line, rationalizing the activities of teaching and improving its effectiveness.\n(b) The hierarchy of instruction is based on [the ability and level of learning of the student], with pupils divided into different levels, with corresponding objectives and content and with targeted teaching.\nThe guidebooks are prepared for [special subjects, specific chapters], including learning objectives, learning hard spots, learning processes, learning methods, etc., to guide students to self-learning.\nPre-school - Ancient Language Poetry. Create a pre-school for [the name of the ancient poem] that includes the author ' s background information on life and writing, the original language of the poems indicating the pronunciation and emphasis of the native word, the initial synthesizing of the poems and the presentation of 2 - 3 pre-school thinking questions, and guide students to understand the meaning of the poems.\nPre-school - Mathematical function Generates a pre-school for [function chapter name]. Lists the basic concepts of functions, such as defining domains, values, etc.; gives several simple examples of functions, requiring students to judge the type of function; sets the question of thinking, such as how the pattern of changes in function images relates to the function expression.\nPre-school - English is now usually designed to design a pre-school case for English, which is generally now, explaining the definition of English, and listing commonly used sign words such as \" allways \" ; providing simple sentences that contain the normal current-day structure that students can identify and analyse; and asking questions that lead students to reflect on the current practical use of the current situation.\nStudy aids - Language reading understandings.\nThe study aid case - mathematical geometry certificate - generates the study aid case around [the type of geometric proof subject, such as the triangulation certificate]. The decision-making theory of the trigonometry, etc., details the reasoning and writing steps through specific case-specific questions; summarizes the points of error and key techniques in the certification process; and gives several similar proof topics, requiring students to copy the exercise and attach references.\nA study aid case - English writing - produces a study aid case for English writing [the subject of writing, such as My Hobbies].\nStereotyping - Language and language creates solid studies for [the title of the text and the language].\nSolid case-magic probability statistics Generate solid case with [probability statistical knowledge points, such as classical profiles] as the core. Several classical scenarios are developed, covering different scenarios; students are required to analyse basic events and sample spaces in the subject; classical profile solutions and common error types are summarized; and extension exercises are provided, such as integrated topics in conjunction with other knowledge points.\nSolid case - English vocabulary Generates solid case around [English word theme, e.g. animal word]. Designs exercises such as word spelling, word matching, vocabulary application; gives sentences containing these words, lets students use grammatically empty or rephrase the sentence; guides students to short-text writing using the words they learn and exercises a combination of vocabulary.\nPlease establish a schedule of evaluation measures, based on [the teaching objectives and evaluation criteria], that clearly identifies evaluation indicators and evaluation levels to be used in quantitative evaluation of students ' learning outcomes.\nCurriculum development Design of curriculum outline covering the content of teaching, teaching methods, evaluation methods, etc., in accordance with [the subject name] and [the objectives of the curriculum], ensuring that the curriculum is complete and in line with the requirements of the teaching.\n(b) To produce teaching materials, including text, pictures, audio, video and other elements, for [specific content], in order to enhance the visual and fun nature of teaching.\n(c) To prepare a study on the basis of [the teaching process and the effectiveness of teaching], drawing on the experience and lessons learned in teaching and proposing measures for improvement and continuous improvement of the quality of teaching.\n(b) Job design. Design diversified operations, including paper, practice, study, etc., in accordance with [the objectives of the teaching and the actual situation of the student], to consolidate the knowledge acquired by the student and to develop the student ' s comprehensive abilities.\n(b) The collection of teaching resources [in specific disciplines, specific subjects], such as teaching materials, programmes, textbooks, test subjects, etc., which provide a wealth of material for teaching activities.\nIntegration of teaching resources Integration of teaching materials, course materials, online courses, teaching cases, etc., with resource access and integration of ideas, with [disciplinary curriculum]\nPlease interpret [the specific curriculum criteria], analyse the requirements and objectives of the curriculum standards and provide the basis for teaching activities.\n(b) Study and study activities in disciplines: [System-specific teaching activities], through the organization of student feedback groups or the use of informational teaching management platforms, keep an eye on the student’s learning status, skill acquisition and knowledge understanding in teaching activities, ensuring that teaching activities are carried out according to plan and that students effectively absorb knowledge and skills. In case of errors in operational steps, conceptual understanding, group collaboration, etc., step-by-step, understanding stagnation, and lack of coordination, step-by-step guidance and detailed documentation of the situation. In the case of operations, use such tools as classroom observation schedules, learning behavior analysis software, and focus on student performance in the implementation of function image mapping steps, understanding of the nature of function and image relationships, and participation in group discussions.The analysis of the frequency of student learning behaviour (e.g. number of active questions), the subject of the initiation of the conduct (individual student or group), the nature of the behaviour (active inquiry, passive acceptance, etc.) is carried out.\n(b) Designing a diversified student learning assessment programme that includes examinations, homework, classroom performance, etc., with clear evaluation criteria based on [the content of the teaching and course objectives].\nTeaching activities are planned to [enhance student learning interest and participation], and teaching activities such as classroom interactions, group competitions, field trips, etc., are planned to describe the process and organizational highlights of the activities.\nIntroduction to the application of educational technology tools such as multimedia software, online teaching platforms, educational classes APPs, etc. in teaching, such as the use of techniques and application scenarios.\nIndividualized teaching programmes are developed to meet the learning needs of different students, based on [students ' learning abilities, hobbies and differences in knowledge base].\nThe strategy of communication in schools provides parents with strategies and methods to communicate with students, school activities, etc., such as parent meetings, home visits, online communication skills.\n(c) Teacher professional development plans, which cover the areas of upgrading of teaching skills, participation in educational research, curriculum development, etc., are targeted at [teachers of different educational ages and levels].\nEducational policy interpretation [new education policy at the national or local level], analysis of the impact of policy on teaching practices, resource allocation for education, etc.\nTeaching reflection and improvement Guidance to teachers on teaching reflection based on [issues and experiences in teaching practice] proposes measures and methods to improve teaching effectiveness.\nI'm a little kid, a little Ferman, a kafka metaphor, explaining.\nThe process of solving the problem becomes creative and decomposing into a wonderful way of explaining it in step.\nSocrates' question method understands the concept, and Socrates' question method helps me understand it.\nVisually speaking formulas, in visual terms.\nThe programming logic diagram is converted into a simple, understandable icon.\nCase-analysis principles.\nImitation of the law, in which you explain the complex nature of the law.\nGenerate knowledge error or similar examples Generate [number] common error areas/ inverse three, produce [number] similar examples\nKnowledge becomes fun form, knowledge points become fun knowledge cards / fun memory machines\nConvert knowledge into a table. Convert this knowledge point into a Markdown table.\nI'm just trying to understand the problem I've encountered in reading, and I'm being given immediate answers, like, \"I don't understand the physical concepts in the trilogy, can you explain them?\"\nThe mind map is generated to automatically generate the mind map of what I read, to help me comb the logic structure, like, \"Please help me generate the mind map of this article on artificial intelligence.\"\nCreative writing aids, which provide me with writing materials, inspirational tips and language improvement, like, \"I want to write a piece on the environment, can you give me some writing ideas and material?\"\nInterdisciplinary knowledge links, linking reading content to other disciplines, helping me build interdisciplinary knowledge networks, like, \"I found some geo-related content in my history, can you explain it?\"",
+        "tags": [
+          "Q&A",
+          "Teaching and learning"
+        ]
+      }
+    }
   },
   {
     "id": "问答-数据分析",
@@ -2144,7 +4276,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "数据分析"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Data analysis",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Data analysis.csv",
+        "summary": "Time series analysis Please provide an in-depth analysis of [time series data] to accurately predict trends over time through appropriate time series prediction algorithms, such as ARIMA, LSTM, and mention",
+        "prompt": "Time series analysis Please provide an in-depth analysis of [time series data], using appropriate time series prediction algorithms such as ARIMA, LSTM, etc., to accurately predict trends over a certain period of time in the future and provide confidence intervals for the forecast results. Meanwhile, time series data are subject to smooth testing, seasonal analysis, etc., to provide the basis for the selection and optimization of predictive models.\nPlease analyse the following sales data and identify three growth opportunities and two potential risks.\nUser portraits Please generate a target user portrait of [products] containing three features based on the following behavioural data.\nMarket projections Please project three trends over the next six months based on the latest [industry] data.\nPlease read the following financial statements in plain and understandable language, indicating two key issues and one recommendation for improvement.\nPlease analyse the pricing strategy between [competing] and give three recommendations for optimization.",
+        "tags": [
+          "Q&A",
+          "Data analysis"
+        ]
+      }
+    }
   },
   {
     "id": "问答-数据可视化",
@@ -2157,7 +4302,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "数据可视化"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Data Visualization",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Data Visualization.csv",
+        "summary": "Please visualize the data [the data provided] and select the appropriate chart type (e.g., column, line, etc.) based on data characteristics and analytical needs to convert the data to a visual and understandable chart",
+        "prompt": "Please make data visualization available to [the data provided], select the appropriate chart type (e.g., column charts, line charts, etc.) according to data characteristics and analytical needs, and convert data to visually understandable charts and graphics, while providing detailed interpretation of the chart. Data visualization can be done using data visualization tools (e.g., Matplob, Seaborn, etc.), pre-processing, mapping and labelling of data, and improving the visualization effect and readability of data.\nLine maps. You can generate a line map using tools such as Matplotslib, time-series analysis, key nodes and trend changes, and increase the analytical value of the line charts by indicating the trends over time.\nBar charts Please generate a column chart [that contains data sets for different categories] that accurately shows the distribution of data across different categories and compares the differences between categories.\nA pie map is used to produce a pie map [data reflecting the ratio of different categories], showing in a visual way the proportions of different categories, while indicating the percentage of each category. A pie map can be generated using tools such as Matplotlib, which allows for the scale calculation and labelling of data, and improves the readability of the pie map.\nA wildcard map is used to generate a wildcard map of [data with two variables], clearly show the relationship between the data points, and determine the correlation between the variables by analysing the distribution characteristics of the wildspot maps. A wildcard map can be generated using tools such as Matplotslib, which can be used to analyse the data relevance, determine the correlation between variables and increase the analytical value of the wildspot maps.\nThermotry, please use the heat to generate [two-dimensional data] to accurately demonstrate the intensity of the data, using the heat to find the concentration and the distribution of the abnormal values. The heat is generated using tools such as Seaborn, visualize the data, identify the concentrations and distribution of the abnormal values and improve the analytical effect of the thermal effort.",
+        "tags": [
+          "Q&A",
+          "Data Visualization"
+        ]
+      }
+    }
   },
   {
     "id": "问答-数据处理",
@@ -2170,7 +4328,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "数据处理"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Data processing",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Data processing.csv",
+        "summary": "Key data through the construction of data analysis models, in-depth analysis of data, exploitation of potential patterns and trends in data, scientific, accurate data basis and decision-making recommendations for decision-making",
+        "prompt": "Key data provide scientific, accurate data basis and decision-making advice for decision-making by building data analysis models, carrying out in-depth analysis of data, exploiting potential patterns and trends in data.\n(b) Trends projections [specific target or data series] are requested to establish appropriate predictive models based on historical data, using such methods as time series analysis, regression analysis, machine learning algorithms (e.g. neural networks, vector support machines, etc.). Models are trained and optimized, future trends are projected, the accuracy and reliability of the forecast results are assessed and forward-looking information is provided to support decision-making.\nPlease visualize [the specific data] using specialized data visualization tools (e.g. Matplob, Seaborn Library of Python, or professional software such as Tableau, PowerBI, etc.) to convert data into visually understandable charts and graphics (e.g. columns, folding charts, scatter maps, box lines, etc.). By reasonably designing the colour, layout, labels, etc. of the chart, the characteristics and trends of data will be highlighted to help users better understand the data.",
+        "tags": [
+          "Q&A",
+          "Data processing"
+        ]
+      }
+    }
   },
   {
     "id": "问答-数据存储",
@@ -2183,7 +4354,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "数据存储"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Data Storage",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Data Storage.csv",
+        "summary": "Please store [data to be stored] safely in the specified data storage medium (e.g. database, file system, etc.) to ensure data integrity and consistency",
+        "prompt": "Please store [data to be stored] safely in the specified data storage medium (e.g. database, file system, etc.) to ensure data integrity and consistency.\nDatabase design Please design the database according to [business needs], including table structure design, field definition, index creation etc., to meet the efficient storage and query needs of data.\nPlease develop a data backup strategy, which should be stored in different geographical locations to prevent data loss, and to keep [critical data] back-up regularly.\nPlease establish a data recovery mechanism that can quickly recover from backup data when data are lost or damaged.",
+        "tags": [
+          "Q&A",
+          "Data Storage"
+        ]
+      }
+    }
   },
   {
     "id": "问答-数据挖掘",
@@ -2196,7 +4380,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "数据挖掘"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Data mining",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Data mining.csv",
+        "summary": "Please clean the [original data set] of data to remove duplicates, missing and abnormal values and ensure the accuracy and completeness of data",
+        "prompt": "Please clean the [original data set] of data to remove duplicates, missing and abnormal values and to ensure the accuracy and completeness of data.\nData conversion Please perform data conversions of [specific data sets], such as data standardization, standardization etc., to meet the need for subsequent analysis and modelling.\nData aggregation. Please use the data aggregation of [multiple data sets] to combine relevant data to facilitate integrated analysis.\nData mining Please perform data excavations [name of data set], in depth profile data, to extract high-value information from data concentration that can guide business decision-making. A full survey of data and potential patterns and patterns can be conducted using multiple data mining algorithms, such as cluster analysis, association rule excavation, etc., while visualizing the results of excavations to understand the data more sharply.\nCharacteristics Selection Please perform a feature selection process for [datasets and feature lists], screening from a wide range of features that are most relevant to the target variable and are critical for subsequent analysis and modelling. Characterization screening can be done using such methods as relevance analysis, variance analysis, etc., taking into account the correlation between features and avoiding the introduction of redundant features.\nPlease perform a cluster analysis operation for [datasets], using appropriate cluster algorithms, such as K-Means, DBSCAN, etc., to group data point science reasonably into different clusters and describe the characteristics of each cluster in detail. Analysis of similarities in data and differences in data between clusters supports subsequent data analysis and decision-making.\nLinkage rules are available for [data sets] to provide insight into hidden and meaningful relationships between variables to support business decision-making, such as the discovery of product-purchase combination patterns.\nAn anomaly detection system is built to monitor [data sources, such as business log data, sensor data, etc.] in real time, detect deviations from normal patterns in a timely manner, and provide a detailed description of the anomalies and possible reasons. An anomaly can be detected using statistically based methods, machine learning algorithms (e.g. isolated forests, One-Class SVM, etc.), and unusual data can be marked and recorded for subsequent analysis and processing.\nText mining [a large collection of text data, such as news articles, social media reviews, etc.] is available for text mining, extracting key information such as themes, emotional tendencies, key events, etc., to support operations such as narration analysis, market research, etc. Text mining can be done using word frequency statistics, thematic models (such as LDAs), emotional analysis algorithms, etc., pre-processing, feature extraction and modeling of text data, and improving the accuracy and efficiency of text mining.\nData validation. Please use specific data to demonstrate the validity of the view.",
+        "tags": [
+          "Q&A",
+          "Data mining"
+        ]
+      }
+    }
   },
   {
     "id": "问答-文件处理类",
@@ -2209,7 +4406,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "文件处理类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Document processing class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Document processing class.csv",
+        "summary": "Document analysis Upon uploading files, enter specific instructions for document analysis, such as \"Summary the highlights of this project plan\" \"Preparing key data from extracting reports into tables\"",
+        "prompt": "Document analysis Upon uploading files, enter specific instructions for document analysis, such as \"Summary the highlights of this project plan\" \"Preparing key data from extracting reports into tables\"\nComparative analysis, for multiple documents, using the [specific content, such as views, strategies, etc.] instruction \"Comparation document A and document B differences\"\nWhen extracting data from a document, use the \"Calculate all [data types, e.g. sales, time data, etc.]\" command",
+        "tags": [
+          "Q&A",
+          "Document processing class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-文本搜索",
@@ -2222,7 +4432,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "文本搜索"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Text Search",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Text Search.csv",
+        "summary": "Text search Please search text in [document database name] for content that is closely related to \"Specific keywords\", not only returning documents containing keywords, but also sorting them according to relevance",
+        "prompt": "Text search. You can use the full-text search engine (e.g. Elasticsearch) to search for text in [document database name] for content that is closely related to the \" specified keyword \" . The search is conducted using the TF-IDF, BM25 algorithms to calculate the relevance of the document to the keyword and to improve the accuracy and sorting effect of the search results.\nFull-text search. Please search the full-text search in a large number of documents to precisely search for paragraphs relevant to the search requirements, while providing the basis for assessing the relevance of each paragraph to the search content. You can use a full-text search algorithm based on vector space models to express the document and search word as vectors and calculate similarities between vectors as a basis for relevance assessment.\nKeyword extraction. Please extract the [document contents] keywords to produce a comprehensive, accurate and representative list of keywords that accurately capture the core content of the document. Keyword extraction can be done using TF-IDF, TextRank, etc. algorithms, pre-processing documents with words, word type labels, etc., to improve the accuracy and efficiency of keyword extraction.\nSemantic search. You can use pre-trained language models to encode documents and queries, calculate similarities between code vectors, improve the accuracy and effect of semantic search by finding documents associated with the semantic height of the search.",
+        "tags": [
+          "Q&A",
+          "Text Search"
+        ]
+      }
+    }
   },
   {
     "id": "问答-文生图-提示词生成",
@@ -2235,7 +4458,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "文生图-提示词生成"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Text-in-Kindion Generation",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Text-in-Kindion Generation.csv",
+        "summary": "Quiz-style tips, create a hint for the creation of a phantom-style image of a mysterious world, with floating islands surrounded by radiant auroral rings, huge glowing mushrooms and strange meetings on the island.",
+        "prompt": "Quiz-style tips, create a hint for the creation of a phantom-style image of a mysterious world, with floating islands surrounded by radiant auroral rings, with huge glowing mushrooms and wonderful flying flowers. The center of the picture is a grand magic college, its towers are shining with magic, its pre-school squares, its apprentices are practicing magic, their magic cane is releasing five-colored lights, and huge dragons are flying in the sky.\nAncient style of the wind, for example, is the first time in the spring morning, when the town of Gangnam is located on the clear river, where the old people of the pink wall Deva are stubble in the clear river, and the river is floating with a few leaves of the cane, and the boat is standing in its coat. The dyke is on the shore, the green willows are dancing with the wind, the peaches are blooming and the petals are falling. The mountains are falling and the clouds are stale, and if the ancient temple bells hidden are sounding back in the air.\nSaberpunk style tips, please generate a hint for creating Saberpunk style images, in the context of the future abandoned city, with a gray sky full of graffiti and flashy glitters of broken buildings. Streets are full of abandoned robot parts and garbage, and occasionally have a few mechanically modified residents rushing through, with their body glittering with cold metal light. There is a worn electronic billboard on the corner of the street, with vague advertising images, in contrast to the dark surroundings.\nInk style tips are given to create ink-style images, displaying a mountain-watering roll, remote and folding mountain peaks that are hidden in cloudy clouds, contoured by thick ink, and light ink-rewd mountains, with a unique sense of hierarchy. The mountains fall down like silver, with a moving line of water flow. Under the foot of the mountain is a quiet lake, the lake is dizzled with a faint ink, several willows on the shore, and long branches are drawn with a middle-knit pen, twirl. A boat is on the surface of the lake, standing on a boat with a man in a silk coat, looking at the distance, creating a calm and distant view.\nWritten style tips: Create a hint for producing a realistic image, with a view to a lively morning market. The booths are full of fresh vegetable fruit, red tomatoes, green green vegetables, yellow oranges and bright and humbling. The stalls are warm with customers, and the wrinkles and sweatstones on their faces are visible. Some customers are looking for goods, some are negotiating with their host, their faces and their movements are natural. There are wet water on the floor, signs on the stands are clear, and far-away buildings and sky are presented in a written way, with life-changing images.\nPopper styles are used to generate pop-up-style graphics with bright and saturated colours such as fluorescent powder, lemon yellow, and bouncy blue. The subject is a huge popular cultural icon, like Marilyn Monroe's head, which is magnified and repeated, and the colours of each image are slightly different. The background is a highly visual shock-generating pattern of various exaggerated geometrical images, such as circles, triangles, squares, filled with elements such as newspaper strips, coloured web points.\nSteam punk-like tips, please generate a hint for generating steam punk-like images, a mechanical city full of gear, chains and steam pipes. The city is full of huge steam-powered buildings with smoke in its chimneys. The streets are driven by steam-driven cars and boats, cars are old and complex mechanical and their surfaces are nailed and copper-based. People wear clothing with metal and leather elements, with steam punk-like mechanical devices in their hands, and the sky is filled with steam, and the sun is pouring through it, with industrial sense and a culture of retrospectivism.\nLoco style hints, create a nice interior scene for producing Loko style images. The walls and ceilings of the room are decorated with fine carved gloss, coloured with pink, light blue and gold, creating a soft and luxurious atmosphere. There is a wooden high-prime chair with carving flowers, a mat and a back with a fine picture of flowers. The table next to it is a fine glass of fine ceramics and flowers, with a five-colored picture of crystal chandeliers. The floor is a wooded floor, complex and elegant. The window is a lightly silhouette, a light wind blowing curtain, a small wind blowing and a whole picture of romantic, elegant and delicate decoration.\nA brief Nordic style tip is requested to generate a bright living room with a bright, white wall with light wooden floors, which give a sense of simplicity and comfort. The living room is equipped with a light grey cloth couch with a few soft-coloured pillows on it. There is a simple white tea spot in the center of the living room, with a green plant common to northern Europe, such as Yugari. The falling window on the side allows sufficient natural light to spill into the room, with white curtains on the side. It is clear that the window is a quiet forest or lake, and the whole image creates a calm and comfortable space with a fine line, natural material and light colour.\nNew Chinese style tips generate a hint for generating new medium style images that present a modern and traditional room. The wooden bookshelves are lined with ancient and modern books, and the shelves are simple and have a classic grid element. The desks are dark and solid wood with pen ink on the tables.\nA Q-style rabbit with a colored birthday hat and a smile, its face round, and its eyes full of two black stones. Next to the squirrels, with a pile of nuts, hairy big tails high up, furry and soft. A few little birds standing on branches singing with their feathers colored with rainbow colours. Trees in the forest are huge mushroom shapes, with mushrooms with coloured spots, and six-colored flowers on the floor. There's a big cake on the floor, with candles on it, and creams look so attractive and full of fun.",
+        "tags": [
+          "Q&A",
+          "Text-in-Kindion Generation"
+        ]
+      }
+    }
   },
   {
     "id": "问答-文生视频-提示词",
@@ -2248,7 +4484,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "文生视频-提示词"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Vincent video-tip",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Vincent video-tip.csv",
+        "summary": "Quiz-like adventures, generate a hint for the creation of a phantom-like adventure, the lens being pulled from a vast and mysterious universe, the stars of countless stars flashing, a meteor with long tails swiping through, and the lens following the meteor falling into a strange direction.",
+        "prompt": "The magic adventure styles are drawn from a vast and mysterious sky, with a thousand stars shone, a long-tailed drifting star swiped over and a trail fell with a meteor. There was an ancient magic castle on the mainland, with its tip in the sun, a mysterious light. The castle opened slowly, and a young magician in a gorgeous enchanted robe. He had a magic wand, a spell, and called out a giant blue dragon. The dragon flew over a dense forest of magic, the forest 's rich and different plants, and the giant vines were dancing in the air. Suddenly, a mysterious dark cave appeared ahead, with its miraculous noises. The young and the dragons flew bravely, and the caves were filled with strange creatures and mysterious symbols.There's a crystal with a powerful magic, and the adolescent can successfully acquire it and carry out a miraculous adventure!\nAn ancient poetic style, please produce a hint for the ancient poetic style. In the morning, the first sun will be spilled in the quiet town of the river. The camera will be driven along the Bluestone Road, with the pink wall of Deva on the side, and the roof of the smoke will rise. A woman in a blue dress, with a tarmac umbrella, walks on the edge of the river. The river is clear and the water is on the bottom, and the willows and houses on the shore are on the side. The women go to an old bridge, with the bars and mountains in the distance, the clouds are clouded and the poems are painted. With the breeze, the cherry petals fall, the women gently lift their hands and touch a flower petal, and the light in their eyes is revealed. The image is turned to the night, the town's lights are shining, the river is floating with a lamp, the women and a group of people, wishing that the picture is full of ancient poetry and romantic atmosphere.\nSybonpunk's future city styles are being used to create a message for Cyberpunk's future city style, a super-large city, neon lights flashing, a huge electronic screen full of walls in high-rise buildings, with glitters of advertising and information flow. The lens looks out from the air, the streets are loaded with water, the car is floating, the tail is a five-stained light belt. Streetwalkers are mostly mechanical retrofitters, with metal lights and mobile electrical circuits. A mysterious agent in black and sunglasses is in the crowd. Suddenly, city alarms are ringing, a bunch of mechanical monsters are drilling from underground and starting to attack cities. Agents quickly come out with high-tech weapons and a fierce battle with monsters.\nDream fairy tale styles, produce a hint for the creation of a fairy tale style, starting with a high-smuggling sweets castle in a fairy kingdom surrounded by a beautiful rainbow. The castle is made of all kinds of colourful sweets and chocolates, sparkling in the eye. The castle opens its doors, a lovely group of elves fly out, with transparent wings and colored pollen. On the grass, a small animal is throwing a party of joyful little rabbits, pompous bears and cynics, and a little monkey is dancing with joy. A golden unicorn is flying with the princess into the sky.The picture is full of fantasy and fairy tales.\nThe regurgitated film styles, create a hint for the production of regurgitated film styles, and the camera slows down a small town with a regurgitated style, as if it had been in the last century. The street is built in a retro-gold European style, with a dark light on the street. A young photographer with a film camera walks on the town's streets. He sees a girl in her regurgitary dress standing at the front of the flower shop, smiling and smiling to pick flowers. The cameraman presses the fast door and captures this moment. The image is switched to the seaside, the sun is slashed by the sea, the girls are smudged with a bathing suit and the photographer records it. As the film rolls, the scenes show the town's life scenes, like open movies, street jazz shows, and so forth, and the scenes are filled with old atmosphere, colorful and soft and twipes with film.\nThe cool style is written, the high-profile city street, where a man in a black tight-dress is running cool, jumping through the towers, stepping on obstacles like walls, bars, and so forth, with a great deal of detail around, with a crowd of swirling people and a shining neon lamp; a sunny afternoon, a sturdy female run-off in a deserted industrial complex, she leaps into rusty machines, she leaps through huge pipes, she rises into dust, she takes on old buildings and her walls.\nIn a world of cool styles and colorful moving colors, a young man with yellow blonde hair and blue eyes runs cool in a city full of wonders. He's wearing a cool suit with a special pattern, with a cool backpack behind his back, and in the middle of it, he's doing all kinds of difficult spins and turns, with all the perky effects around him. In a Japanese-style street, a pink-haired girl jumps between the roof and the wall, her costume is a cute Lolita style combined with the sports elements, with a cute smile on her face, and she's a cool-looking, moving, like a dancing butterfly.\nThe air style is so strong that a risk-seeker with high-tech flying equipment is flying freely in the air. His equipment is equipped with flashy lights and spray flame, leaving a beautiful trail behind him. Below is a sea of great eyes and a spectacular coastline; on the top of a mountain of clouds, a mysterious man in a white robe spreads a huge wing and slowly lifts up. He is hovering over the sky, looking over a vast mountain and a dense forest, and the sun is pouring over him, forming a circle of light.\nFlying style science fiction, the future city of Cyberbunk, a semi-mechanic flying. Part of his body was replaced by mechanical devices, with powerful thrusters and energy shields. He flew at high speeds between towers, avoiding laser rays and flying robots; in a vast space, an astronaut was flying between stars in advanced space suits. Around it was a coloured nebula and a shining planet, with a mysterious instrument in his hand that seemed to be exploring the mystery of the universe.\nIn a mysterious enchantment forest, a magician in a green robe runs cool between trees, jumping, climbing, and moving lightly. Suddenly, he exaggerates magic, with a transparent pair of wings, flying over the forest, looking down at the forest, and the forest is full of mysterious light. In the ruins of an old castle, a brave knight first runs in a cool place between walls, displaying strong body qualities and agile hands. When he meets an unbreakable ditch, he pulls his sword, spells his spell, shines his sword, flies over it, flies with light, crosses it, continues to explore the castle's secrets.",
+        "tags": [
+          "Q&A",
+          "Vincent video-tip"
+        ]
+      }
+    }
   },
   {
     "id": "问答-旅游出行",
@@ -2261,7 +4510,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "旅游出行"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Travel",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Travel.csv",
+        "summary": "Please recommend suitable destinations according to individual preferences (e.g. natural wind, historical culture, etc.) and budget.",
+        "prompt": "Please recommend suitable destinations according to individual preferences (e.g. natural wind, historical culture, etc.) and budget.\nThe travel strategy is developed and please develop detailed travel strategies for the designated destination, including transportation, accommodation, location referral, etc.\nLocal foods are recommended for local specials such as Beijing ducks, Chengdu hot pots, etc.\nPlease remind travellers of the security concerns they need to pay attention to during their travel, such as the safe keeping of personal effects, compliance with local laws and regulations, etc.",
+        "tags": [
+          "Q&A",
+          "Travel"
+        ]
+      }
+    }
   },
   {
     "id": "问答-旅行规划类",
@@ -2274,7 +4536,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "旅行规划类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Travel planning category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Travel planning category.csv",
+        "summary": "Travel plan customised to \"I need a travel attack with detailed accommodation, catering and transportation information\"",
+        "prompt": "I need to get a travel plan for \"I'm going to go with my mother, where to go, the days to travel, the personal preferences, etc.\" and I hope that you can help me to get a travel plan for \"I'm going to go to the end of the day\" with \"I'm going to go to the end of the day with a detailed accommodation, catering and transportation information.\"\nAfter the travel plan is in place, enter \"Please provide a detailed background description of the site [the destination city, for example, Madrid], information on opening hours and fares, as well as specific information on the site.",
+        "tags": [
+          "Q&A",
+          "Travel planning category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-机器学习",
@@ -2287,7 +4562,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "机器学习"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Machine learning",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Machine learning.csv",
+        "summary": "Model training Please train [the specific machine learning model] based on [the training data set] to improve the performance of the model by adjusting its parameters and optimizing its algorithms",
+        "prompt": "Model training Please train [the specific machine learning model] on the basis of [the training data set] to improve the performance of the model by adjusting its parameters and optimizing its algorithms.\n(b) Model assessment. Please use appropriate assessment indicators (e.g. accuracy, recall rate, F1 value, etc.) to assess [trained models] and to judge the merits of models.\n(b) The model is improved by adjusting the hyper-parameters and increasing the amount of data available, and by improving the accuracy and generalization of the model.",
+        "tags": [
+          "Q&A",
+          "Machine learning"
+        ]
+      }
+    }
   },
   {
     "id": "问答-材料撰写",
@@ -2300,7 +4588,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "材料撰写"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Material writing",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Material writing.csv",
+        "summary": "The competitive materials dynamically upgraded to translate my [grave-level experience/project list] into a strategic high-level + global vision expression, each experience adds an \"apocalypse to the current XX work\"",
+        "prompt": "The competitive materials dynamically upgraded to translate my [grave-level experience/project list] into a strategic high + global vision expression, each experience adds an \"apocalypse to the current XX work\".\nPlease help me write the following basic party summary outline, which requires each component to fill in three specific cases and replace the data with [X]. Keep the subheadings for the warwork plan and add a work plan at the end. [Place the original outline]\nThe policy document's soul interpretation is summarized in popular language [the name of the document] in the new rules for [a field]. Require: 1 requires that the superior documents be rapidly digested and the key points accurately reported. 2 Compare the old and new policy differences. 3 lists the three implementation difficulties that might be faced by the grass-roots units. [with the policy document]\nThe following research records are organized into official reports, organized according to the current status - problems - suggested structure. Request: 1 Question is summarized in the phrase \"one is two is \" . 2 Recommended that the questions be addressed in the sub-section. 3 Add transitional text links. [Placating research materials]\nI want to write a public tweet for the technology, and I want to write a public tweet for the technology, the theme of which is \"Associative intelligence applications in medicine,\" with client groups of 25 - 45 years of age, interested in science and health, mostly in the workplace and in technology. Content style is a strict style of taste, with words around 800 words. Please guide me to the process, first to gather information to confirm whether or not to proceed, then to develop an idea for the topic, possible headings, outline, and then to write articles, including summaries and text, and finally let me change the choreography and check the speech disease.\nI'm going to write a good food public article, about 600 words, with a client group of 18-30 years of age who likes to try new food and share experiences. The theme is \"The local foodseeds share\" and the content is easy and lively. Please follow the steps and guide me to the collection of information and then choose the title, title, outline, article creation and modification of the lube.\nI want to create an emotional public tweet, with words in 700 words, that have a client group of 20-35 working people, who are emotional and like to share their emotions. The subject of the article is \"The Sour and Soup and Psych\" and the content is stylish. Please follow the process and lead me to complete the steps, including information gathering, topic planning, title development, outline design, writing and revision.",
+        "tags": [
+          "Q&A",
+          "Material writing"
+        ]
+      }
+    }
   },
   {
     "id": "问答-法律与合规",
@@ -2313,7 +4614,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "法律与合规"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Law and compliance",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Law and compliance.csv",
+        "summary": "Contract review. Contract review [for specific contracts]. Professional legal practitioners scrutinize the terms and conditions in the contract in accordance with relevant laws and regulations",
+        "prompt": "Contract review [for specific contracts] is required to be reviewed by professional legal practitioners, who carefully examine the terms and conditions in the contract in accordance with the relevant laws and regulations. Focus on key terms such as the contractual subject, rights and obligations, liability for breach of contract, dispute resolution, etc., to ensure that the contract terms comply with the law, that there are no legal gaps or risks, and that the legitimate interests of the parties to the contract are safeguarded.\nIn preparing the legal documents, please generate legal documents for [specific legal matters], and prepare legal documents such as contracts, agreements, legal opinions, etc. that conform to the legal norms, in accordance with the legal provisions and actual needs. In doing so, identify the key elements of the rights and obligations of the parties, legal liability, conditions for entry into force of the contract, and ensure the accuracy, integrity and legitimacy of legal documents, which provide a strong guarantee for the smooth conduct of legal affairs.\nLegal advice is provided on [specific legal issues], and specialized lawyers respond to legal issues and provide professional advice based on legal regulations and experience in legal practice.\nThe daily legal questions are answered with precise and clear answers, including the legal provisions involved, the legal basis and practical advice, in the context of the relevant legislation and regulations [description of specific legal issues, such as the calculation of overtime pay in labour disputes].\nComplex legal issues analysis, in which an in-depth analysis of different legal relationships, judicial practices, etc., provides a multiplicity of possible solutions and analysis of the advantages and disadvantages of the various programmes, is undertaken.\nReview of the legality of contract terms, conducting a comprehensive review of [the text of the contract], focusing on the conformity of contract terms with [relevant laws and regulations, such as civil code contract books, industry-specific regulations, etc.], identifying provisions that are in conflict with the law or that present legal risks, and providing recommendations for amendments to bring them into legal compliance.\nReview of the integrity of the contract terms Check whether [the text of the contract] covers all necessary terms, such as the subject matter, quantity, quality, price, duration of performance, liability for breach of contract, etc., and makes additional recommendations with respect to missing clauses to ensure the integrity of the contract and avoid potential disputes.\nA fair review of contractual terms Assess whether the rights and obligations of the parties are reciprocal in [the text of the contract], whether there are unfair clauses, such as unreasonable exoneration clauses, aggravated liability clauses, etc., and recommend adjustments to preserve the fairness and reasonableness of the contract.\n(b) Enterprise compliance system development Assistance to enterprises in building a comprehensive compliance management system based on [business sector, scope, size of business etc.], including compliance policy development, compliance posts, compliance risk identification and assessment mechanisms, compliance training programmes etc.\nCompliance risk assessment and response measures identify potential compliance risks (e.g., anti-money-laundering risks, data privacy compliance risks) for business operations such as overseas investments, data processing operations, assess the likelihood and impact of risk occurrence and develop corresponding risk response strategies and controls.\nThe compliance training programme design, based on [enterprise compliance needs and employee job characteristics], is designed to develop individualized compliance training programmes, including the identification of training content (e.g., interpretation of laws and regulations, analysis of compliance cases), selection of training modalities (online courses, offline lectures, simulation exercises, etc.), scheduling of training time and evaluation methods, and to increase staff compliance awareness and capacity.\nWritten by [facts of the case and claims, such as private lending disputes, where the plaintiff requests the defendant to repay the loan and interest], the written brief is regulated, including the clarification of the basic information of the original defendant, the presentation of the facts and reasons, the listing of the claim and the legal provisions on which it is based, and ensuring that the indictment is complete, logical and well founded.\nThe pleadings are written in response to [the content of the other party's indictment and the other party's defence doctrine, such as the respondent's defence against the plaintiff's tort proceedings], the respondent's statement of the other party's claim, the presentation of its own facts and reasons, the provision of evidentiary support and the defence of its legitimate interests, while bearing in mind the formal and linguistic norms of the pleadings.\nLegal opinion writings are based on [legal advice on business or personal issues, such as legal risk advice for a business to undertake a major asset reorganization], writing legal opinions, in-depth research and analysis of relevant legal issues, identifying legal opinions and recommendations, providing legal basis and validation processes, and providing professional reference for the decision-making of the consulting parties.\n(b) Assisting [entities or individuals] in the application for trademark registration, including trademark search, identification of trademark categories, preparation of applications (e.g. trademark application, trademark drawings, applicant identification documents, etc.), completion of application forms and guidance on subsequent trademark review process responses, and improvement of the success rate of trademark registration.\nThe patent application strategy is developed on the basis of [inventive creations such as new mechanical equipment inventions], which analyses the technical characteristics and innovation points of inventions, determines the type of patent application (inventory patents, practical new patents, design patents), plans the time and territory of application, prepares patent application documents (e.g. claims, instructions, accompanying drawings, etc.), and ensures the effectiveness and scope of patent application.\nThe authors or authors of copyrights are directed to register copyrights, including the introduction of registration processes, preparation of registration materials (e.g., samples of works, proof of copyright, etc.), assistance in developing strategies for the defence of copyright rights in the event of copyright violations, such as sending tort warnings, filing lawsuits, applying for preservation of evidence, etc., and defending the legitimate rights and interests of authors.\nThe drafting and review of labour contracts, in accordance with the requirements of enterprises and local labour laws and regulations, are designed or reviewed to identify the duration of the contract, the content of the work, working hours, remuneration, social security, benefits, restrictions on the competitive process and the conditions for its dissolution, in order to avoid legal loopholes and risks.\nThe development of a strategy for the management of labour disputes, including the preparation of conciliation programmes, labour arbitration or litigation (e.g. collection of evidence, determination of arbitration or litigation requests, writing of legal instruments) and the defence of the legitimate rights and interests of enterprises or employees, is aimed at analysing the nature of the dispute and the possible legal consequences of the dispute [in the case of labour disputes, such as those involving separation of employees, compensation for work injuries, etc.].\nCompliance review of the Manual for Employees of Enterprises, ensuring that regulations in the Manual (such as attendance, reward and punishment, leave, etc.) are in accordance with labour laws and regulations, avoiding legal risks to enterprises due to violations of the regulations, and making recommendations for their optimization and making the Manual more rational and operational.",
+        "tags": [
+          "Q&A",
+          "Law and compliance"
+        ]
+      }
+    }
   },
   {
     "id": "问答-生活助手类",
@@ -2326,7 +4640,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "生活助手类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Life Assistant Class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Life Assistant Class.csv",
+        "summary": "Generate creative recipes from refrigerator feed. Enter.",
+        "prompt": "Generate creative recipes from refrigerators, enter the menus, like eggs, tomatoes, cheese, and say, \"Cut up the fast-hand recipes.\"\nThe theme party full-flow program is designed to plan the whole-flow program from the setup to the game.\n♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ The ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ The ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪\nOptimizing lighting with colour psychology.\nFamily expenditure classification and optimization recommendation generation Uploading [long, for example, 3 months] billing says: generating a flow-rate program according to [analytical methods, for example, Engel coefficient analysis]\nThe pet behavior training program was designed for my family.\nSustainable home-regeneration techniques.\nPlan major issues in the constellations, and adjust the schedule to fit in with [special periods, for example, water reverse]\nThe health data are translated into visual improvements, and the [health data graphs, such as sleep quality graphs] is converted into interest-adjusted programs.\nTo create a life plan based on living conditions, to produce a future plan based on my living conditions.\nHealthy living habits. Please provide information on health habits that are easily adopted in everyday life.\nPlease recommend a dietary recipe that is balanced and suitable for the working population.\nShortcut recipes.",
+        "tags": [
+          "Q&A",
+          "Life Assistant Class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-生活效率",
@@ -2339,7 +4666,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "生活效率"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Life efficiency",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Life efficiency.csv",
+        "summary": "Please design a seven-day travel plan for [place], including recommendations for attractions, food, transportation, accommodation.",
+        "prompt": "Please design a seven-day travel plan for [place], including suggestions for attractions, food, transportation, accommodation.\nA physical fitness program.\nMake recipes for cooking. Make three low-card dishes with [XXX] food, detailing the cooking process, the cooking time and the nutritional data.\nFor shopping decisions, compare the value of the three [XXX] products and score them according to quality/performance/post-sale/environmental protection etc.\nFor a study plan, you can generate a daily study programme in English for the lower secondary [X] grade, including special training in reading and writing.",
+        "tags": [
+          "Q&A",
+          "Life efficiency"
+        ]
+      }
+    }
   },
   {
     "id": "问答-电商运营",
@@ -2352,7 +4692,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "电商运营"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Electric power vendor",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Electric power vendor.csv",
+        "summary": "Please write an attractive description for [products], highlighting three outlets and including one use scene.",
+        "prompt": "Please write an attractive description for [products], highlighting three outlets and including one use scene.\nThe electrician's comments on the analysis, please help me analyse the following comments and summarize three user pain spots and two suggestions for improvement.\nFor the production of the guest speech, please generate five professional and friendly exclusive customer service answering techniques for [questions].\nPlease write a [product] promotional text message with a time-limited preference, sense of urgency and call for action on [fest] [fest].\nFor a comparative analysis of products A and B, please list three advantages, two disadvantages and one differentiated recommendation.",
+        "tags": [
+          "Q&A",
+          "Electric power vendor"
+        ]
+      }
+    }
   },
   {
     "id": "问答-知识付费",
@@ -2365,7 +4718,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "知识付费"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Knowledge fees",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Knowledge fees.csv",
+        "summary": "Design a curriculum.",
+        "prompt": "Design the curriculum.\nDesigned for interior fit-out, please provide three [style] effect icons for the [XXX] square-metre 3 room one-room format.\nLive script writing please generate a live script [long-time] containing opening interactions, dry-food sharing and promotion.\nCommunity-based talk, please design a seven-day operating speech for the [theme] community, with welcoming words, daily topics and interactive games.\nThe knowledge planet content is to produce a day-long version of the [theme] planetary update, which includes two dry-food knowledge points and one interactive question.",
+        "tags": [
+          "Q&A",
+          "Knowledge fees"
+        ]
+      }
+    }
   },
   {
     "id": "问答-知识库构建类",
@@ -2378,7 +4744,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "知识库构建类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Knowledge base build category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Knowledge base build category.csv",
+        "summary": "Template created using \"Create structured document template, including [specific plates such as core elements, taboo lists, common questions, etc.], based on business needs, examples: [knowledge module] [knowledge module name] [nuclear]",
+        "prompt": "Template created, using, according to business needs, \"Create structured document template, containing [specific plates, such as core elements, taboo lists, common questions, etc.], examples: [Knowledge module] [Name of knowledge unit] [core elements] [core elements] [Common elements of taboo list] [Content list of taboos] [common questions and answers]\" instructions\nFormatting, using instructions such as \"Paper Info-Camera Scanner King APP-Exit to Editable PDF\" \"MicroMile Chat Records\" and \"Tend Document\" for file format conversions, according to the type of information\nKnowledge-Base Training Web-end operation: Click on the Knowledge-Base panel to drag upload files (support PDF/Word/Markdown), set the call keyword; API Developer mode: use \"fröm deepseek import KnowledBase\"\"\nThe knowledge base calls for the \"@My knowledge base [name of knowledge base]\" command for the dialogue.",
+        "tags": [
+          "Q&A",
+          "Knowledge base build category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-编程学习",
@@ -2391,7 +4770,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "编程学习"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Programming",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Programming.csv",
+        "summary": "Learn programming language selection. Select the appropriate programming language based on personal interest and career planning. For example, interested in Web development, choose Python, JavaScript, and so on, and how the system is programmed.",
+        "prompt": "Study programming language selection. Select the appropriate programming language according to personal interest and career planning. For example, interested in Web development, you can choose Python, JavaScript, and you can choose C, C++, etc.\nPlease recommend some programming resources suitable for beginners, such as online courses, books, video courses, etc.\nRecommended codes for practice. Please provide suggestions for code practices, such as participation in open source projects, completion of small projects, etc., to improve programming capacity.\nThe community of programming is advised to recommend active programming communities such as Stack Overflow, GitHub, etc., to facilitate communication and learning with other developers.",
+        "tags": [
+          "Q&A",
+          "Programming"
+        ]
+      }
+    }
   },
   {
     "id": "问答-编程开发",
@@ -2404,7 +4796,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "编程开发"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Programming development",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Programming development.csv",
+        "summary": "Generate code. Please write a [XXX] script in [XX languages, requesting [XXX] functionality and adding an abnormal processing module. ]",
+        "prompt": "Generate the code. Write a [XXX] script in [XX languages, requesting the [XXX] functionality and adding an abnormal treatment module.\nHTML code generation Please generate HTML code conforming to HTML specifications, including HTML labels, CSS styles and JavaScript scripts, according to [specific needs, such as web layout, functional requirements, etc.], to ensure the beauty and interactivity of the web pages.\nPython code generation Please generate codes that conform to Python ' s s syntax, including function definitions, class definitions, module import, etc., to ensure the readability and maintenance of the code according to [specific needs, such as functional description, algorithm requirements, etc.].\nJAVA code generation. Please use JAVA language to prepare efficient and robust codes according to specific needs, following JAVA programming norms and best practices.\nC++ Code generation. Please use C++ language to prepare efficient and robust codes, following C++ programming norms and best practices, according to specific needs.\nBatch script generation. Please generate a batch (bat format) script to achieve [specific functional description]. The foot should be good readable and robust, and the errors that may occur should be reasonably handled.\nThe PYQT6 application is generated by generating an application based on PYQT6 that achieves [specific functional needs]. The program should have a good user interface design and interactive experience, using an object-oriented programming idea for development, to ensure the maintenance and expansion of the code.\nVBA code scripts are generated. Codes are to be structured so that variables, functions and processes are used rationally.\nThe Photoshop script is generated by generating the Photoshop script (.jsx file), completing [the specific image processing task description], like a batch resizeing image, adding special effects, etc. The script follows the application rules of JavaScript syntax in the Photoshop environment.\nScrack Code Generation Please generate Scrack Programming Code to achieve [specific function description], which should conform to Scrack Programming Standard.\nBlockly code generation. Please generate Blockly programming code, which is [specific function description] and which should meet the Blockly programming specifications.\nAlice Code Generation Please generate Alice Programming Code to achieve [specific function description], which should conform to Alice Programming Standard.\nCode generation and debugging, and error analysis and fixation, for example, \"Please use Python to generate a fast-sequenced code and debugging error.\"\nAlgorithm design and analysis Design and analysis algorithms, such as, \"Please design an efficient search algorithm and analyse its time complexity.\"\nDatabase management Addresses database-related issues such as, \"Please help me optimize the query statement of this database.\"\nSystems design and architecture Systems design and architecture planning, such as, \"Please design a high-availability architecture for this site.\"\nArduino programming, use the Arduino platform to develop codes that achieve [specific functional requirements] that take due account of Arduino hardware characteristics such as leg allocation, interruption processing, etc.\nRaspberryPi programming is available using the Raspberry Pi platform to develop codes that [detailed functional requirements] can use the Rasprry Pi rich interfaces and computing resources such as GPS control, network communication, etc.\nUnity programming is required to use the Unitity engine to develop a code that [specific functional requirements] is required to conform to the programming specifications and architecture of Unity, such as the Mono Behaviour class, the program etc.\nUnrealEngine programming is required to use Unreal Engineering to develop the code to achieve [specific functional requirements] that should follow Unreal Engineering programming patterns and blueprint systems such as the use of the Actor class, event-driven etc.\nAppInventor programming. Use the AppInventor platform to develop the code to achieve [the specific functionality requirements], which should use the AppInventor visual programming interface and components, such as buttons, text frames, etc.\nLego Mindstroms programming uses the Lego Mindstroms platform to develop codes that achieve [specific functional requirements] that combine the hardware modules and sensors of Lego Mindstroms, such as electrical controls, colour sensors, etc.\nDEBUG Assistant please explain the reason for the error in the code below (with the error log) and provide two options for restoration.\nAPI docking please prepare an example code for calling the [XXX] interface, including authentication and error retesting mechanisms.\nPlease check the following five potential problems in the code, and describe them by safety/performance/readability.\nAlgorithm optimization Please optimize the O(n2) time complexity algorithm to O(n log n), with detailed comments.\nCode debug - Error Information Translation Use \"By Misdiagnosis Mode\" to explain the nature of the problem using a white word, labeling three common scenarios that may trigger the error, giving the most likely fix (tand & ) and other options, please: I encountered [programmed language] Wrong reporting: \"painting the wrong information\" command\nDebug - Code analysis - Paste the code with context Use the \"Invent a trajectory of variable values by arrow, mark the cause by the suspicious line number, compare the code differences with the output (Green +/ Red - Mark) \" command for context analysis\nCode debug - defensive programming - For error types, use \"For error types: design [number] of unit test examples (including boundary conditions), generate code snippets:\nTechnical interview - Predictions According to the target company and the technology store, using \"the system design focus area (with learning road maps)\"\nTechnical interview - Whiteboard programming simulation - Generate topics Use \"Give me a list of [topic difficulties, such as medium difficulty]\" [title type, such as the two fork tree theme], request: include both relativ and non-recursive resolution, set up [number] of examples of easy error tests, with points for time complexity analysis\" command generation of interview topics\nTechnical interview - Whiteboard programming simulation - Simulation interview using the \"To start interviewing simulation: Please describe the idea with a false code (timer [timer)]), I will point out a potential bug, [number], please fix it on site and finally give an optimist (space-for-time strategy) instruction to simulate the interview process\nTechnical interview - Whiteboard programming simulation - Smart feedback - Use, based on code, \"In accordance with my code: [paste code], please: give ABC grade according to big factory rating criteria, label code bright points (e.g. elegant border processing), indicate bad taste of possible deductions (e.g. magic numbers)\" command for smart feedback\nTechnical interview - a jugular device uses the command \"Generating 10 high frequency questions: 'How can you optimize if the amount of data increases [multiple]?', 'how does this algorithm fit in a distributed environment?'",
+        "tags": [
+          "Q&A",
+          "Programming development"
+        ]
+      }
+    }
   },
   {
     "id": "问答-网文创作辅助类",
@@ -2417,7 +4822,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "网文创作辅助类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Web-based creation aids",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Web-based creation aids.csv",
+        "summary": "Writing novels - role files generate using \"Generating novel role templates: Name: Core desires: Key secrets: Relationship networks: - Alliances (surface/ real) - Counterparties (direct/)",
+        "prompt": "Writing of novels - role file generation Use of \" Generating novel role templates: Name: Core desires: Key secrets: Network of relationships: - Ally (surface/ real) - Counter-enemy (direct/ potential) - Emotional constraints (love/ hate/ default)\" command to generate role files\nnovel creation - Relationship visualization - Role-based List, Relationship Visualization using \"Mermaid syntax to generate relationship maps (distinguishing solid lines / dotted lines / different colour arrows), marking 3 potential conflict flash points, generating time axes: the impact of key events on relationships\"\nThe current chapter is designed to be a novel-- theatrical conflict detection, using the \"Analysis of the current chapter: [painting text], identifying inconsistencies in the behaviour of the person (not in line with his file), suggesting [number] a more dramatic re-orientation, generating [number] of an euphemism-to-read ambush-laying program\" to detect the conflict.\nI choose the title \"The Dragon of the Mirror Lake: The Promise and the Salvation of a Dragon\" and write a specific novel outline for me, based on the instructions of a folk novel, containing the main role, the key context and the expected outcome, in the framework of attracting the beginning, describing the main characters and background, developing story plot, the orgasm, the end and lessons learned, and then asking me if I am satisfied with the framework.\nAccording to the \"Fox's wedding: a strategy versus love\" novel, I choose the title \"Fox's wedding: a strategy versus love\" and hope the number of words is around 3000. Please generate the novel framework according to the selected title, and, after I have been satisfied, create specific folk novels for me in a popular, interesting, in-depth, emotional, logical, output style that I need to optimize, and then optimize myself and ask what I need to optimize.\nI've chosen the title \"The Pears Woman's Contract with the King of the Underworld: The Story of Love Over Life and Death\" to be written, hoping that the number of novel words will be around 5,000. Please create a novel framework for me, and then I will confirm that I will write a novel, and then I will optimize myself, focusing on the context, the depth of the role and the cultural element of the story, and then I will ask my views on the best way to read the novel.\nVideo Script - Emotional Curve Optimization - Original Script Analysis - Original Script Analysis - Analysis of Video Script Content, Using the Command \"Analysis of Emotional Volatility by Context: [Placing Text], Output: Emotional Value Curves (Strained / Interesting / Move), Time Counting between Climax Points, 3 Rhythm Card Points Suggested for Optimization\" Analysis of Initial Script Emotional Volatility.\nVideo script - Emotional curve optimization - Peak design Use \" Insert Emotional Threads at [Detailed Time 1] Sets the \"Suspending \" Questions (Interactive Questions), [Detail Time 2] Adds the \"Commonwealth\" story (User Testimony), [Detailed Time 3] Adds the \"Standing Event\" (Data Contradiction) command to optimize the Script Sense peak.\nVideo script - Emotional curve optimization - Fracture enhancement - for specific paragraphs in script, using the command \"converting the paragraphs '[the paragraph theme, such as product advantage]' into the semi-collage table:  time frame,   line,  sound, \" for scaffolding.",
+        "tags": [
+          "Q&A",
+          "Web-based creation aids"
+        ]
+      }
+    }
   },
   {
     "id": "问答-翻译与润色类",
@@ -2430,7 +4848,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "翻译与润色类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Translation and routing",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Translation and routing.csv",
+        "summary": "Precision translation, based on commercial or other scenario needs, uses “[special requirements] [retention format, processing of amounts, terminology requirements, etc.] [target language] [target language name] [source language] /",
+        "prompt": "Precision translation, based on commercial or other scenario needs, using instructions such as “[Special request] [Retention format, amount processing, terminology requirements, etc.] [target language name] [origin language] [source language name]/ Opening professional translation mode [content requiring translation]”, such as “Retain eugenic format (Dear/Honored) [Special request], two decimals in amount, commercial English [source language] Chinese] using ICC ICC terminology [target language] / Opening professional translation mode on CIF New York provisions, we would like to increase insurance coverage”.\nAfter uploading the reference, use the \"Please translate my summary in the form of a phrase like this [name of the journal of the paper, such as the Nature paper]\" instruction \"Ensures that the title of the chart is translated in a uniform way to '[standard translation]' and maintains its academic translation and refinement in [original format, such as Figure 1 - format]\"\nCultural adaptation, in response to localization needs, uses the Directive to \"interpret [the cultural content of the enterprise, such as quality first]' to [the target client group, such as India], to allow the model to make recommendations on cultural adaptation. ]",
+        "tags": [
+          "Q&A",
+          "Translation and routing"
+        ]
+      }
+    }
   },
   {
     "id": "问答-考试-作业分层设计",
@@ -2443,7 +4874,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "考试、作业分层设计"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Examinations, tiered design of operations",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Examinations, tiered design of operations.csv",
+        "summary": "Examination - Tier-based programming, based on [the name of the subject] and on the characteristics of the student group, such as grade, level of learning ability, etc., to develop a stratification design programme for the examination, with clear lines of hierarchy, criteria for hierarchy and different levels",
+        "prompt": "Examination - Tier-based programming, based on [the name of the subject] and on the characteristics of the student group, such as grade, level of learning ability, etc., develops a stratification design programme for the examination, with clear lines of reference, criteria for hierarchy and target setting for different levels of examination.\nExaminations - Tests are prepared, each with a different level of examination examination in accordance with the [established examination hierarchy programme]. Each examination will reflect the level of difficulty required, covering different types of topics (e.g. foundation, enhancement, extension) and indicating the knowledge and capacity points examined for each subject.\nExamination - arrangements for the implementation of examinations Planning of a layered process for the implementation of examinations, including scheduling of examinations, placement of test sites, monitoring requirements, etc., ensuring that examinations at different levels are conducted in an orderly manner, and considering how to safeguard the fairness and confidentiality of the examinations.\nExaminations - Performance appraisals and feedbacks, with a view to evaluating performance in the hierarchical examinations, develop criteria for evaluating differences, taking into account the student’s answer and progress.\nOperational stratification - stratification strategy planning Planning strategies for stratification (e.g., by difficulty, by type of mission) based on [disciplinary curriculum standards], [learning level differences] and [learning objectives], planning strategies for stratification of operations, defining the ttrenchment approach (e.g., by difficulty, by type of mission) and clarifying the functions and focus of the various levels of operations.\nJob stratification - Job content design Designs for different levels of operations based on [a defined operations strategizing strategy]. Base level operations focus on the consolidation of basic knowledge, enhancing the application and extension of knowledge at the level, and expanding the level of work to encourage innovative thinking and practice among students, detailing specific topics or tasks at the various levels of operation.\nOperational stratification - Job completion time planning. Reasonable planning of completion time for different levels of operation, taking into account differences in learning abilities and difficulties of operation, ensures that students are able to perform their work with high quality within the specified time frame and avoids over- or under-burdening students.\nOperational hierarchy - Operational evaluation system development Evaluation system for layered operations, evaluation criteria for different levels of operation, with diverse evaluation approaches (e.g. teacher evaluation, student self-assessment, student peer evaluation, etc.), promotion of knowledge acquisition and learning skills in students through evaluation, and identification of how to adjust the design of subsequent operations to the evaluation results.",
+        "tags": [
+          "Q&A",
+          "Examinations, tiered design of operations"
+        ]
+      }
+    }
   },
   {
     "id": "问答-职场办公类",
@@ -2456,7 +4900,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "职场办公类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Office type for the workplace",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Office type for the workplace.csv",
+        "summary": "Compare the advantages of different programmes with the advantages of the above.",
+        "prompt": "Compare the advantages of different programmes with the advantages of the above.\nTake the long-text mind frame.\nSound recordings of meetings are organized as to-dos. Recorded recordings of the following meetings are quickly prepared as to-dos\nThermal analysis reports are generated to generate heat analysis that includes Platform Indexes, e.g. Centauri Index/ Micro-Technology Index.\nOptimizing project progress management with Gantt chart reprogramming parallel tasks and milestones for the phases of [project name, e.g., APP development]\nReport key data summary generated Auto-generated summary of [quantity] key items in this report [data categories, e.g. financial data]\nDesigning a target follow-up table for team members to design a personal goal management table for [number of teams and type of team, e.g. 5-person operating team] with [progress bar type, e.g. KPI progress note]\nSWOT Analysis to collate competitive advantages, and SWOT Analysis to collate our strengths in the area of company affiliation, e.g. online education platforms, and risks, e.g. policy risks.\nQuestionnaire analysis reports generated Auto-generated consumer survey [number of questionnaires, e.g. 500] [analysing dimensions, e.g. age stratification and preference cross analysis]\nCost-benefit analysis of budget tables to provide the links to this [budget table theme, such as the research and development budget table for new products] [indicators, such as ROI projections] and [models, such as the 3-year cost-sharing model]\nMission comparison analysis uses tables to compare the strengths and weaknesses of different programmes, such as, \"Please help me compare the strengths and weaknesses of the two project management methods, A and B.\"\nThinkchart extracts the framework of the mind map that automatically extracts the document, like, \"Please help me extract the framework of the mind map of this report.\"\nThe proceedings of the meeting are organized into to-dos and points, such as, \"Please help me to sort out the main elements of the meeting and the way forward.\"\nThermal analysis of the question produces heat analysis for the selected topic, such as \"Please generate heat analysis for the selected topic `Assaying in the Medical Fields of Artificial Intelligents'\".\nProject writing aids 1 hour completion of a project book [project name], including steps such as generation framework, fill module, completion of soft content and optimization of format, such as “project book completion of an intelligent logistics park within 1 hour”\nI'm doing a little red-book project for the Little Red Book, targeting 18-30-year-old women, and the theme is sharing routine makeup techniques, testing new products, etc.\nI'm in the pet track, targeting a 25-40-year-old group, with the theme of pet conservation knowledge, pet fun sharing. Please direct me to complete the information, then generate release schedules and content schedules, and then generate the required explosive files.\nI'm running a food-seeker track in a little red book, targeting people who like to eat at age 20-35, and who share their local food-seeds, home-made food lessons, etc.\nI want to recommend books for new job entrants, who are 22-28 years old, who have just entered the field, and who are used to reading books that are useful and developmental. I want to recommend the book \" Seven Practices of the Efficient People \" . Please guide me by process, first confirm whether to continue, search for book information and produce a table output, then produce five attractive titles for me, then generate a text message in format, then optimize the text and remind the drawings, and then retrace the script and split it according to my feedback.",
+        "tags": [
+          "Q&A",
+          "Office type for the workplace"
+        ]
+      }
+    }
   },
   {
     "id": "问答-自动化工作类",
@@ -2469,7 +4926,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "自动化工作类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Automation work class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Automation work class.csv",
+        "summary": "After daily news is generated data source access, use \"Name: Sales Daily Generation Trigger: Daily [Detailed Time] Executing Action: Read CRM Today's Order Data to calculate the growth rate against yesterday's data.",
+        "prompt": "Daily News generates data source access, using \"Name: Sales Daily Generating Trigger Conditions: Daily [Detailed Time] Executing Actions: Read CRM Today Order Data, Calculate Growth Rates from Yesterday ' s Data, Generate Three-Scree Daily Reports: Key Indicators, Aberrant Warning, Tomorrow ' s Proposal, Send Mail to [Addee Mailbox]\" command to create Daily Daily Generation System\nAutomatic smart customer service Set up, with tools like Zapier, \"When a new advice form is sent to the official web-based form triggers DeepSeek API, AI analyzes the customer 's needs classified as \"after sale/ quoted/ technology\", simple question-response solutions, complex questions generate worksheets and send counterparts to the department\", and sets automatic response templates such as \"When the question contains [\"How to return\", \"Who to pay for freight\", answer: [specific reply] command to set up the smart passenger service centre\nAutoScreen - Structured Needs AutoScript Requirements, Structured with \"Dismantling Needs into Technical Elements: Document Operations Module (Additional Backup/ Version Control), Web Disk API Consort, Time Task Configuration, Unusual Processing (Web Break / Insufficient Storage), Export Technology Options Recommended Table (with Comparison of Pros and Departures)\"\nAutoScript - Code Generation Use \"Use [programmed language] to achieve the following functions according to structured needs: [list out specific functional requirements], request: each paragraph to add a Chinese comment, separate profile and core logic, output.env file template\" command generation code\nAutoPilot - Test optimization for generated code, test optimization using a retest mechanism under \"Design testing program for the code above: simulation [test scenario, e.g., offline environment], test for different versions of retention strategy, generate false code for test cases, and RAM detection method\"\nAuto-Screen - Delivery Document Use \"Generating User Manual: Installing Reliable Pip Command Lists, Configure File Changes (Red Box Description Required Items), Frequent Problem Diffusion Flow Chart, Service Monitor Program (Prometheus Indicators Design)\" command to generate delivery documents",
+        "tags": [
+          "Q&A",
+          "Automation work class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-自动化报告",
@@ -2482,7 +4952,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "自动化报告"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Automation reports",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Automation reports.csv",
+        "summary": "Automation reports are requested to generate automated reports for [specific targets], develop automated report generation scripts or use professional report generation software, in accordance with predefined reporting templates and time cycles (triggered periodically or on the basis of a given event)",
+        "prompt": "Automation reports are requested to generate automated reports for [specific targets], develop automated reports to generate scripts or use professional reports generation software, automatically collect relevant data and generate reports according to predefined reporting templates and time cycles (regularly or by event-specific triggering of interim reports). Reports should cover key indicators, analytical results, trend charts, etc., to ensure the accuracy and timeliness of reports.\nPlease generate periodic reports for [the specific target], which should be aggregated and analysed at fixed intervals (e.g. weekly, monthly, quarterly). The reports should include statistical analysis of the data, changes in trends, comparisons with historical data, etc., and show the performance and trends of the target in a clear and visual way over a given time period.\nIn the interim report, please generate interim reports for [specific audiences], and quickly collect and analyse relevant data according to specific needs (e.g., response to security emergencies, periodic assessments of critical projects, etc.) and generate targeted reports. The reports should focus on demand themes, highlight key information and analytical findings, and provide timely and effective support for decision-making.\nPlease generate a report containing a chart for [specific objects], using a professional data visualization tool, to convert the data into a variety of chart forms, such as column charts, line charts, pie charts, thermal attempts. The report is made easier to understand and interpret by selecting the type of chart and designing the layout of the chart.\nPlease provide a text-generated report for [the specific audience] detailing the process and results of the analysis of the data. The report should include data sources, analytical methods, key findings, conclusions, etc., with language expressions that are accurate, clear and professional, highlight key data and analytical findings, and provide a comprehensive and in-depth data perspective for the reader.",
+        "tags": [
+          "Q&A",
+          "Automation reports"
+        ]
+      }
+    }
   },
   {
     "id": "问答-自媒体运营类",
@@ -2495,7 +4978,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "自媒体运营类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "From Media Operations",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/From Media Operations.csv",
+        "summary": "Title generation Use the title \"Please generate [number] of [themes] [platform name, e.g., little red book, shivering], as required by the platform and content, and request [specific conditions, e.g. use] e",
+        "prompt": "Title generation Use the title \"Input the [number] of] [themes] [platform name, e.g., little red book, tremors, etc.], requiring [specific conditions, emoji, containing numerical quantification, highlighting pain resolution, etc.]\" instructions, e.g., \"Input 8 headings of the red book on \"Gluent reduction in fitness\", requiring the use of the emoji, containing numerical quantification, highlighting pain resolution, etc.\nContent creation, by theme, type and requirement, uses \"A analogy interpretation [core concept] [with] [a analogy example], every [time frame], setting a suspense switch, [end-of-the-line voice requirement], [request] [theme],” command creation, for example, \"A analogy interpretation of `database management' with `dressing closets', setting a suspense switch every 30 seconds, ending with a guide, praising point, [requesting] database management [type] short-filtration video script of the CCD type\"\nLayout optimization, for text content, enter \"Reform this text to a suitable layout for [platform name such as the micro-letter public, microblogging, etc.]] command: [specific layout requirements, such as not exceeding X lines in each segment, key sentence plus emoji, place spacing symbols, key data marked with a specific colour, etc.]\"\nData analysis Upload backstage data screenshots using the \"Analysis fan active time frame, recommend best release schedule next week, show peak time slots with [time format, e.g. 24 hours]\" command\nAnalyse the makeup home account, and I want to analyze the account of a small red-collage book owner, with the link [specific links]. Please analyse the accounts, the subject design, content creation, the layout of the case, interactive strategy, etc., as required, and summarize the reasons why the notes were exposed/ point of praise/ collection, and recommend a location-like blogger.\nDismantling the accounts of the food fairs, I have three home pages of the homepages of the homepages of the home-based home-pages of the home-based home-pages of the home-based home-pages of the home-based home-pages of the food-dealing and the other of the home-students.\nI'm offering a note link to a little gymist, a book owner, a note link to a list of the different aspects of his operation, an in-depth analysis of the reasons for his interest in the notes, and a recommendation for a number of high-quality bloggers of the same type.",
+        "tags": [
+          "Q&A",
+          "From Media Operations"
+        ]
+      }
+    }
   },
   {
     "id": "问答-自我学习提升类",
@@ -2508,7 +5004,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "自我学习提升类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Self-learning upgrading category",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Self-learning upgrading category.csv",
+        "summary": "Read the paper - Predict the question Enter the title of the paper using \" Use [Qualified Words] to summarize the core innovation points of Thesis Title, using 'known '",
+        "prompt": "Read-predicted questions Enter the title of the paper using \"Please use [Qualified Words] to summarize the core innovation points of the title of the paper, using ' Known......but... .. .. structure formulation and list [number of] one question worth digging\" instructions, for example, \"Please use 300 words to summarize the core innovation points of Applied Research on Artificial Intelligent in Medical Image Diagnostics, using ' Known......but... .. Structure expression and list 5 questions worth digging.\"\nA paper-charted -- graph parsing -- for the paper chart, using the \"Experient Design Logic for Interpretation of Figure [Chart Numbering], displaying variable relationships with arrow charts and labelling control variables that the author may omit\" command\nRead-- critical thinking Entering information about the paper using the \"number of potential limitations to find the research method and provide the [number of] reverse evidence paper DOI\" command [published after the specified time]\nThe error study - the error diagnosis - the photograph/ the entry of the subject, the analysis of my mind error in this course [of subject types such as geometry, English reading, etc.], the interpretation of [relevant theoretical concepts such as the perception of deviation in cognitive psychology]\nFake-Train-Fact-Fact-Based Knowledge Point, use \"A Variable-Based Knowledge Point Generates [Quantities] The Hard-Ending-Incremented-Text-Based-Text-Based-Text-Based, with Road Map Tips for Solving the Problem (not Direct-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To-To\" command\nThe bug-remember enhancement, which is the key step in the solution, uses the \"Cutting the key steps of the solution into a smooth slip, requires rhyme and contains [key terms, such as help lines, similar comparisons]\" command to generate memory cards.\nThe wrong theme - the surveillance report uses the \"Statistics Me Past [Time Range, e.g., a week, a month, etc.] distribution of the wrong title type in [disciplinary panels, e.g., trigonometric plates, textboard panels, etc.], using the [chart type, e.g., pie charts, column charts, etc.] to present and mark the break-through priority monitoring report.\nSummary of meetings - audio focus Upload of audio files Use \"Retrieving key decisions: presentation in three columns of \"Resolution matters\" [time nodes], red-marked contested content \" command\nSummary of meetings - Action List Based on the content of the meetings, use the directive “Translating the content of the meetings into a list of SMART principles tasking, with a focus on matters requiring cross-sectoral collaboration”\nSummary of proceedings - Visualize presentation of meeting time, using the \"Change project time to Gantt chart code (Mermaid syntax format), with the \"Embranding Key Reliance Node\" command\nI participated in a project planning meeting on the theme “New product extension project planning”, which was held [specific time], with participants in [list of participants], and included a list of new product orientations, outreach channels selection, extension schedules, etc. The new product targeting young people was proposed, and a promotion channel combining social media and offline events was proposed, with a view to introducing the extension time before competitors. The meeting decided to use the social media and offline outreach approach, with [name of the person responsible] responsible for social media promotion, and [name of the other person] responsible for offline activities, which was planned to be completed by [date of completion]. Next, it is intended to discuss the budget and impact assessment methodology.I'll ask if I'm satisfied.\nThe theme of the sectoral meetings, which were held in [the specific date and time], was “monthly debriefings and next month's work plan”, and the participants were all members of the department and I was the record-writer. The agenda was for the meeting, which included a briefing by members, a discussion of issues, and a schedule of work for the month next. The report mentioned that the project was behind schedule and proposed additional hands-on solutions; and the successful experience of the work was shared. The meeting decided to assign staff to the behind-time project, coordinated by the [head] and resolved the redeployment of staff by the [date of completion]. The next step is to discuss the departmental training plan. Please organize the minutes according to the process and framework and ask me if there is any change needed.\nThe theme of the market research meeting was “Discussion of the results of the feedback on the corporate product market”, which was held [time of the meeting], with participants including the Ministry of the Market and the Ministry of Research and Development. The agenda was structured around analysis of the results, product improvement directions, and market strategy adjustments. It was suggested that the product function needed to be optimized, with some suggesting that the packaging design should be changed to attract consumers, and that new marketing channels should be expanded. The meeting decided to establish a product optimization group, chaired by [name of the person responsible], to submit product optimization programmes by [date], and to start market-access planning. Next step is to follow up on the implementation of the optimization programmes. Please let me confirm compliance with the requirements, based on a summary of the meeting.\nPersonal Knowledge Base - Information Capture Use \"Real Time Monitor AI Dialogue, Automatically extracting the following to the Knowledge Base: I repeat instructions more than three times, is marked as 'important 'solve solutions, changes output content more than two times \"\nPersonal Knowledge Base - Smart Tag - Use the \"Adding a Multidimensional Tag for Knowledge Base: #Commend #Contract Template#Technology Problem#Verified Scheme\" command to add tags based on the contents of the Knowledge Base\nPersonal knowledge base - active sending Set trigger conditions, use \"Auto Display Relevant Cases and Past Successful Programs in the Knowledge Base When I Discuss '[keywords, e.g. user growth]'\" command to achieve active delivery",
+        "tags": [
+          "Q&A",
+          "Self-learning upgrading category"
+        ]
+      }
+    }
   },
   {
     "id": "问答-自然语言处理",
@@ -2521,7 +5030,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "自然语言处理"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Natural language processing",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Natural language processing.csv",
+        "summary": "Natural language processing.",
+        "prompt": "Natural language processing. You can use pre-trained language models (such as GPT, BERT, etc.) for natural language processing, word-specifying, naming entities, etc. for text-processing purposes, and for improving the accuracy and efficiency of natural language processing.\nAn emotional analysis is used to analyse [text content], to identify accurately emotional tendencies in the text, such as positive, negative or neutral, and to give a quantitative assessment of emotional strength.\nUse the ability of text classification to classify [text] into predefined categories, while explaining in detail the classification process, the reasons why the text is assigned to that category. Text classification can be done using machine learning algorithms (e.g., pavilion-bewies, decision trees, etc.) or in depth learning models (e.g., CNN, LSTM, etc.), feature extraction and classification of text, and interpretation of the classification process using explanatory methods (e.g., feature importance analysis).\nText generation Please make an innovative change to [the existing text] or produce a new text that displays unique language styles and ideas based on the preservation of the core information in the original language. Text generation can be done using the production language models (e.g., GPT, Transformer, etc.), learning and generating existing texts and improving the quality and diversity of text generation.\nMachine translation is possible, using machine translation capabilities, to accurately translate [text content] from [the language of origin] [the language of destination], and the results should be consistent with the expression habits of the target language and be natural.\nName Entity Identification. You can use the naming entity identification algorithm (e.g., condition with airport, depth learning model, etc.), feature extraction and classification of text, and improve the accuracy and efficiency of naming entity identification.\nFor content creation, you can create content in depth, with a high-quality article with highly professional and in-depth insights that is closely related to a particular subject, ensuring that the article is logical, informative and of unique value.",
+        "tags": [
+          "Q&A",
+          "Natural language processing"
+        ]
+      }
+    }
   },
   {
     "id": "问答-艺术与设计",
@@ -2534,7 +5056,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "艺术与设计"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Art and design",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Art and design.csv",
+        "summary": "Image generation Please generate new images based on [the specific theme] and [the specific style], using digital drawing software (e.g., Photoshop, SAI, etc.) or artificially intelligent painting tools (e.g. Midjourn)",
+        "prompt": "Create new images based on [specific themes] and [specific styles], using digital drawing software (e.g. Photoshop, SAI, etc.) or artificially intelligent painting tools (e.g. Midjourney, Staable Diffusion, etc.), and in conjunction with artistic creative skills and aesthetic principles, create artistic works with a unique style. The work should be focused on themes that reflect particular style features and have a certain value and appreciation of art.\nPaint style analysis. Analyses the style features of the painting, including colour application, brush performance, configuration, subject preferences, etc., for [painting or particular drawing style, such as impression drawings], describing the place and impact of the style in the history of the arts.\nColour matching advice provides a suitable color matching program, explaining the application of colour psychology principles in matching, describing the atmosphere and the feelings that each colour mix creates, based on [design theme, target audience or particular scene, such as a child bedroom design].\nThe graphic design of creative ideas, which are conceived around [plane design projects, such as brand poster designs], are conceived from creative concepts, visual elements, layouts, etc., providing a variety of creative directions and inspiration sources that inspire unique design thinking.\nFont design and selection. To recommend appropriate fonts [design project, e.g. book cover design), analyse the compatibility of font styles (e.g. liner, liner, handwriting, etc.) with the design theme, explain the readability, recognition and applicability of fonts in different media.\nIndoor space layout planning, based on [the type and size of indoor space, such as 100 square metres of three rooms], is planned to provide a reasonable space layout, taking into account functional partitions (e.g. living room, bedroom, kitchen, etc.), human flow, furniture disposal, etc., and to increase space utilization and residential comfort.\nThe landscape design programme is designed to design a holistic design programme for [landscape design projects, such as urban park landscape design] that covers the selection and deployment of landscape elements (e.g. plants, water bodies, topography, small products, etc.) and creates a unique landscape environment that is adapted to site characteristics and user needs.\nProduct design concepts are generated based on [product design needs, such as smart watch designs], generating innovative product design concepts that provide multiple design concepts and sketches that demonstrate unique outlets for products, starting with functional innovations, user experiences and appearances.\nInspired clothing design provides inspirational sources for clothing design, such as historical culture, natural elements, art styles, etc., in combination with current trends, and in the unique clothing style and detail design, based on [the style of clothing, dress offerings or target markets, such as the design of the retro-winding evening dress].\nArtistic works are written in appreciation of the work [unsunsuns, such as Da Vinci's Mona Lisa], and they are written in appreciation of the artistic value of the work, in terms of its creative background, subject matter, artistic skills, emotional expression, etc.\nThe art history of the art is a description of the knowledge of [the particular period in the history of the arts, the genre or the artist, such as the Renaissance of the arts], including the artistic characteristics of that period or genre, the representation of the work, the important artist and its contribution, and the development of the art.\nArt fairs are planned to assist in the planning of [art exhibitions, such as contemporary art exhibitions] to provide advice on the theme setting, selection and layout of exhibits, space design of exhibits, promotion of the exhibition, and to ensure its appeal and impact.\nSharing of practical techniques in the [digital art creation area, such as 3D modelling, digital painting], including software operations, material and photo performance, special effects production, etc., helps to upgrade digital art creation.\nMusic creations are based on [specific music styles] and [is given melody (if any)], using music production software (e.g. FL Studio, Ableton Live, etc.) to create complete music with musical elements such as melody, and sound, rhythm, etc., in combination with theoretical knowledge of music and creative skills. The work should be in line with the music style specified, show creativity and art and give the audience a good hearing experience.",
+        "tags": [
+          "Q&A",
+          "Art and design"
+        ]
+      }
+    }
   },
   {
     "id": "问答-表达风格类",
@@ -2547,7 +5082,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "表达风格类"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Expression style class",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Expression style class.csv",
+        "summary": "Imitation writing, with instructions to \"Imitate an article on the theme, like the Spring of Snakes\" by DeepSeek.",
+        "prompt": "Imitation writing, with the instructions of \"Imitation of an article on the theme, like the Spring of Snakes\" by DeepSeek.\nI want to copy Rusin's statement, which says, \"Don't break out in silence, die in silence.\" Please direct me to the process, first confirm whether to proceed, then understand the original meaning, analyse the structure, extract the keywords, then replace the keywords (presented in the form), adjust the structure of the sentence, and finally verify the effect and match the original and the copying.\nI'm offering a quote from the Tagor version of \"The Beast of Summer Flowers and the Silent of the Fall leaves.\" Please lead me to the end of the script, ask me if I'm going to continue, and then show the original and the copying and explain the copying.\nI have a text that you want to copy. It's about the autumn landscape and your own sense of the autumn. Please direct me to the process, first to see if I'm going to go ahead, then to identify the core arguments, support arguments, etc. of the article, to provide the subject of the copying, then to recreate the article, and finally to evaluate the resemblance of the new article and adjust it to my request.\nI'm writing a paper in a particular style, and I'm offering a paper that says, \"Hold on to dreams to succeed,\" and the argument is that some celebrities insist on the ultimate success of a case, with a more rigorous and rational style. I want to copy an article in this style about the importance of learning hard. Please lead me step by step, ask me if I'm satisfied at the end of every step, and complete the re-engineering and evaluation of the article.\nI have a novel film that focuses on the circumstances in which the main actor struggles and then fights. I want to write a story that is behind the game, but eventually backslides. Please guide me to the process, first identify the original message, then lead me to the theme, then re-create and evaluate the article.\nI'm going to rewrite Nietzsche's \"The ones that won't kill you will make you stronger.\" Please follow the process and lead me to the next step, then to understand, analyze, extract key words, and complete the original and new versions.\nI'm going to do a headline article, which is \"The content of the article\" and I'm going to do it, and I'm going to do it by the process, and I'm going to give you a guide to the article, and I'm going to tell you what you've identified, and then I'm going to write a copy in a copying manner, and I'm going to compare the original article with the post-simulation article, and I'm going to make the best of it.\nRewrite headline article titles by specifying the title of the headline article, which I'm offering with the title [specific title contents], and please copy the headlines according to your technique, first identify the keywords, then replace and change the phrases with synonyms, and then ask if I am satisfied.\nRewrite headline paragraph from the original text, and I'll give you the headline paragraph, which is [specific paragraph text], and please reorganize, re-state and add new information in your own words, and ask me if I am satisfied when completed.\nLanguage style conversion for existing text, use the \" Please convert this text to [target style, such as humorous style, formal business style] and keep content the same subject matter \" command, convert text style.\nSimplification of language when text is too complicated, enter \"to summarize the main elements of the text in simpler language, within [word number requirements, e.g. 200 words], and allow DeepSeek to simplify the text.",
+        "tags": [
+          "Q&A",
+          "Expression style class"
+        ]
+      }
+    }
   },
   {
     "id": "问答-视频分析",
@@ -2560,7 +5108,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "视频分析"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Video Analysis",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Video Analysis.csv",
+        "summary": "Analyse and reconfigure the video content. I have a video that is organized around [shows the video's general content] and please analyse the video content as requested, reword the title (maintaining to 20 words).",
+        "prompt": "Analyse and reconfigure the video content. I have a video that is built around [a brief description of the video's contents], and please analyse the video content as required, reword the title (maintaining in 20 words and without change) as a level 1 heading, then organize and reconfigure it, including the classification of the content, the lubricating process, the preservation of key information points, data and details, and insert appropriate headings before the sections\nBased on the above re-structured video content, the core elements of the distilled video content are 3 - 5 core elements, each supported by 2 - 3 arguments from the original language, and the main points are to cover all core topics and be concise.\nDraws the anticonsensual view from the video content, draws the insightful view that contradicts the mainstream perception, extracts one - two representative points, briefly describes the uniqueness of each view within 200 words, and enhances the persuasiveness of the case in the context of the actual case, requiring objective neutrality not to compound personal tendencies.\nAnalysis of the guiding implications of the video elements, based on the previously refined video elements, analysis of the guiding implications of the elements and further reflection on how they can be applied in life",
+        "tags": [
+          "Q&A",
+          "Video Analysis"
+        ]
+      }
+    }
   },
   {
     "id": "问答-论文报告",
@@ -2573,7 +5134,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "论文报告"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Report of the paper",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Report of the paper.csv",
+        "summary": "Please provide a literature overview of [the specific theme] and retrieve academic papers relevant to this subject using tools such as academic databases (e.g. Web of Science, Web), professional search engines, etc.",
+        "prompt": "Please provide a literature overview of [the specific theme], using tools such as academic databases (such as Web of Science, Web, etc.), specialized search engines, and searching for literature related to the subject. Documentary references are screened, collated and summarized, and summarized according to a certain logical structure (such as chronological order, subject classification of studies, etc.), summarizing the current status of research, hotspot issues and trends in this area.\nSpecific data analysis is requested to conduct data analysis of [specific data sets], using techniques such as statistical methods, data extraction algorithms, etc., to extract key data from the data pool around specific research issues. The extracted data are cleaned, collated and converted, and potential information in the data is thoroughly tapped through descriptive statistical analysis, relevance analysis, regression analysis, etc., to provide robust data support for the research issues.\nChart generation. Please select the appropriate chart type (e.g., column charts to compare data size, line charts to show trends change, scatter maps to analyse the relevance of variables, etc.) for the [specific data set]. Use data visualization tools to visualize data by adding clear chart titles, coordinates labels, legends, etc., to enable the chart to present the results of the data set in an accurate and visual way.\nReference management. Please apply reference management to [specific documents or items], customize and format the references in the quotations using specialized literature management software (e.g. EndNote, NoteExpress, etc.). Ensure that the quotation format conforms to specific academic references (e.g. APA, MLA, Chicago, etc.), and manage the citations by classifying them, facilitating their rapid insertion and citation in the writing of papers or reports.\nResearch data visualization. Please make data visualization [specific data], using data visualization tools (e.g., Tableau, PowerBI, etc.) to convert data into various forms of graphics and graphics (e.g., column charts, line charts, maps, thought guides, etc.). Design reasonable visualization layouts and interactive approaches to enable data visualization to communicate findings effectively and enhance the persuasiveness of research, taking into account the need for demonstration of particular research results.\n(b) A description of the research methodology, which should be prepared for [the specific research project], detailing the thinking and framework of the research design, including the presentation of the research issues, the purpose of the study, the research assumptions, etc. A description of the methods and processes of data collection, such as questionnaires, experimental design, interviews, data collection tools, etc., indicating the sources of the data and the basis for sample selection. A description of the methods of data analysis, including statistical software used, data analysis algorithms, etc., should be made available to ensure the scientificity and replicability of the research methods.\nResults and discussions are invited to be developed in the context of the [specific research project] writing and discussion section, to provide an in-depth analysis of the data collected by the study, to present the results using appropriate statistical methods and graphics. Explain the significance and impact of the findings, to compare and discuss the findings with existing studies, and to analyse the innovations and limitations of the results. Explore the contribution of the research findings to theory and practice in the relevant areas, and to provide a reference and inspiration for subsequent studies.\nPlease prepare a concluding section for [specific research projects] summarizing the main findings of the study and summarizing the core elements of the research. Based on the findings, the research findings suggest directions and recommendations for future studies, indicating the shortcomings of the current research, and provide ideas and directions for further in-depth studies. The conclusions should be concise and highlight the focus and value of the research.\nPlease generate appendices to [the specific research project], which will organize additional data tables, charts, sample questionnaires, original data files, etc. into appendices. Numbering and labelling the contents of the appendices so that they can be clearly referenced in the text. The contents of the appendices should be relevant to the subject of the study and provide readers with more detailed data and information, enhancing the credibility and credibility of the study.\nRecommendations and improvements are requested to recommend and improve [the actual application scenario] based on [the specific findings of the study]. The results of the study are translated into actionable recommendations and measures, taking into account the needs and objectives of the application. Consider the multiple aspects of technology optimization, process improvement, and management strategy adjustments to provide practical guidance for the application and help to improve the effectiveness and quality of the application.\nThe selection of topics for exploration, based on [disciplinary areas] and [research interests], explores the selection of topics for 5 - 8 papers of research value and feasibility, analysing the current status of research, potential innovation points and research implications in each direction.\nFeasibility analysis of [the proposed paper report], feasibility analysis from research resources (data acquisition, experimental equipment, etc.), operationality of research methods, timing, and detailed assessment reports and recommendations for adjustments.\nThe outline framework is structured around [selected topics for the paper report], and the outline framework for the paper report is structured to clarify the main elements and logical relationships of the chapters, including the introduction, research methodology, research findings, discussions and conclusions, each with a brief summary of the key points.\nThe outline is refined and refined on the basis of [the initial structured outline of the paper report], with chapters being refined to complement sub-headings and specific points of discussion, ensuring that the outline covers the core content of the paper report in a comprehensive and in-depth manner, while examining the coherence and logic between the various parts.\nDocumentation search strategy development for [thesis report selection], documentation search strategy, database identification for search (e.g. web, Web of Science, etc.), keyword combinations, time frame etc., to provide comprehensive and accurate access to relevant high-quality literature.\nDocumentation screening and collation screens the large volume of literature retrieved, selects the literature closely related to the paper reports, and compiles it according to a logical sequence (e.g. chronological order, thematic classification, etc.) and forms a list of documents based on criteria such as relevance, authority, timeliness, etc.\nBased on the [compiled inventory of literature], a literature overview is prepared that summarizes the main findings of the former in the field of research, research methods and shortcomings, analyses current research hot spots and trends, and provides a theoretical basis and a reference for research directions.\nThe research methodology determines the choice of appropriate research methods (e.g. experimental research, research, case analysis, literature research, etc.) based on the nature and research objectives of [the paper choice], and describes the reasons for the choice of the methodology and its applicability in the present study.\nThe research programme design design is detailed in terms of selected research methods. In the case of experimental studies, the purpose of the experiment, the subject, the variables, the steps and the methods of collection and analysis of experimental data are specified; in the case of research, questionnaires, identification of sample surveys and survey methods are designed.\nData collection plans are developed according to [research programmes], to establish data collection plans that identify the sources of data collection (e.g. field research, web data capture, existing data sets, etc.), collection methods (e.g. interviews, observations, questionnaires, etc.), collection time and quality control measures to ensure that the data collected are authentic, reliable and effective.\nData analysis methods are selected, depending on the type of data (quantitative or qualitative data) and the purpose of the study, to select the appropriate data analysis methods (e.g. statistical analysis, content analysis, root-out theoretical analysis, etc.) and to describe the basis for the selection of the methodology and the information expected to be extracted from the data.\nData processing and analysis is carried out, according to selected data analysis methods, by processing and analysing the data collected and using the corresponding data analysis software (e.g., SSS, AMOS, NVivo, etc.) for data computation, modelling, visualization, etc., to produce the results of data analysis and to provide preliminary interpretation and discussion of the results.\nThe initial draft of the paper was written on the basis of the [archive of the paper report], [comprehensive literature] and [data analysis results], following the writing norms of the academic paper, with attention to the accuracy, logic and fluidity of language expression, and with a rational reference to the literature, ensuring the completeness and clarity of the paper.\nOptimizing the content of the first draft of the paper, examining the structure of the paper, the nature of the transition between chapters, the adequacy of the discussion, elaborating on the focus, removing redundant information, sharpening the core perspective of the paper and enhancing the persuasiveness and readability of the paper.\nLanguage improvement and formatting of papers is used to refine the language of the papers, check syntax errors, the proper use of the vocabulary and improve the linguistic quality of the papers.\nThe self-assessment elements are summarized into the elements and criteria for reporting self-assessments in papers, and self-checking in terms of the topic value of the papers, the scientific nature of the research methods, the reliability of data analysis, the integrity of content and innovation, language expression and formatting norms, and the issues that need to be focused and improved.\nPeer review of the collection and analysis of comments from peer review, gathering of comments and suggestions from peers on the paper reports, analysing the legitimacy and importance of these comments, identifying which comments need to be prioritized and which comments need to be further explored to provide a basis for revision of the papers.\nRevisions based on feedback from self-assessment and peer review result in targeted revisions of paper reports to address problems, improve the content and quality of papers and make them more in line with academic requirements and research objectives.\nAnalysis of the English-language summary of the paper, based on this English-language literature, and presentation of the paper in the format “Title:; Brief of the paper - Title of the article: Chinese (English title) - Published year - Published institution - Main summary of the article (summation by title of the articles at the level of each section, summarizing the main meaning and ideas, easy to understand and not missing the opinion of the article) - Study orientation (excercise the main subject directions of the paper, the reasons for the author's study of the issue, the background of the study and the bright spots of the study)”\nPlease take a look at the direction of the English literature, including the main subject of the study, the reasons for the author's study of the subject, the background of the study and the bright spots of the study.\nSummarizing the English literature's conclusions, detailing the conclusions drawn in the article, the basis for the conclusions (with detailed data supporting them), the guiding meaning of each conclusion, and the appropriate page number, noting the support of the missing data from the conclusions and the theoretical contribution of the paper",
+        "tags": [
+          "Q&A",
+          "Report of the paper"
+        ]
+      }
+    }
   },
   {
     "id": "问答-语音处理",
@@ -2586,7 +5160,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "语音处理"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Voice processing",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Voice processing.csv",
+        "summary": "Voice recognition. Please provide voice recognition for [the voice file entered] and the exact translation of voice content into text information, together with an assessment of the accuracy of the identification results.",
+        "prompt": "Voice recognition. Please provide voice recognition of [the voice file entered], and the exact translation of voice content into text information, together with an assessment of the accuracy of the identification results.\nText synthesis, using speech synthesis technology, converts [the text content entered] to a natural flow of voice, and users can select the parameters of voice color, speed, tone, etc.\nSound awakening. Please develop voice awakening features that enable the system to respond quickly and perform the corresponding operation when a wake-up call is detected by setting a specific awakening word.\nAudio interaction. Please construct a voice interactive system that allows voice conversations between users and systems that can understand and provide accurate feedback on user voice commands.",
+        "tags": [
+          "Q&A",
+          "Voice processing"
+        ]
+      }
+    }
   },
   {
     "id": "问答-课题研究项目",
@@ -2599,7 +5186,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "课题研究项目"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Research projects on topics",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Research projects on topics.csv",
+        "summary": "Research topics suggested that 5 - 8 topics with research value and feasibility be provided to analyse each subject under the research theme, based on the subject areas and research hot spots, in conjunction with research resources and interest directions",
+        "prompt": "Subject selections are proposed to provide 5-8 topics with research value and feasibility, based on [disciplinary areas] and [research hotspots], in conjunction with [research resources and trends of interest], to analyse the significance, innovation and expected results of each topic.\nThe research background and meaning description describes the background of the research, including current industry, problems, etc., and analyses the importance of the research on the subject for academic development, social applications, etc., and provides a sufficient basis for research on the subject.\nGuidance on the preparation of the literature overview, for [topic-related themes], guides the retrieval of literature, provides methods and criteria for its screening, assists in the preparation of a literature overview, summarizes the findings of previous research, research methods and shortcomings, synthesizes the research lines and identifies the starting points for the study of the subject.\nResearch objectives and content planning, based on [topic requirements], identify specific and measurable research objectives, refine them into detailed research content, clarify the logical relationship between the components, and ensure that the research is comprehensive, relevant and covers core issues of the subject.\nResearch methodology selection and design Analysis of the applicability of different research methods (e.g. experimental, investigative, case-analysis, etc.) based on [the nature of the subject and the objective of the study], selection of the most appropriate research methods and design of specific research programmes, including research steps, data collection and analytical methods.\n(b) Develop a detailed research plan for [topics], presented in a time-frame, with clear tasks, starting and expected results for each stage, with key milestones nodes, a rational allocation of time and resources, and an orderly development of research.\nProject team formation is proposed to analyse the required areas of expertise and knowledge, provide advice on the roles and responsibilities of project team members, including their professional background, staffing, etc., and ensure that teams are able to complete the topics, based on [topic research needs].\nProject budgeting guidance Guidance to the preparation of budgets [topic projects], with clear breakdown of expenditures for various costs, such as equipment procurement, experimental consumables, research travel, staff remuneration, etc., and with reasonable cost estimates based on research tasks and resource requirements, providing methods of budgetary control and management.\nThe pilot design and implementation recommendations are directed at [the subject of the experiment], assisting in the design of experimental programmes, including the purpose of the experiment, the subject of the experiment, the control of the experimental variables, the experimental steps, etc., providing attention and quality control methods during the implementation of the experiment to ensure the reliability of the experimental data.\nQuestionnaire design and distribution When [topic study uses survey methods], help design questionnaires, identify survey types, options and questionnaire structure, provide advice on the distribution channels and sample selection, guide the recovery and collation of questionnaires and provide the basis for subsequent data analysis.\nData collection and collation methods Introduction of data collection methods applicable to [topics], such as field observation, interviews, literature access, etc., provide techniques for data collation and cleansing, including data entry, abnormal value processing, data coding, etc., to ensure that data collected are accurate and available.\nData analysis methodology application, based on [topic data type and research purpose], selects appropriate data analysis methods, such as statistical analysis, content analysis, text mining, and explains how relevant software (e.g. SPSS, Python data analysis library) can be used to analyse data and extract valuable information from data.\nThe research results present guidance Guidance presents [the research results of the subject] in appropriate forms, such as academic papers, studies, project presentations, etc., providing a structural framework, content highlights and presentation techniques for results presentation, highlighting the innovative and practical aspects of research.\nResults dissemination and application recommendations, which are targeted at [topic outcomes of application value], propose strategies for the dissemination and application of results, including targeted audience analysis, outreach channel selection, application landscape expansion, etc., to facilitate the translation and practical application of research results.\nThe problem is addressed in the research process. [The problem encountered in the research on the subject, such as the failure of the experiment, data anomalies, research delays, etc.] The problem is analysed, solutions and coping strategies are provided to help overcome the difficulties in the study and ensure that the subject is carried out smoothly.",
+        "tags": [
+          "Q&A",
+          "Research projects on topics"
+        ]
+      }
+    }
   },
   {
     "id": "问答-跨学科主题学习",
@@ -2612,7 +5212,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "跨学科主题学习"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Interdisciplinary subject-learning",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Interdisciplinary subject-learning.csv",
+        "summary": "Interdisciplinary teaching design. Design interdisciplinary thematic learning activities that incorporate knowledge and methods from different disciplines, with clear learning objectives, content, teaching methods and evaluation methods, with emphasis on the development of integrated literacy and innovative abilities of students",
+        "prompt": "Interdisciplinary teaching design. Design interdisciplinary thematic learning activities that incorporate knowledge and methods in different disciplines, with clear learning objectives, content, teaching methods and evaluation methods, with emphasis on the development of integrated literacy and innovative abilities of students.\nSelect the interdisciplinary themes, which are of an interdisciplinary nature, such as environmental protection, artificial intelligence, cultural heritage, etc., in accordance with the interests, knowledge levels and social needs of the students.\nInterdisciplinary integration of resources.\nInterdisciplinary teaching is carried out. In the course of teaching, students are invited to apply knowledge and methods in different disciplines to solve practical problems and to promote interdisciplinary thinking and capacity development.\nInterdisciplinary learning evaluation (ILA) requires a comprehensive and objective evaluation of the results of the interdisciplinary learning of students using a diverse evaluation approach, such as student self-assessment, mutual evaluation, teacher evaluation, etc.\nThematic planning - Creative thinking Integration [multidisciplinary domains key words such as history, geography, art], conceiving five innovative and attractive interdisciplinary themes, combining immediate hot spots with student interests, outlining the interdisciplinary integration points and potential learning values of each theme.\nThematic planning - Feasibility assessment. For [developed interdisciplinary theme], feasibility assessments are conducted from school resources (teachers, equipment, etc.), student knowledge reserves, timing, etc., to provide findings and recommendations for optimization.\nTarget setting - Interdisciplinary goal setting - Develop comprehensive and targeted learning goals for [defined interdisciplinary themes], covering knowledge and skills acquisition, interdisciplinary thinking development, practical upgrading and emotional attitudinal values, ensuring that objectives are clear and measurable.\nTarget setting - The detailed objectives of the discipline linkages are based on [the cross-disciplinary thematic learning objectives], which are detailed from the perspective of the various disciplines involved, identifying the unique contribution and interlinkages of each discipline in the subject learning, reflecting the depth and breadth of the integration of the discipline.\nContent integration - The knowledge integration framework is built around [interdisciplinary theme], where knowledge is collated across disciplines, knowledge integration frameworks are constructed, the logical linkages between knowledge in different disciplines are clearly articulated and an organic knowledge system is formed.\nIntegration - Interdisciplinary material screening Collects and filters learning materials such as text, pictures, audio and video related to [interdisciplinary theme] to ensure that material is reliable, diverse and effectively promotes the integration of disciplines, and indicates how it is applied in interdisciplinary learning.\nActivity design - start-up activity planning Design of an interdisciplinary thematic launch that will stimulate interest and participation of students in the process in a manner that will include, but is not limited to, keynote addresses, situation simulations, and the identification of the process, the organization and the intended effects.\nActivity design - series of exploration activities Planning of a series of research activities closely related to [interdisciplinary themes], such as project-based learning, field research, experimental research, etc., detailing the objectives, implementation steps, time allocation and presentation of results for each activity, and building the student's comprehensive investigative capacity.\n(b) Designing collaborative learning activities suitable for interdisciplinary learning on topics such as group competitions, co-creation, and clarifying the modalities of group formation, division of membership, rules of cooperation and teacher guidance strategies, and promoting teamwork and communication among students.\nTeaching methods and strategies - Choice of teaching methods, choosing appropriate interdisciplinary teaching methods, such as problem-oriented learning, project-based learning, phenomenon-based learning, and describing the main points of application and expected effects of each method in thematic learning, in accordance with [interdisciplinary themes] and student characteristics.\nTeaching methods and strategies - Differential teaching strategies are implemented to develop differentiated teaching strategies for students at different levels of learning and interest, including learning tasks, provision of learning resources, personalized guidance etc., to ensure that each student is able to gain from cross-disciplinary subject studies.\n(c) To take stock of resources available within schools for [interdisciplinary subject-learning], such as laboratories, libraries, functional classrooms, etc., and develop programmes for resource integration and utilization, and to improve resource efficiency and provide strong support for subject-learning.\nTeaching resources support - Extra-school resources expansion Exploiting off-school resources relevant to [interdisciplinary themes] such as museums, science and technology libraries, businesses, communities, etc., building partnerships to design specific ways of introducing and using extra-school resources to enrich students' learning experiences.\nLearning Evaluation - Multi-diverse Evaluation Indicators (LE) Build a comprehensive system of cross-disciplinary thematic learning evaluation indicators covering multiple dimensions of knowledge and skills, processes and methods, emotional attitudes values, teamwork, etc., defining the weight of indicators and evaluation criteria, and achieving diversity in evaluation.\nLearning evaluation - process evaluation programme development Design process evaluation programme [interdisciplinary subject study] to continuously track students ' learning progress, provide feedback and guidance in a timely manner, and promote student learning growth through classroom observation, learning logs, peer evaluation, etc.\nLearning evaluation - Final evaluation approach design Identification of end-of-term evaluation modalities after the end of [interdisciplinary subject study], such as presentation of thematic results, project responses, comprehensive testing, etc., development of detailed evaluation rules and rating criteria, and objective and impartial evaluation of student learning outcomes.\nTeacher Professional Development - Training Needs Analysis - Analysis of Training Needs - Analysis of Training Needs - for [Interdisciplinary Thematic Learning], Analysis of Training Needs of Teachers in the Integration of Subjects, Teaching Methods, Resource Integration etc., to inform the development of effective training programs.\n(b) Developing strategies for upgrading the interdisciplinary teaching capacity of teachers, including professional training, teaching seminars, and academic reflection, to promote professional growth of teachers.\nTeacher Professional Development - Collaboration mechanisms Establish interdisciplinary collaborative mechanisms for teachers to encourage teachers in different disciplines to prepare, teach, evaluate, share teaching experience and resources and form interdisciplinary teaching teams.\nSchool cooperation - Education philosophy orientation - Design activities or ways to guide parents to understand and support interdisciplinary education concepts, such as parent lectures, online sharing, etc., to raise parents ' awareness of interdisciplinary learning.\n- Participation in the design of activities Planning of specific activities for parental involvement in [interdisciplinary subject study], such as outside tutoring, participation in project guidance, and clarifying the roles and responsibilities of parents and ways of participating in them, strengthening school cooperation.\n- Building a feedback mechanism for the communication of the home, providing timely feedback to parents on the performance and results of students in cross-disciplinary subjects, collecting their opinions and proposals, and promoting student development.\nTime management - Thematic learning time planning - Develop detailed time planning [interdisciplinary subject learning] to rationalize the time allocation for the start-up, exploration, presentation and so on, to ensure that learning activities are conducted in an orderly manner.\nTime management - Coordination with regular curriculum Coordination of [interdisciplinary subject study] with the regular school curriculum schedule to avoid conflict and guarantee time input to subject learning without compromising normal progress of teaching.\nTime management - Flexible time setting strategy Develop flexible time setting strategies to respond to possible contingencies in cross-disciplinary subject learning or individualized learning needs of students, ensuring flexibility and adaptability in learning activities.",
+        "tags": [
+          "Q&A",
+          "Interdisciplinary subject-learning"
+        ]
+      }
+    }
   },
   {
     "id": "问答-运维管理",
@@ -2625,7 +5238,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "运维管理"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Transport management",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Transport management.csv",
+        "summary": "The function of the transportation manager is to ensure the steady operation and recovery of the system or application by ensuring that the system is maintained.",
+        "prompt": "The transportation management service should be responsible for the operation of the [specify system or application], including routine monitoring, trouble-handling, system upgrades, data backup and recovery, to ensure the stable operation of the system or application and the security of the data.\n(b) The failure process should be processed in a timely manner [by system or application failure], through detailed trouble analysis, to identify the root causes of the failure, to take effective measures to resolve it and to restore the system or application to normal operation as soon as possible, while the process of failure is well documented and summarized.\nSystem upgrades are requested to be performed [systems or applications] for system upgrades, updates of system or application versions in a timely manner in accordance with business needs and technological developments, and optimization of the functionality and performance of the system or application, along with detailed planning and risk assessment of the upgrade process.\nPlease backup the [critical data] data, develop a sound data backup strategy, regularly back up the data to ensure the security and integrity of the data, and provide detailed operating processes and testing options for data recovery.\nPlease perform critical data recovery [in the event of loss or damage of data], using specialized data recovery tools and techniques, in accordance with data backup, to restore lost or damaged data as soon as possible, while recording and validating the data recovery process in detail.",
+        "tags": [
+          "Q&A",
+          "Transport management"
+        ]
+      }
+    }
   },
   {
     "id": "问答-金融投资",
@@ -2638,7 +5264,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "金融投资"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Financial investment",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Financial investment.csv",
+        "summary": "Risk management Request risk management of [portfolio name], using risk assessment models (e.g., risk value models, risk return models, etc.) to assess potential risks in the portfolio",
+        "prompt": "Risk management requests that [the name of the portfolio] be managed for risk management and that risk assessment models (e.g., risk value models, risk return models, etc.) be used to assess potential risks in the portfolio. Risk response strategies, such as asset allocation adjustments, damage-free strategies, hedging, etc., be developed to effectively manage and control risks, ensure the safety and stability of the portfolio and achieve the expected investment objectives.\nFinancial reports are requested to generate financial reports for [name of company or financial entity], and to compile comprehensive financial data, including data from major financial statements such as balance sheets, profit statements, cash flow statements, etc. An in-depth analysis of the financial position, such as debt-servicing, profitability, business capacity analysis, etc., and a detailed reading of the business status and trends behind the financial data, to provide stakeholders with accurate and detailed financial information.\nPlease provide statistical data for [financial data sets], and use statistical methods (e.g. descriptive statistics, extrapolation statistics, etc.) to analyse and interpret financial data. Calculate statistical indicators (e.g. mean, standard deviations, relevance factors, etc.), demonstrate data distribution and trends through statistical charts (e.g. column charts, line charts, etc.), extract patterns and potential information in financial data, and provide data support for financial decision-making.\nSimulation of risk-benefit maps using Monte Carlo simulations to predict portfolio returns [simulations, for example, 100,000]\nDevelop assessment tables containing [risk factors, such as climate risk] [number of factors, e.g., 5 factors]\nUse behavioral finance to analyze transaction records and identify mispractices [number, e. g. 3] affected by [effects, e. g. disposal effects]\nDesign index for index analysis on the encryption asset chain\nMacroeconomic data are converted into investment clock models Draw asset allocation proposals under [model frameworks, such as the Merrillian clock framework]\nGenerate ESG investment filter conditions to create filter criteria for [number, e. g. 3 sets] different weights [industry, e. g. green energy]\nSlamk risk using options Greek letters designed to hedge against a strategy based on a strategy like Delta neutral strategy.\nGenerate cash flow models for retirement plans Create old-age savings models for [number, for example, 3] [assuming, for example, inflation rate assumptions]\nTechnology indicators are converted into quantitative transaction signals generating a business point hint for the [indicator combination, e.g. RSI+Brein belt combination]\nDesign valuation models for start-up enterprises Create [number, for example, three] different [parameter, for example discount rate] [model type, for example, DCF model]",
+        "tags": [
+          "Q&A",
+          "Financial investment"
+        ]
+      }
+    }
   },
   {
     "id": "问答-项目式教学",
@@ -2651,7 +5290,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "项目式教学"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Project-based teaching",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Project-based teaching.csv",
+        "summary": "Design a project-based teaching programme with [specific disciplines] at its core, with clear project objectives, mission breakdown, timing and evaluation criteria, to ensure that the programme is operational and interesting and fully stimulating",
+        "prompt": "Design a project-based teaching programme with [specific disciplines] at its core, with clear project objectives, mission breakdown, timing and evaluation criteria, to ensure that the programme is operational and interesting and fully motivates students to learn.\nPlease elaborate on how effective team cooperation is being directed to students in project-based teaching, including guidance on principles of group formation, division of labour arrangements, group discussions and communication skills.\nDevelop a comprehensive system of indicators for project-based teaching and learning assessment, which is assessed from multiple dimensions such as student learning outcomes, teamwork, problem solving, innovative thinking, and ensures that the results are objective and impartial.\nPlease provide examples of successful project-based teaching, analysing their educational objectives, implementation processes, teaching methods and methods of assessment, and summarizing their successes and lessons learned.\n(b) To explore ways of combining project-based teaching with exploratory teaching, designing a teaching activity that builds the student's autonomy and innovative thinking.\nProject theme concept. Concepting with [the field of disciplines] and [the reality/hot topic), conceptualize five project-based teaching themes of inspirational and exploratory value and outline the educational significance of each theme.\nProject objectives are refined, targeting [the identified project theme], to refine specific, measurable and achievable project-based teaching objectives from knowledge acquisition, skills development and literacy.\nDismantling of tasks and process design Dismantling of [project theme] into a series of logical and coherent tasks, designing detailed mission processes, identifying the starting and closing nodes of each mission, delivering results and the dependency between the tasks.\nClassroom activities are organized to plan classroom teaching activities [project-based teaching projects], including project start-up sessions, panel discussions, outcome reporting, etc., and to determine the form, participation, time allocation and expected impact of each activity.\nPlanning of extracurricular outreach activities Developing plans for extracurricular outreach activities, such as field visits, expert interviews, community practices, etc., that match [project-based teaching projects], outlining the purpose of the activities, implementation steps and security concerns.\nCollection of materials for teaching, including text, pictures, audio-visuals, data sets, etc., indicating sources of materials and applications in the project.\nExternal resources docking. To find suitable external resources for [project-based teaching projects], such as cooperative enterprises, scientific institutions, public interest organizations, etc., to develop cooperation programmes, to clarify the rights and obligations of the parties, and the manner and timing of the match.\nProject progress management Development of a progress management plan [project-based teaching project], setting key milestones, defining tasks and time requirements for each phase, and providing methods and adjustment strategies to monitor project progress.\nTeam collaboration guidance provides effective guidance strategies to facilitate efficient team collaboration on issues that may arise from team collaboration in [project-based teaching project], such as the unsound division of labour and poor communication.\nIndividualized learning support programmes, including learning path orientation, mentoring programmes, etc., are developed for students who are involved in different learning abilities and styles of [project-based teaching project].\n(a) The evaluation indicators are constructed. The assessment indicators system is constructed [project-based teaching project], covering the quality of project results, student learning process performance, team teamwork, etc., to determine the weight and evaluation level of each indicator.\nProcess evaluation programme development Design of process assessment programme [project-based teaching project], with clear time points for assessment, assessment modalities (e.g. observation, documentation, testing) and feedback mechanisms to facilitate continuous project improvement.\nFinal evaluation implementation rules Develop final evaluation implementation rules for [project-based teaching projects], including organizational modalities, rating criteria, presentation of results, etc., to ensure fairness and fairness in the assessment.\n(b) Establish feedback mechanisms for [project-based teaching projects], collecting feedback from students, parents, partners, etc., on how to collate, analyse and use these feedback to optimize project teaching.",
+        "tags": [
+          "Q&A",
+          "Project-based teaching"
+        ]
+      }
+    }
   },
   {
     "id": "问答-预测模型",
@@ -2664,7 +5316,20 @@ export const promptEntries = [
     "tags": [
       "问答",
       "预测模型"
-    ]
+    ],
+    "translations": {
+      "en": {
+        "title": "Forecast models",
+        "category": "Q&A",
+        "sourcePath": "Prompt Library/Q&A/Forecast models.csv",
+        "summary": "Please construct a projection model based on [historic data], using model training and optimization, to refine future trends, while assessing the predictive performance and generalization of the model",
+        "prompt": "Forecast models are based on [historic data], and project models are designed to predict future trends through model training and optimization, while assessing their predictive performance and generalization capabilities. The construction of predictive models can be done using machine learning algorithms (e.g. linear regression, decision tree, etc.) or in-depth learning models (e.g. LSTM, CNN, etc.), the pre-processing of historical data, profiling and modelling training, and the assessment of model performance and generalization capabilities using cross-checking, etc.\nLinear regressions. Construct linear regression models for [linear data], which are used to predict continuous variables, explain the coefficients of the models and the extent to which each self-variant affects the variable. The Scikit-learn library of Python can be used to construct linear regression models, to compile and predict data, to interpret the coefficients of the models using statistical methods, and to improve the interpretation of linear regression models.\nLogical regressions Please construct a logical regression model [as related to classification problems], predict the classification variables, and assess the model’s classification accuracy, recall rates, etc. Performance indicators. The logical regression model can be constructed using the Python Scikit-learn library, the data can be classified and projected, and the model’s performance assessed using assessment indicators (e.g. accuracy, recall rates, etc.) to improve the accuracy of the logical regression model.\nThe decision tree is designed to construct a decision tree model [data suitable for analysis of the decision tree] for classification or regression tasks, showing the decision tree generation process and decision-making rules. The decision tree model can be constructed using the Scikit-learn library of Python, which can be used to synthesize and predict data, and visualize the decision tree generation process and decision-making rules (e.g. Graphviz) to improve the interpretability of the decision tree model.\n(b) Random forest. Please construct random forest models [data that require an increase in the accuracy of projections], improve the accuracy of projections through integrated learning, and analyse the importance of the characteristics in the models. The Scikit-learn library of Python can be used to construct random forest models, to compile and predict data, to use characteristic importance analysis methods (e.g. Gini coefficients, information gain, etc.) to analyse the importance of characteristics in the models and to increase the accuracy of projections in random forest models.\nNeuronetworks build neuronet models [of complex data] with a strong learning capability, with complex data prediction tasks, detailing the structure and training processes of the neural network. The construction of neuronetwork models (e.g. TensorFlow, PyTorch, etc.) can be done using a deep learning framework, pre-processing, feature engineering and modelling of complex data, and visualization tools (e.g. TensorBoard) to demonstrate the structure and training processes of the neural network, and to improve the interpretability of the neural network models.",
+        "tags": [
+          "Q&A",
+          "Forecast models"
+        ]
+      }
+    }
   }
 ] satisfies PromptEntry[];
 
@@ -2686,5 +5351,5 @@ export const promptCategories = [
 export const promptLibraryStats = {
   "total": 205,
   "categories": 12,
-  "generatedAt": "2026-07-14T23:27:46.076Z"
+  "generatedAt": "2026-07-15T01:00:13.935Z"
 } as const;

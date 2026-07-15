@@ -1,4 +1,14 @@
 export type PromptSourceType = "legacy" | "curated";
+export type PromptLocale = "zh" | "en";
+
+export type PromptTranslation = {
+  title: string;
+  category: string;
+  sourcePath: string;
+  summary: string;
+  prompt: string;
+  tags: string[];
+};
 
 export type PromptEntry = {
   id: string;
@@ -9,6 +19,9 @@ export type PromptEntry = {
   summary: string;
   prompt: string;
   tags: string[];
+  translations?: {
+    en?: PromptTranslation;
+  };
 };
 
 export type PromptSearchInput = {

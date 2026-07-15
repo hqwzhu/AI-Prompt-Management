@@ -1,10 +1,13 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import "./index.css";
 import { promptCategories, promptEntries, promptLibraryStats } from "./data/generated-prompts";
-import { buildPromptCopyText, searchPromptEntries } from "./lib/prompt-utils";
-import type { PromptEntry } from "./types";
-
-type Locale = "zh" | "en";
+import {
+  buildPromptCopyText,
+  getPromptCategoryLabel,
+  localizePromptEntry,
+  searchPromptEntries,
+} from "./lib/prompt-utils";
+import type { PromptEntry, PromptLocale } from "./types";
 
 const copy = {
   zh: {
@@ -56,20 +59,29 @@ function readFavorites() {
 }
 
 function App() {
-  const [locale, setLocale] = useState<Locale>("zh");
+  const [locale, setLocale] = useState<PromptLocale>("zh");
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("全部");
+  const [selectedId, setSelectedId] = useState("");
   const [context, setContext] = useState("");
   const [favorites, setFavorites] = useState<Set<string>>(() => readFavorites());
   const [copiedId, setCopiedId] = useState("");
   const t = copy[locale];
 
   const filtered = useMemo(
-    () => searchPromptEntries(promptEntries, { query, category }),
-    [category, query],
+    () => searchPromptEntries(promptEntries, { query, category }, locale),
+    [category, locale, query],
   );
-  const selected = filtered[0] ?? promptEntries[0];
-  const favoriteEntries = promptEntries.filter((entry) => favorites.has(entry.id)).slice(0, 6);
+  const selectedEntry = filtered.find((entry) => entry.id === selectedId) ?? filtered[0] ?? promptEntries[0];
+  const selected = localizePromptEntry(selectedEntry, locale);
+  const favoriteEntries = promptEntries
+    .filter((entry) => favorites.has(entry.id))
+    .slice(0, 6)
+    .map((entry) => localizePromptEntry(entry, locale));
+
+  useEffect(() => {
+    document.title = t.product;
+  }, [t.product]);
 
   function toggleFavorite(entry: PromptEntry) {
     const next = new Set(favorites);
@@ -83,7 +95,7 @@ function App() {
   }
 
   async function copyPrompt(entry: PromptEntry) {
-    const text = buildPromptCopyText(entry, context);
+    const text = buildPromptCopyText(entry, context, locale);
     await navigator.clipboard.writeText(text);
     setCopiedId(entry.id);
     window.setTimeout(() => setCopiedId(""), 1400);
@@ -119,16 +131,25 @@ function App() {
         </div>
 
         <nav className="category-list" aria-label="Prompt categories">
-          {[t.all, ...promptCategories].map((item) => {
-            const active = category === item || (category === "全部" && item === t.all);
+          {[
+            { value: "全部", label: t.all },
+            ...promptCategories.map((item) => ({
+              value: item,
+              label: getPromptCategoryLabel(promptEntries, item, locale),
+            })),
+          ].map((item) => {
+            const active = category === item.value;
             return (
               <button
-                key={item}
+                key={item.value}
                 type="button"
                 className={active ? "category-button active" : "category-button"}
-                onClick={() => setCategory(item === t.all ? "全部" : item)}
+                onClick={() => {
+                  setCategory(item.value);
+                  setSelectedId("");
+                }}
               >
-                <span>{item}</span>
+                <span>{item.label}</span>
               </button>
             );
           })}
@@ -150,7 +171,7 @@ function App() {
           </div>
           <div className="locale-switch" aria-label="Language">
             <button type="button" className={locale === "zh" ? "active" : ""} onClick={() => setLocale("zh")}>
-              中文
+              {locale === "en" ? "ZH" : "中文"}
             </button>
             <button type="button" className={locale === "en" ? "active" : ""} onClick={() => setLocale("en")}>
               EN
@@ -162,19 +183,13 @@ function App() {
           <section className="prompt-list" aria-label="Prompt results">
             {filtered.length ? (
               filtered.map((entry) => (
-                <button
+                <PromptRow
                   key={entry.id}
-                  type="button"
-                  className={entry.id === selected.id ? "prompt-row active" : "prompt-row"}
-                  onClick={() => {
-                    setQuery(entry.title);
-                    setCategory(entry.category);
-                  }}
-                >
-                  <span>{entry.category}</span>
-                  <strong>{entry.title}</strong>
-                  <small>{entry.summary}</small>
-                </button>
+                  entry={entry}
+                  locale={locale}
+                  selected={entry.id === selectedEntry.id}
+                  onSelect={() => setSelectedId(entry.id)}
+                />
               ))
             ) : (
               <p className="empty-state">{t.empty}</p>
@@ -187,7 +202,7 @@ function App() {
                 <span>{selected.category}</span>
                 <h3>{selected.title}</h3>
               </div>
-              <button type="button" className="ghost-button" onClick={() => toggleFavorite(selected)}>
+              <button type="button" className="ghost-button" onClick={() => toggleFavorite(selectedEntry)}>
                 {favorites.has(selected.id) ? t.favorites : t.favoriteHint}
               </button>
             </div>
@@ -206,7 +221,7 @@ function App() {
             <pre className="prompt-preview">{selected.prompt}</pre>
 
             <div className="detail-actions">
-              <button type="button" className="primary-button" onClick={() => copyPrompt(selected)}>
+              <button type="button" className="primary-button" onClick={() => copyPrompt(selectedEntry)}>
                 {copiedId === selected.id ? t.copied : t.copy}
               </button>
               <span>
@@ -240,6 +255,28 @@ function Stat({ value, label }: { value: string | number; label: string }) {
       <strong>{value}</strong>
       <span>{label}</span>
     </div>
+  );
+}
+
+function PromptRow({
+  entry,
+  locale,
+  selected,
+  onSelect,
+}: {
+  entry: PromptEntry;
+  locale: PromptLocale;
+  selected: boolean;
+  onSelect: () => void;
+}) {
+  const localizedEntry = localizePromptEntry(entry, locale);
+
+  return (
+    <button type="button" className={selected ? "prompt-row active" : "prompt-row"} onClick={onSelect}>
+      <span>{localizedEntry.category}</span>
+      <strong>{localizedEntry.title}</strong>
+      <small>{localizedEntry.summary}</small>
+    </button>
   );
 }
 
