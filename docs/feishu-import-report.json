@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-07-15T04:12:11.857Z",
+  "sources": {
+    "work": 157,
+    "life": 166,
+    "selectedRootDirectories": 45,
+    "selectedAttachments": 137,
+    "selectedPages": 0,
+    "selectedPdfFiles": 111
+  },
+  "candidates": 434,
+  "lowContentSkipped": [
+    "驯鹿先生"
+  ],
+  "unsafeSkipped": [
+    "越狱版本提示词"
+  ],
+  "duplicates": 14,
+  "usable": 418,
+  "categoryCounts": {
+    "编程": 65,
+    "红书": 30,
+    "论文": 38,
+    "生活": 58,
+    "视频": 33,
+    "图片": 31,
+    "问答": 52,
+    "小说": 11,
+    "写作": 36,
+    "运营": 36,
+    "职场": 28
+  },
+  "skippedPdfFiles": [
+    {
+      "title": "【deepseek指令】SPSS分析.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文降重 AI提示词.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文框架 AI提示词.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文框架架构工程师.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文文献阶段 AI提示词.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文写作全流程（选题→文献→框架→降重）简易版提示词.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文选题阶段 AI提示词.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术论文语言优化与查重规避  .pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】学术文献阶段 分析师 .pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "如何正确使用ChatGPT写西语论文？.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "Claude 常用提示词框架与实战技巧.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】直播教练和复盘专家（语音转文本记录，系统性分析主播表现并提供可执行改进方案）.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【deepseek指令】飞书多维表格 AI提示词.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "Excel 日常使用的宏代码.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "Excel+豆包AI处理+deepseek复查.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "如何利用kimi 制作PPT.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "使用chatGPT高效使用Excel.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "如何利用kimi制作思维导图.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】AI英语教师（适合3-8岁）.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】AI英语教师（针对豆包AI优化）.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】Runway视频生成（强化动作合理性、降低模型理解误差、物理规律约束）.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "【AI指令】视频脚本分镜提示词 示例与用法（飞书多维表格、MidJourney）.pdf",
+      "error": "File has not been decrypted"
+    },
+    {
+      "title": "如何用AI将短视频纳入知识管理.pdf",
+      "error": "File has not been decrypted"
+    }
+  ],
+  "unavailableAttachments": [
+    {
+      "rootTitle": "09-【图表绘制】指令&教程",
+      "title": "ECharts 图表库地址.txt",
+      "error": "No downloadable PDF preview was available."
+    },
+    {
+      "rootTitle": "09-【图表绘制】指令&教程",
+      "title": "HTML实时预览简单工具.html",
+      "error": "No downloadable PDF preview was available."
+    },
+    {
+      "rootTitle": "42-【绘画专业】指令",
+      "title": "253个艺术家名字和风格展示对比.pdf",
+      "error": "Skipped non-prompt reference file larger than 10 MB."
+    }
+  ],
+  "duplicateTitles": [
+    "书评老师",
+    "小红书文案大师",
+    "美文排版",
+    "问题解决专家",
+    "著名科普专家",
+    "性格测试专家",
+    "用户痛点抓取",
+    "“要求”要适度",
+    "性格类型测试专家",
+    "性格分析助手",
+    "头脑风暴",
+    "哲学翻译团队",
+    "爆款作品黄金发布时间指令",
+    "对话训练"
+  ]
+}

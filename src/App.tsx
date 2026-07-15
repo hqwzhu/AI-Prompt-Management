@@ -72,8 +72,8 @@ function App() {
     () => searchPromptEntries(promptEntries, { query, category }, locale),
     [category, locale, query],
   );
-  const selectedEntry = filtered.find((entry) => entry.id === selectedId) ?? filtered[0] ?? promptEntries[0];
-  const selected = localizePromptEntry(selectedEntry, locale);
+  const selectedEntry = filtered.find((entry) => entry.id === selectedId) ?? filtered[0] ?? null;
+  const selected = selectedEntry ? localizePromptEntry(selectedEntry, locale) : null;
   const favoriteEntries = promptEntries
     .filter((entry) => favorites.has(entry.id))
     .slice(0, 6)
@@ -167,7 +167,7 @@ function App() {
         <header className="topbar">
           <div>
             <p className="section-kicker">Prompt Workspace</p>
-            <h2>{selected.title}</h2>
+            <h2>{selected?.title ?? t.empty}</h2>
           </div>
           <div className="locale-switch" aria-label="Language">
             <button type="button" className={locale === "zh" ? "active" : ""} onClick={() => setLocale("zh")}>
@@ -187,7 +187,7 @@ function App() {
                   key={entry.id}
                   entry={entry}
                   locale={locale}
-                  selected={entry.id === selectedEntry.id}
+                  selected={entry.id === selectedEntry?.id}
                   onSelect={() => setSelectedId(entry.id)}
                 />
               ))
@@ -197,37 +197,43 @@ function App() {
           </section>
 
           <section className="prompt-detail">
-            <div className="detail-head">
-              <div>
-                <span>{selected.category}</span>
-                <h3>{selected.title}</h3>
-              </div>
-              <button type="button" className="ghost-button" onClick={() => toggleFavorite(selectedEntry)}>
-                {favorites.has(selected.id) ? t.favorites : t.favoriteHint}
-              </button>
-            </div>
+            {selectedEntry && selected ? (
+              <>
+                <div className="detail-head">
+                  <div>
+                    <span>{selected.category}</span>
+                    <h3>{selected.title}</h3>
+                  </div>
+                  <button type="button" className="ghost-button" onClick={() => toggleFavorite(selectedEntry)}>
+                    {favorites.has(selected.id) ? t.favorites : t.favoriteHint}
+                  </button>
+                </div>
 
-            <p className="summary">{selected.summary}</p>
+                <p className="summary">{selected.summary}</p>
 
-            <label className="context-box">
-              <span>{t.context}</span>
-              <textarea
-                value={context}
-                onChange={(event) => setContext(event.target.value)}
-                placeholder={t.contextPlaceholder}
-              />
-            </label>
+                <label className="context-box">
+                  <span>{t.context}</span>
+                  <textarea
+                    value={context}
+                    onChange={(event) => setContext(event.target.value)}
+                    placeholder={t.contextPlaceholder}
+                  />
+                </label>
 
-            <pre className="prompt-preview">{selected.prompt}</pre>
+                <pre className="prompt-preview">{selected.prompt}</pre>
 
-            <div className="detail-actions">
-              <button type="button" className="primary-button" onClick={() => copyPrompt(selectedEntry)}>
-                {copiedId === selected.id ? t.copied : t.copy}
-              </button>
-              <span>
-                {t.source}: {selected.sourcePath}
-              </span>
-            </div>
+                <div className="detail-actions">
+                  <button type="button" className="primary-button" onClick={() => copyPrompt(selectedEntry)}>
+                    {copiedId === selected.id ? t.copied : t.copy}
+                  </button>
+                  <span>
+                    {t.source}: {selected.sourcePath}
+                  </span>
+                </div>
+              </>
+            ) : (
+              <p className="empty-state">{t.empty}</p>
+            )}
           </section>
         </div>
 

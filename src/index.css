@@ -370,6 +370,7 @@ button {
   background: #0f766e;
   color: #ffffff;
   font-weight: 900;
+  white-space: nowrap;
 }
 
 .primary-button:hover,

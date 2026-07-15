@@ -6,12 +6,16 @@
   "author": "ENHE AI / HU <ENHEAI.life@protonmail.com>",
   "type": "module",
   "scripts": {
+    "collect:feishu": "node scripts/collect-feishu-prompts.mjs",
+    "extract:feishu-pdfs": "python scripts/extract-feishu-pdfs.py",
+    "build:feishu-prompts": "tsx scripts/build-feishu-prompts.ts",
+    "translate:feishu": "python -X utf8 scripts/translate-feishu-prompts.py",
     "dev": "vite",
     "generate:prompts": "tsx scripts/import-legacy-prompts.ts",
     "test": "vitest run",
     "build": "tsc -b && vite build",
-    "desktop:dev": "npm run build && electron .",
-    "desktop:pack": "npm run build && electron-builder --win portable --x64",
+    "desktop:dev": "npm run generate:prompts && npm run build && electron .",
+    "desktop:pack": "npm run generate:prompts && npm run build && electron-builder --config electron-builder.config.cjs --win portable --x64",
     "lint": "oxlint",
     "preview": "vite preview"
   },

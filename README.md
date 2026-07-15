@@ -15,7 +15,7 @@ ENHE AI提示词管理系统是一个免费的 AI 提示词工作台，用于把
 
 ## 功能
 
-- 205 条旧版提示词内容已导入为结构化数据。
+- 623 条中英文提示词已整理为结构化数据，其中包含 205 条旧版提示词和 418 条合规飞书精选提示词。
 - 搜索提示词标题、摘要、正文和标签。
 - 按分类筛选。
 - 中英文界面切换。
@@ -73,6 +73,29 @@ npm run generate:prompts
 - `src/data/generated-prompts.ts`
 - `public/prompts.json`
 
+## 飞书精选提示词
+
+飞书采集、PDF 文本提取、清洗、去重和离线翻译脚本位于 `scripts/`。原始下载文件和翻译缓存保存在 `prompt-source/curated/feishu-raw/`，该目录不会提交到 GitHub；产品只提交清洗后的 `prompt-source/curated/feishu.json` 和不包含内部来源链接的导入报告。
+
+已有采集缓存时，可按以下顺序重建：
+
+```bash
+python -m pip install -r requirements-feishu.txt
+npm run extract:feishu-pdfs
+npm run build:feishu-prompts
+npm run translate:feishu
+npm run generate:prompts
+```
+
+需要重新采集飞书源数据时，先通过环境变量传入三个源地址，避免把内部链接写入公开仓库：
+
+```powershell
+$env:FEISHU_SOURCE_URLS='{"work":"https://tenant.feishu.cn/wiki/work-token","life":"https://tenant.feishu.cn/wiki/life-token","selected":"https://tenant.feishu.cn/wiki/selected-token"}'
+npm run collect:feishu
+```
+
+翻译脚本首次运行时会下载 `Helsinki-NLP/opus-mt-zh-en` 模型。模型已经缓存在本机时，可设置 `FEISHU_TRANSLATION_OFFLINE=1` 强制离线加载。
+
 ## 验证
 
 ```bash
@@ -100,7 +123,7 @@ Creator: ENHE AI / HU
 
 ## Features
 
-- 205 legacy prompt files imported as structured data.
+- 623 bilingual structured prompts: 205 legacy prompts and 418 safety-reviewed Feishu prompts.
 - Search title, summary, body, and tags.
 - Filter by category.
 - Chinese and English UI.
@@ -117,6 +140,14 @@ prompt-source/聊天文本
 ```
 
 Set `LEGACY_PROMPT_SOURCE` only when you intentionally want to import another prompt library.
+
+## Curated Feishu Prompts
+
+Collection, PDF extraction, cleanup, deduplication, and offline translation scripts live in `scripts/`. Raw downloads and translation caches stay under the ignored `prompt-source/curated/feishu-raw/` directory. Only the cleaned prompt dataset and a report without internal source links are committed.
+
+Set `FEISHU_SOURCE_URLS` to a JSON object containing `work`, `life`, and `selected` wiki URLs before running `npm run collect:feishu`. This keeps private source links out of the public repository.
+
+Install the ingestion dependencies with `python -m pip install -r requirements-feishu.txt`. The translation script downloads `Helsinki-NLP/opus-mt-zh-en` on first use; set `FEISHU_TRANSLATION_OFFLINE=1` only when the model is already cached.
 
 ## Validation
 

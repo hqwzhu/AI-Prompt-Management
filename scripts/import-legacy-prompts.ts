@@ -1,4 +1,4 @@
-import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { extname, join, relative } from "node:path";
 import { TextDecoder } from "node:util";
 import { parseLegacyPromptFile } from "../src/lib/prompt-utils";
@@ -7,6 +7,7 @@ import type { PromptEntry, PromptTranslation } from "../src/types";
 const defaultSourceRoot = join(process.cwd(), "prompt-source", "聊天文本");
 const sourceRoot = process.env.LEGACY_PROMPT_SOURCE || defaultSourceRoot;
 const translationPath = join(process.cwd(), "prompt-source", "translations", "en.json");
+const curatedPath = join(process.cwd(), "prompt-source", "curated", "feishu.json");
 const supportedExtensions = new Set([".txt", ".csv", ".csw"]);
 const englishTranslations = JSON.parse(readFileSync(translationPath, "utf8")) as Record<
   string,
@@ -65,7 +66,7 @@ function writeGeneratedFiles(entries: PromptEntry[]) {
   writeFileSync(join(publicDir, "prompts.json"), JSON.stringify({ stats, categories, entries }, null, 2), "utf8");
 }
 
-const parsedEntries = withUniqueIds(
+const legacyEntries = withUniqueIds(
   walkFiles(sourceRoot)
     .map((fullPath) => {
       const relativePath = relative(sourceRoot, fullPath).replace(/\\/g, "/");
@@ -77,22 +78,41 @@ const parsedEntries = withUniqueIds(
     .filter((entry) => entry.prompt.length > 8),
 );
 
-const missingTranslations = parsedEntries.filter((entry) => !englishTranslations[entry.id]);
+const localizedLegacyEntries = legacyEntries.map((entry) => ({
+  ...entry,
+  translations: {
+    en: englishTranslations[entry.id],
+  },
+}));
+const curatedEntries = existsSync(curatedPath)
+  ? (
+      JSON.parse(readFileSync(curatedPath, "utf8")) as {
+        entries: PromptEntry[];
+      }
+    ).entries
+  : [];
+const entries = [...localizedLegacyEntries, ...curatedEntries];
+const missingTranslations = entries.filter((entry) => !entry.translations?.en);
 if (missingTranslations.length) {
   throw new Error(
     `Missing English translations for: ${missingTranslations.map((entry) => entry.id).join(", ")}`,
   );
 }
 
-const entries = parsedEntries.map((entry) => ({
-  ...entry,
-  translations: {
-    en: englishTranslations[entry.id],
-  },
-}));
+const ids = new Set<string>();
+const duplicateIds = entries.filter((entry) => {
+  if (ids.has(entry.id)) return true;
+  ids.add(entry.id);
+  return false;
+});
+if (duplicateIds.length) {
+  throw new Error(`Duplicate prompt ids: ${duplicateIds.map((entry) => entry.id).join(", ")}`);
+}
 
 writeGeneratedFiles(entries);
 
-console.log(`Imported ${entries.length} prompts from ${sourceRoot}`);
+console.log(`Imported ${legacyEntries.length} legacy prompts from ${sourceRoot}`);
+console.log(`Imported ${curatedEntries.length} curated prompts from ${curatedPath}`);
+console.log(`Generated ${entries.length} prompts in total`);
 console.log(`Generated ${join(process.cwd(), "src", "data", "generated-prompts.ts")}`);
 console.log(`Generated ${join(process.cwd(), "public", "prompts.json")}`);
