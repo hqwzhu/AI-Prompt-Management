@@ -1,7 +1,7 @@
 {
   "name": "ai-prompt-management",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ENHE AI prompt management workspace for web and offline desktop use.",
   "author": "ENHE AI / HU <ENHEAI.life@protonmail.com>",
   "type": "module",
@@ -11,11 +11,11 @@
     "build:feishu-prompts": "tsx scripts/build-feishu-prompts.ts",
     "translate:feishu": "python -X utf8 scripts/translate-feishu-prompts.py",
     "dev": "vite",
-    "generate:prompts": "tsx scripts/import-legacy-prompts.ts",
+    "generate:prompts": "tsx scripts/build-prompt-library.ts",
     "test": "vitest run",
     "build": "tsc -b && vite build",
     "desktop:dev": "npm run generate:prompts && npm run build && electron .",
-    "desktop:pack": "npm run generate:prompts && npm run build && electron-builder --config electron-builder.config.cjs --win portable --x64",
+    "desktop:pack": "npm run generate:prompts && npm run build && electron-builder --config electron-builder.config.cjs --win nsis --x64",
     "lint": "oxlint",
     "preview": "vite preview"
   },
@@ -53,8 +53,21 @@
     },
     "win": {
       "icon": "build/enhe-logo.ico",
-      "target": "portable",
-      "artifactName": "ENHE-AI提示词管理系统-${version}-${arch}.${ext}"
+      "target": "nsis",
+      "artifactName": "ENHE-AI提示词管理系统-安装版-${version}-${arch}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "installerLanguages": [
+        "zh_CN",
+        "en_US"
+      ],
+      "multiLanguageInstaller": true,
+      "shortcutName": "ENHE AI提示词管理系统",
+      "uninstallDisplayName": "ENHE AI提示词管理系统"
     }
   }
 }

@@ -15,7 +15,7 @@ ENHE AI提示词管理系统是一个免费的 AI 提示词工作台，用于把
 
 ## 功能
 
-- 623 条中英文提示词已整理为结构化数据，其中包含 205 条旧版提示词和 418 条合规飞书精选提示词。
+- 418 条合规飞书精选提示词已整理为中英文结构化数据。
 - 搜索提示词标题、摘要、正文和标签。
 - 按分类筛选。
 - 中英文界面切换。
@@ -45,7 +45,7 @@ npm run build
 npm run desktop:dev
 ```
 
-## 打包 Windows 便携版
+## 打包 Windows 安装版
 
 ```bash
 npm run desktop:pack
@@ -53,22 +53,9 @@ npm run desktop:pack
 
 生成文件位于 `release/`。
 
-## 提示词数据导入
+## 提示词数据生成
 
-默认导入目录位于当前项目内：
-
-```text
-E:\AiProject\AI-Prompt-Management\prompt-source\聊天文本
-```
-
-仓库内相对路径为 `prompt-source\聊天文本`，项目不再依赖旧软件目录。也可以通过环境变量指定其他来源：
-
-```bash
-set LEGACY_PROMPT_SOURCE=D:\your\prompt\source
-npm run generate:prompts
-```
-
-导入脚本会读取 `.txt`、`.csv`、`.csw` 文件，生成：
+产品仅使用清洗后的飞书精选数据 `prompt-source/curated/feishu.json`。生成命令会输出：
 
 - `src/data/generated-prompts.ts`
 - `public/prompts.json`
@@ -123,23 +110,13 @@ Creator: ENHE AI / HU
 
 ## Features
 
-- 623 bilingual structured prompts: 205 legacy prompts and 418 safety-reviewed Feishu prompts.
+- 418 safety-reviewed Feishu prompts with complete Chinese and English content.
 - Search title, summary, body, and tags.
 - Filter by category.
 - Chinese and English UI.
 - One-click prompt copy.
 - Favorite prompts.
 - Electron desktop entry.
-
-## Prompt Source
-
-The default source is stored inside this repository:
-
-```text
-prompt-source/聊天文本
-```
-
-Set `LEGACY_PROMPT_SOURCE` only when you intentionally want to import another prompt library.
 
 ## Curated Feishu Prompts
 

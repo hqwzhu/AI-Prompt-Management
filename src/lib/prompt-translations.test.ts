@@ -27,8 +27,8 @@ describe("English prompt library", () => {
       readFileSync(resolve(import.meta.dirname, "..", "..", "public", "prompts.json"), "utf8"),
     ) as { entries: StoredEntry[] };
 
-    expect(data.entries).toHaveLength(623);
-    expect(data.entries.filter((entry) => entry.sourceType === "legacy")).toHaveLength(205);
+    expect(data.entries).toHaveLength(418);
+    expect(data.entries.filter((entry) => entry.sourceType === "legacy")).toHaveLength(0);
     expect(data.entries.filter((entry) => entry.sourceType === "curated")).toHaveLength(418);
 
     for (const entry of data.entries) {
